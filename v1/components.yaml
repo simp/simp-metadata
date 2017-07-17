@@ -32,7 +32,7 @@ components:
         path: simp/rubygem-simp_cli
   binford2k-node_encrypt:
     type: git
-    authoritative: true
+    authoritative: false
     primary_source:
       host: github.com
       path: simp/binford2k-node_encrypt
@@ -42,7 +42,7 @@ components:
         path: simp/binford2k-node_encrypt
   bfraser-grafana:
     type: git
-    authoritative: true
+    authoritative: false
     primary_source:
       host: github.com
       path: simp/puppet-grafana
@@ -52,7 +52,7 @@ components:
         path: simp/bfraser-grafana
   camptocamp-kmod:
     type: git
-    authoritative: true
+    authoritative: false
     primary_source:
       host: github.com
       path: simp/puppet-kmod
@@ -62,7 +62,7 @@ components:
         path: simp/camptocamp-kmod
   elastic-elasticsearch:
     type: git
-    authoritative: true
+    authoritative: false
     primary_source:
       host: github.com
       path: simp/puppet-elasticsearch
@@ -72,7 +72,7 @@ components:
         path: simp/elastic-elasticsearch
   elastic-logstash:
     type: git
-    authoritative: true
+    authoritative: false
     primary_source:
       host: github.com
       path: simp/puppet-logstash
@@ -82,7 +82,7 @@ components:
         path: simp/elastic-logstash
   electrical-file_concat:
     type: git
-    authoritative: true
+    authoritative: false
     primary_source:
       host: github.com
       path: simp/puppet-lib-file_concat
