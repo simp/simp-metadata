@@ -13,6 +13,10 @@ releases:
       ref: 7e724639c8e036d651ec81d59ec67417c3c52eb9
       type: https
       path: "/src/rubygems"
+    binford2k-node_encrypt:
+      ref: 3bcae75e8bd89bf2a7eab0ad2fc1aceafe984d48
+      type: https
+      path: "/src/puppet/modules"
     bfraser-grafana:
       ref: 6d426d5ccc52ff23dbbcfc45290dafd224b5d2bc
       type: https
@@ -22,11 +26,11 @@ releases:
       type: https
       path: "/src/puppet/modules"
     elastic-elasticsearch:
-      ref: 
+      ref: dc6d3fab6ace62701aa3de6e4bb868e24fef0553
       type: https
       path: "/src/puppet/modules"
     elastic-logstash:
-      ref: 
+      ref: f475deaeb6120abc4c56c27cd3ab1ce808391517
       type: https
       path: "/src/puppet/modules"
     electrical-file_concat:

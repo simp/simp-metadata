@@ -30,6 +30,16 @@ components:
       gitlab:
         host: gitlab.com
         path: simp/rubygem-simp_cli
+  binford2k-node_encrypt:
+    type: git
+    authoritative: true
+    primary_source:
+      host: github.com
+      path: simp/binford2k-node_encrypt
+    mirrors:
+      gitlab:
+        host: gitlab.com
+        path: simp/binford2k-node_encrypt
   bfraser-grafana:
     type: git
     authoritative: true
@@ -45,7 +55,7 @@ components:
     authoritative: true
     primary_source:
       host: github.com
-      path: simp/puppet-kmod.git
+      path: simp/puppet-kmod
     mirrors:
       gitlab:
         host: gitlab.com
@@ -445,7 +455,7 @@ components:
     authoritative: true
     primary_source:
       host: github.com
-      path: simp/pupmod-simp-dirtycow.git
+      path: simp/pupmod-simp-dirtycow
     mirrors:
       gitlab:
         host: gitlab.com
@@ -545,7 +555,7 @@ components:
     authoritative: true
     primary_source:
       host: github.com
-      path: simp/pupmod-simp-journald.git
+      path: simp/pupmod-simp-journald
     mirrors:
       gitlab:
         host: gitlab.com
