@@ -30,6 +30,30 @@ components:
       gitlab:
         host: gitlab.com
         path: simp/rubygem-simp_cli
+  simp-adapter:
+    type: git
+    authoritative: true
+    primary_source:
+      host: github.com
+      path: simp/simp-adapter
+  simp-environment:
+    type: git
+    authoritative: true
+    primary_source:
+      host: github.com
+      path: simp/simp-environment-skeleton
+  simp-gpgkeys:
+    type: git
+    authoritative: true
+    primary_source:
+      host: github.com
+      path: simp/simp-gpgkeys
+  simp-utils:
+    type: git
+    authoritative: true
+    primary_source:
+      host: github.com
+      path: simp/simp-utils
   binford2k-node_encrypt:
     type: git
     authoritative: false
