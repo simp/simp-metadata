@@ -10,7 +10,3 @@ script:
   - bundle exec rake validate
 notifications:
   email: false
-rvm:
-  - 2.1.9
-matrix:
-  fast_finish: true
