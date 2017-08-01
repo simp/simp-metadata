@@ -13,7 +13,8 @@ task :yaml_lint do
   yaml_files = []
   Find.find('.') do |path|
     # Ignore dot directories and files
-    if path.split(File::SEPARATOR)[1][0] == '.'
+    tgt_path = path.split(File::SEPARATOR)[1]
+    if tgt_path && (tgt_path[0] == '.')
       Find.prune
       next
     end
