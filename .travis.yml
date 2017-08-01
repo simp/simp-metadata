@@ -1,7 +1,6 @@
 ---
 language: ruby
 sudo: false
-cache: bundler
 before_script:
   - bundle install --path .vendor/bundle
 bundler_args: --without development system_tests
