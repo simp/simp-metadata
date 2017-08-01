@@ -12,6 +12,12 @@ desc 'Lint all YAML files'
 task :yaml_lint do
   yaml_files = []
   Find.find('.') do |path|
+    # Ignore dot directories and files
+    if path.split(File::SEPARATOR)[1][0] == '.'
+      Find.prune
+      next
+    end
+
     if path =~ /\.ya?ml$/
       yaml_files << path
     end
