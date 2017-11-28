@@ -11,7 +11,7 @@ components:
       path: simp/simp-doc
       type: git
     format: git
-    component-type: puppet-module
+    component-type: documentation
   pupmod-simp-rsync:
     authoritative: true
     primary_source:
@@ -35,7 +35,7 @@ components:
       path: simp/rubygem-simp_cli
       type: git
     format: git
-    component-type: puppet-module
+    component-type: rubygem
   binford2k-node_encrypt:
     authoritative: false
     primary_source:
@@ -1391,7 +1391,7 @@ components:
       path: simp/rubygems-simp-rake-helpers
       type: git
     format: git
-    component-type: puppet-module
+    component-type: rubygem
   pupmod-simp-backuppc:
     authoritative: true
     primary_source:
