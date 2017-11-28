@@ -29,7 +29,7 @@ releases:
       ref: ba30f500fb7ffce025f9c80229b98ce11cb110ef
       type: ssh
       path: "/"
-    pupmod-pupmod-simp-apache:
+    pupmod-simp-apache:
       ref: 58fa532e54d623970f8a315f1c071d65c459e9ca
       type: ssh
       path: "/"
@@ -281,7 +281,7 @@ releases:
       ref: 6e0eaa9f77dfba9f38024c6c80cd67757d1f1028
       type: ssh
       path: "/"
-    pupmod-pupmod-simp-simplib:
+    pupmod-simp-simplib:
       ref: 446928360ea287f61034ad370be8c44608b4d5f4
       type: ssh
       path: "/"
@@ -313,7 +313,7 @@ releases:
       ref: 8ff46f3dafc4ef7198dacc6cad9fe7501547cd30
       type: ssh
       path: "/"
-    pupmod-pupmod-simp-sudosh:
+    pupmod-simp-sudosh:
       ref: d9fd0664ffc26f1913cf85934103fe55c673b2de
       type: ssh
       path: "/"
