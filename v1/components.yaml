@@ -1,5 +1,16 @@
 ---
 components:
+  rubygem-simp-cli:
+    authoritative: true
+    component-type: rubygem
+    asset_name: simp-cli
+    locations:
+            - url: https://rubygems.org/downloads
+              type: binary
+              primary: true
+            - url: https://github.com/simp/rubygem-simp-cli
+              type: git
+    component-type: rubygem
   simp-doc:
     authoritative: true
     primary_source:
@@ -24,18 +35,6 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  rubygem-simp-cli:
-    authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/rubygem-simp-cli
-      type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/rubygem-simp_cli
-      type: git
-    format: git
-    component-type: rubygem
   binford2k-node_encrypt:
     authoritative: false
     primary_source:
