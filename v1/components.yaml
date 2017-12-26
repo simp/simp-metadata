@@ -1500,3 +1500,43 @@ components:
       type: git
     format: git
     component-type: puppet-module
+  simp-adapter:
+    format: git
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/simp-adapter
+      primary: true
+      type: git
+  simp-environment-skeleton:
+    format: git
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/simp-environment-skeleton
+      primary: true
+      type: git
+  simp-gpgkeys:
+    format: git
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/simp-gpgkeys
+      primary: true
+      type: git
+  simp-utils:
+    format: git
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/simp-utils
+      primary: true
+      type: git
+  puppetlabs-puppet_authorization:
+    format: git
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/puppetlabs-puppet_authorization.git
+      primary: true
+      type: git
