@@ -1510,7 +1510,7 @@ components:
       type: git
   simp-environment-skeleton:
     format: git
-    component-type: puppet-module
+    component-type: asset
     authoritative: true
     locations:
     - url: https://github.com/simp/simp-environment-skeleton
@@ -1518,7 +1518,7 @@ components:
       type: git
   simp-gpgkeys:
     format: git
-    component-type: puppet-module
+    component-type: asset
     authoritative: true
     locations:
     - url: https://github.com/simp/simp-gpgkeys
@@ -1526,7 +1526,7 @@ components:
       type: git
   simp-utils:
     format: git
-    component-type: puppet-module
+    component-type: asset
     authoritative: true
     locations:
     - url: https://github.com/simp/simp-utils
