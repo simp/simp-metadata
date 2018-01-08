@@ -149,6 +149,7 @@ releases:
       ref: 0adc282a69b3d016049f8146578dff47cd5ef3d5
     pupmod-simp-openscap:
       ref: 9c26e36c57a9ad0451bb0a94440e0cfd62e77179
+      branch: master
     pupmod-simp-pam:
       ref: 40a92d652ecb700674dc12a7bc4d6a3914eb0a27
     pupmod-simp-pki:
