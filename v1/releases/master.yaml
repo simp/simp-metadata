@@ -228,3 +228,7 @@ releases:
       branch: master
     pupmod-simp-simp_consul:
       branch: master
+    solarkennedy-consul:
+      ref: c1d87dc396b71146ac9e37557c3d7f841087d319
+    puppet-archive:
+      ref: 62f42713403dd9102bb1ac687924ea00dab50741
