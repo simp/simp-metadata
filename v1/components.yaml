@@ -1540,3 +1540,19 @@ components:
     - url: https://github.com/simp/puppetlabs-puppet_authorization.git
       primary: true
       type: git
+  pupmod-simp-libkv:
+    locations:
+    - primary: true
+      url: https://github.com/simp/pupmod-simp-libkv
+      type: git
+    component-type: puppet-module
+    authoritiative: true
+    format: git
+  pupmod-simp-simp_consul:
+    locations:
+    - primary: true
+      url: https://github.com/simp/pupmod-simp-simp_consul
+      type: git
+    component-type: puppet-module
+    authoritiative: true
+    format: git
