@@ -1556,3 +1556,17 @@ components:
     component-type: puppet-module
     authoritiative: true
     format: git
+  puppet-archive:
+    component-type: puppet-module
+    authoritative: false
+    locations:
+    - url: https://github.com/simp/puppet-archive
+      type: git
+      primary: true
+  solarkennedy-consul:
+    component-type: puppet-module
+    authoritative: false
+    locations:
+    - url: https://github.com/solarkennedy/puppet-consul
+      type: git
+      primary: true
