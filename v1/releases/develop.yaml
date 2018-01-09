@@ -334,3 +334,7 @@ releases:
     puppet-nsswitch:
       ref: 6a2fee0947932dbde3c96ff75f5e461931366c78
       branch: master
+    pupmod-simp-libkv:
+      branch: develop
+    pupmod-simp-simp_consul:
+      branch: develop
