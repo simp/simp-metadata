@@ -339,6 +339,8 @@ releases:
       ref: bc20f03d23873ca6b4ebeb462c54178296ab2c3e
       branch: develop
     pupmod-simp-simp_consul:
+      tag: 0.1.0
+      ref: 4f97881d17c5ce2e294c42a052386c39ad57921d
       branch: develop
     solarkennedy-consul:
       ref: c1d87dc396b71146ac9e37557c3d7f841087d319
