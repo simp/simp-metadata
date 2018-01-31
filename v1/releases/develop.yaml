@@ -336,7 +336,7 @@ releases:
       branch: master
     pupmod-simp-libkv:
       tag: 0.5.0
-      ref: ce1934eabc2ab11e17b75272e48cc6fc28798847
+      ref: ce1934eabc2ab11e17b75272e48cc6fc2879884
       branch: develop
     pupmod-simp-simp_consul:
       tag: 0.1.0
