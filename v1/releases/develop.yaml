@@ -347,4 +347,4 @@ releases:
     puppet-archive:
       ref: 62f42713403dd9102bb1ac687924ea00dab50741
     simp-metadata:
-      ref: ebd4b46aa4562e9fa0e06da3a676dd5c47c6c1be
+      ref: 971e06b1dfcd2e748fab94e50f64cd4a56d1f9e5
