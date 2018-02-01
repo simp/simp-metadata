@@ -1570,3 +1570,10 @@ components:
     - url: https://github.com/solarkennedy/puppet-consul
       type: git
       primary: true
+  rubygem-simp-metadata:
+    component-type: rubygem
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/rubygem-simp-metadata
+      type: git
+      primary: true
