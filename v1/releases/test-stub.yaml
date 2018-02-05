@@ -4,7 +4,3 @@ releases:
     pupmod-simp-activemq:
       ref: 488f5a0d5b53063c125b93a596626193b71aaa08
       branch: master
-    rubygem-simp-metadata:
-      version: latest
-      compiled: true
-      ref: 3fbf78b14c28c76153a8da0f0337ff1c34e6538e
