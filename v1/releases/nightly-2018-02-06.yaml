@@ -1,6 +1,6 @@
 ---
 releases:
-  test-x1:
+  nightly-2018-02-06:
     simp-doc:
       ref: 79c18f732f6c73b8bff21809c639771a892722f2
       branch: master
@@ -80,7 +80,7 @@ releases:
       ref: 04431f902da8b20527e1cb5eb98ec6f4fefd6429
       branch: master
     puppetlabs-apache:
-      ref: e587f2af793111adab04bb776808f99a09ca092b
+      ref: e267d693abab94f68e3e6a9c1c445e9db83dc070
       branch: master
     puppetlabs-concat:
       ref: 5eadf453a12a3df723380de1b80a2edc9ed10956
@@ -101,9 +101,8 @@ releases:
       ref: ac521566a31a5ba6aca9c6fe3f30c57dd5cf7449
       branch: master
     puppetlabs-mysql:
-      ref: a5497b2bcf9098ed707348193bb7ff2e4ef1e543
+      ref: 9442272f5654b10d1ce33559ebb73d45ff23a128
       branch: master
-      tag: 5.2.1
     puppetlabs-postgresql:
       ref: d022a56b28b2174456fc0f6adc51a4b54493afad
       branch: master
@@ -184,7 +183,7 @@ releases:
       ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
       branch: master
     pupmod-simp-krb5:
-      ref: '04941954129a52863368c3907f674aecd655271a'
+      ref: 04941954129a52863368c3907f674aecd655271a
       branch: master
     pupmod-simp-libreswan:
       ref: f850061118a8decfe62ea2fca25d222b33716cde

@@ -1,6 +1,6 @@
 ---
 releases:
-  test-x3:
+  test-x1:
     simp-doc:
       ref: 79c18f732f6c73b8bff21809c639771a892722f2
       branch: master
@@ -82,7 +82,6 @@ releases:
     puppetlabs-apache:
       ref: e587f2af793111adab04bb776808f99a09ca092b
       branch: master
-      tag: 2.3.1
     puppetlabs-concat:
       ref: 5eadf453a12a3df723380de1b80a2edc9ed10956
       branch: master
@@ -185,7 +184,7 @@ releases:
       ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
       branch: master
     pupmod-simp-krb5:
-      ref: '04941954129a52863368c3907f674aecd655271a'
+      ref: 04941954129a52863368c3907f674aecd655271a
       branch: master
     pupmod-simp-libreswan:
       ref: f850061118a8decfe62ea2fca25d222b33716cde
