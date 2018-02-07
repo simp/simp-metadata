@@ -80,7 +80,7 @@ releases:
       ref: 04431f902da8b20527e1cb5eb98ec6f4fefd6429
       branch: master
     puppetlabs-apache:
-      ref: e267d693abab94f68e3e6a9c1c445e9db83dc070
+      ref: e587f2af793111adab04bb776808f99a09ca092b
       branch: master
     puppetlabs-concat:
       ref: 5eadf453a12a3df723380de1b80a2edc9ed10956
@@ -184,7 +184,7 @@ releases:
       ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
       branch: master
     pupmod-simp-krb5:
-      ref: '04941954129a52863368c3907f674aecd655271a'
+      ref: 04941954129a52863368c3907f674aecd655271a
       branch: master
     pupmod-simp-libreswan:
       ref: f850061118a8decfe62ea2fca25d222b33716cde
