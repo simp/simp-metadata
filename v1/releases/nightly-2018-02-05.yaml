@@ -1,6 +1,6 @@
 ---
 releases:
-  nightly-2018-02-07:
+  nightly-2018-02-05:
     simp-doc:
       ref: 79c18f732f6c73b8bff21809c639771a892722f2
       branch: master
@@ -172,7 +172,6 @@ releases:
     pupmod-simp-iptables:
       ref: 0df308fdfd92d9bbff3f90574955ca7e612cf5ff
       branch: master
-      tag: 6.2.0
     pupmod-simp-issue:
       ref: 31fd9b22d3085d1c34d4d208d73b23a8094fc4ab
       branch: master
@@ -183,7 +182,7 @@ releases:
       ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
       branch: master
     pupmod-simp-krb5:
-      ref: '04941954129a52863368c3907f674aecd655271a'
+      ref: 04941954129a52863368c3907f674aecd655271a
       branch: master
     pupmod-simp-libreswan:
       ref: f850061118a8decfe62ea2fca25d222b33716cde
