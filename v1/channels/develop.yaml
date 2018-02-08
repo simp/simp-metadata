@@ -186,7 +186,7 @@ releases:
       branch: master
       tag: 0.6.0
     pupmod-simp-krb5:
-      ref: 04941954129a52863368c3907f674aecd655271a
+      ref: '04941954129a52863368c3907f674aecd655271a'
       branch: master
     pupmod-simp-libreswan:
       ref: f850061118a8decfe62ea2fca25d222b33716cde
