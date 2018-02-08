@@ -122,7 +122,7 @@ releases:
     pupmod-simp-journald:
       ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
     pupmod-simp-krb5:
-      ref: '04941954129a52863368c3907f674aecd655271a'
+      ref: 04941954129a52863368c3907f674aecd655271a
     pupmod-simp-libreswan:
       ref: f850061118a8decfe62ea2fca25d222b33716cde
     pupmod-simp-libvirt:
