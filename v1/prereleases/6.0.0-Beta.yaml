@@ -406,7 +406,7 @@ releases:
       type: https
       path: "/src/puppet/modules"
     pupmod-simp-vnc:
-      ref: '123456789'
+      ref: 628b82476a97a091e673f72cadb89790bda77f30
       type: https
       path: "/src/puppet/modules"
     pupmod-simp-vsftpd:
