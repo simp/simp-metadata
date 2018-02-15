@@ -53,7 +53,7 @@ releases:
       ref: b48597b56a48aa4cbae2f3866d32a67d6950c79b
       branch: master
     augeasproviders_mounttab:
-      ref: 670e8eb3df1297735da50d1ff5ec10c547acf00c
+      ref: 169d2cd9730059fb4dab983b864ba1abab73ed14
       branch: master
     augeasproviders_nagios:
       ref: 4af1337ecbedfd1f8e79084c919b25a25b3f7d62
