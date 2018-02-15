@@ -23,7 +23,7 @@ releases:
       ref: 893fdb91c653d53ad4686aeb35c39357e38e4ac5
       branch: master
     puppet-grafana:
-      ref: 6d426d5ccc52ff23dbbcfc45290dafd224b5d2bc
+      ref: ec2403fb738f316cc8536ce5ce339f6827282cfa
       branch: master
     puppet-kmod:
       tag: 2.2.0
@@ -186,7 +186,7 @@ releases:
       branch: master
       tag: 0.6.0
     pupmod-simp-krb5:
-      ref: '04941954129a52863368c3907f674aecd655271a'
+      ref: 04941954129a52863368c3907f674aecd655271a
       branch: master
     pupmod-simp-libreswan:
       ref: f850061118a8decfe62ea2fca25d222b33716cde
