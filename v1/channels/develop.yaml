@@ -187,7 +187,7 @@ releases:
       branch: master
       tag: 0.6.0
     pupmod-simp-krb5:
-      ref: 04941954129a52863368c3907f674aecd655271a
+      ref: '04941954129a52863368c3907f674aecd655271a'
       branch: master
     pupmod-simp-libreswan:
       ref: f850061118a8decfe62ea2fca25d222b33716cde
@@ -354,7 +354,7 @@ releases:
     rubygem-simp-metadata:
       version: latest
       compiled: true
-      ref: 98760f91abb43fc71edd5658843fc18379dec585
+      ref: d1d88b998b595f6cdc649db6c088bd4b47efd935
       tag: 0.3.0
     rubygem-simp-rake-helpers:
       ref: 613339fcb3fe51d695375cd2b1718913e56aaf80
