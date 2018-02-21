@@ -25,6 +25,7 @@ releases:
     puppet-grafana:
       ref: 3f432205c3467b4614de47f488b1f94646bc3426
       branch: master
+      tag: v4.1.1
     puppet-kmod:
       tag: 2.2.0
       branch: master
