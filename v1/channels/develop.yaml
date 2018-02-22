@@ -374,3 +374,5 @@ releases:
           set-write-url                         view/update/create a component
           update                                updates a components attributesa
     : tag: 0.2.6
+    a:
+      tag: 0.2.6
