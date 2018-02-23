@@ -359,3 +359,5 @@ releases:
       tag: 0.3.7
     rubygem-simp-rake-helpers:
       ref: 613339fcb3fe51d695375cd2b1718913e56aaf80
+    simp_windows:
+      tag: 0.2.6
