@@ -272,7 +272,7 @@ releases:
       ref: dd20ab6e6cca10fd18df3c83653636d262bad7a8
       branch: master
     pupmod-simp-simp_logstash:
-      ref: d78a6188f5ad6cdf8e0a4e8083b833d2432cdddb
+      ref: 315eb9cb2cc37214c2fbdf20beeaca67e064fbc7
       branch: master
     pupmod-simp-simp_options:
       ref: 774fad86b9fc0664b39d1366b95fb5e3f8799165
