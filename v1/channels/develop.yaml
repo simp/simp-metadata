@@ -356,6 +356,6 @@ releases:
       version: latest
       compiled: true
       ref: '09da4fcb6d559d386bb5d65c7328e3fcd2e83469'
-      tag: 0.3.5
+      tag: 0.3.6
     rubygem-simp-rake-helpers:
       ref: 613339fcb3fe51d695375cd2b1718913e56aaf80
