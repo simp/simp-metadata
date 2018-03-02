@@ -224,7 +224,7 @@ releases:
       ref: 0c79577630e86b6e2859738a04d65e4489ed29cd
       branch: master
     pupmod-simp-simp_openldap:
-      ref: 208128e799f025cede61c2a56d11c9b73bb489c2
+      ref: ea964ecf68ce5426480f2338ebcb3e053cbb4298
       branch: master
     pupmod-simp-openscap:
       ref: 9c26e36c57a9ad0451bb0a94440e0cfd62e77179
