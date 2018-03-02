@@ -123,7 +123,7 @@ releases:
       ref: 66ec8df52c867252a742c8023ddf176105147dc3
       branch: master
     pupmod-simp-activemq:
-      ref: 488f5a0d5b53063c125b93a596626193b71aaa08
+      ref: 9698bf5ad5263f4895bfd19b7736f2bee0a30baa
       branch: master
     pupmod-simp-aide:
       ref: 57a04d9f6e179caddfc103ee5da2ccc9282ded2e
