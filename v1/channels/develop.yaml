@@ -181,7 +181,7 @@ releases:
       ref: 31fd9b22d3085d1c34d4d208d73b23a8094fc4ab
       branch: master
     pupmod-simp-jenkins:
-      ref: b3b024b8246c8c4445c8b97404c994f7aada6384
+      ref: 3d5ada01a30a2e0021c858ab9271f14a9e2db365
       branch: master
     pupmod-simp-journald:
       ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
