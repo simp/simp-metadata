@@ -1572,6 +1572,7 @@ components:
       primary: true
   rubygem-simp-metadata:
     component-type: rubygem
+    gem_name: simp-metadata
     authoritative: true
     locations:
     - url: https://github.com/simp/rubygem-simp-metadata
