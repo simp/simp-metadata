@@ -353,7 +353,6 @@ releases:
     puppet-archive:
       ref: 62f42713403dd9102bb1ac687924ea00dab50741
     rubygem-simp-metadata:
-      version: latest
       compiled: true
       ref: 81c5ad347eec5da04a160fff83780d185915138b
       tag: 0.3.7
