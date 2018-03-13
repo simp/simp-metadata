@@ -218,7 +218,7 @@ releases:
       ref: 9b895dd34fafe7db7f6062aa1d813ed975ceac43
       branch: master
     pupmod-simp-ntpd:
-      ref: 45e99da3087da21df1f2af0ceaaae7c170e80180
+      ref: 20f654f539c3075264d9a54f4eb8fb0047c4cf31
       branch: master
     pupmod-simp-oddjob:
       ref: 0c79577630e86b6e2859738a04d65e4489ed29cd
