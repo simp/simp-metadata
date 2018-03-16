@@ -358,5 +358,5 @@ releases:
       ref: 8be55e11cacf1ce7de0c42d77a0b51c0f7498915
       tag: 0.3.7
     rubygem-simp-rake-helpers:
-      ref: a83f2165b010f4d93114c7432166e597c171aeac
+      ref: 162a233774e5f0ecffc802c90103b1ddeceaf691
       tag: 5.4.1
