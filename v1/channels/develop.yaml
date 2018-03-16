@@ -2,7 +2,7 @@
 releases:
   develop:
     simp-doc:
-      ref: 592f01cf719f894b32b262b17c3fcf57823bb6b8
+      ref: 0e544b7516e981ccadbe25c91a4d1dee7a9b3ba4
       branch: master
     pupmod-simp-rsync:
       ref: 0b9dda3625d102967fb80cc956ee309c3b69f135
