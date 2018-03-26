@@ -295,7 +295,7 @@ releases:
       branch: master
       tag: 6.3.0
     pupmod-simp-sssd:
-      ref: 20634ad343630f44c1c72e33b901ff2d555341e6
+      ref: 18ec2b480af014216addfb8241f38d5de53a629f
       branch: master
     pupmod-simp-stunnel:
       ref: f99153d299a497c21dda55c0c8568bf3c2c0fa1b
