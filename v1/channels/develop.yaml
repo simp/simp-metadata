@@ -25,7 +25,7 @@ releases:
     puppet-grafana:
       ref: bb106f5c511ea4f6c152d91c3a9be1344b168a7a
       branch: master
-      tag: simp-2.5.0
+      tag: v4.1.2-enterprise
     puppet-kmod:
       tag: 2.2.0
       branch: master
