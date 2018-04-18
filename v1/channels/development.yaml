@@ -25,7 +25,6 @@ releases:
     puppet-grafana:
       ref: bb106f5c511ea4f6c152d91c3a9be1344b168a7a
       branch: master
-      tag: v4.1.2-enterprise
     puppet-kmod:
       tag: 2.2.0
       branch: master
@@ -56,7 +55,6 @@ releases:
     augeasproviders_mounttab:
       ref: 169d2cd9730059fb4dab983b864ba1abab73ed14
       branch: master
-      tag: 2.0.3
     augeasproviders_nagios:
       ref: 4af1337ecbedfd1f8e79084c919b25a25b3f7d62
       branch: master
@@ -81,11 +79,9 @@ releases:
     puppet-gpasswd:
       ref: 5859d88cea1f9841dda6cca321c9d106e9f0559a
       branch: master
-      tag: 1.0.5
     puppetlabs-apache:
       ref: e587f2af793111adab04bb776808f99a09ca092b
       branch: master
-      tag: 2.3.1
     puppetlabs-concat:
       ref: 5eadf453a12a3df723380de1b80a2edc9ed10956
       branch: master
@@ -107,7 +103,6 @@ releases:
     puppetlabs-mysql:
       ref: a5497b2bcf9098ed707348193bb7ff2e4ef1e543
       branch: master
-      tag: simp-2.2.3
     puppetlabs-postgresql:
       ref: d022a56b28b2174456fc0f6adc51a4b54493afad
       branch: master
@@ -187,7 +182,6 @@ releases:
     pupmod-simp-journald:
       ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
       branch: master
-      tag: 0.6.0
     pupmod-simp-krb5:
       ref: '04941954129a52863368c3907f674aecd655271a'
       branch: master
@@ -218,7 +212,6 @@ releases:
     pupmod-simp-nfs:
       ref: b8b8fa91d589fa57497869aa52a6438f3dbfac20
       branch: master
-      tag: 6.1.0
     pupmod-simp-ntpd:
       ref: 20f654f539c3075264d9a54f4eb8fb0047c4cf31
       branch: master
@@ -246,7 +239,6 @@ releases:
     pupmod-simp-pupmod:
       ref: 88009f92b670ab222625fde75b5cd13304451a70
       branch: master
-      tag: 7.5.0
     puppetlabs-puppetdb:
       ref: 3718c588cf4e40c450dfaae16afc1aac6ad6cb88
       branch: master
@@ -262,7 +254,6 @@ releases:
     pupmod-simp-simp:
       ref: 535e5bc91c3106924571564a1f29bba001772816
       branch: master
-      tag: 4.4.1
     pupmod-simp-simpcat:
       ref: eeaa2e7e7f14c45f9b6a3f83c1fec86f03d41864
       branch: master
@@ -296,15 +287,12 @@ releases:
     pupmod-simp-ssh:
       ref: b1280e4564b8175780aa4b376ca1b9971cd3afdb
       branch: master
-      tag: 6.3.0
     pupmod-simp-sssd:
       ref: 4893318ab1211daaa89f77ed1a822b2c87e36d9b
       branch: master
-      tag: 6.1.1
     pupmod-simp-stunnel:
       ref: cb6bdfbce4abea1f385aee18c1e56422fec4af2a
       branch: master
-      tag: 6.3.1
     pupmod-simp-sudo:
       ref: e53f9a98238433b26573ae32887f2122af2118a5
       branch: master
@@ -348,11 +336,9 @@ releases:
       ref: 6a2fee0947932dbde3c96ff75f5e461931366c78
       branch: master
     pupmod-simp-libkv:
-      tag: 0.6.1f
       ref: de631cc5c485fd872c719955b780861e76fea6d5
       branch: develop
     pupmod-simp-simp_consul:
-      tag: 0.1.0
       ref: 4f97881d17c5ce2e294c42a052386c39ad57921d
       branch: develop
     solarkennedy-consul:
@@ -362,7 +348,5 @@ releases:
     rubygem-simp-metadata:
       compiled: true
       ref: 23c18d85744d8a8d330bd73ffba9411805437d61
-      tag: 0.3.14
     rubygem-simp-rake-helpers:
       ref: a8820b38ff84dccdd1204326aa55d18c610a3051
-      tag: 5.4.3
