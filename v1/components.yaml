@@ -1379,7 +1379,7 @@ components:
       path: simp/simp_rsync
       type: git
     format: git
-    component-type: puppet-module
+    component-type: rpm
   rubygem-simp-rake-helpers:
     authoritative: true
     primary_source:
