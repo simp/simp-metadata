@@ -1502,7 +1502,7 @@ components:
     component-type: puppet-module
   simp-adapter:
     format: git
-    component-type: puppet-module
+    component-type: asset
     authoritative: true
     locations:
     - url: https://github.com/simp/simp-adapter
