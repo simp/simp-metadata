@@ -143,7 +143,7 @@ releases:
       ref: c0e603c9af7ef72c3657a759ac450d2682b2fa64
       branch: master
     pupmod-simp-compliance_markup:
-      ref: 3662862e38b9a22e62ceb7c4014a70ceb87605e0
+      ref: 72292dd87e0b1b1fdcd9cb30b0204a336ecc3b4e
       branch: master
     pupmod-simp-cron:
       ref: 3813e45a67c21ee35f1afbe24f6783573d4f9f0a
