@@ -229,7 +229,7 @@ releases:
     pupmod-simp-jenkins:
       ref: 3d5ada01a30a2e0021c858ab9271f14a9e2db365
       branch: master
-      tag: 3d5ada0
+      tag: 6.0.1
     pupmod-simp-journald:
       ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
       branch: master
