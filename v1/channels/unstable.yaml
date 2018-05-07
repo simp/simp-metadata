@@ -2,33 +2,41 @@
 releases:
   unstable:
     simp-core:
-      ref: e799fb301e001acbce2224d62136db4246558415
+      ref: 197843ec92b9a9c0955ee3a8b614d389eb6271be
       branch: master
+      tag: 6.1.0-0
     simp-doc:
-      ref: 0e544b7516e981ccadbe25c91a4d1dee7a9b3ba4
+      ref: dfdd6a349526280922d5d81a82e743330c73dd38
       branch: master
+      tag: 6.1.0-0
     pupmod-simp-rsync:
       ref: b1701c2141a2f4eb1638eb5b666793eabdc33c4f
       branch: master
       tag: 6.0.5
     simp-rsync:
-      ref: d03a15bfbdb7fd756b71e3e8e10b2fc7bbaa9f31
+      ref: 472f8da85d4b6b3d8579e60c168c84c578f818d5
       branch: master
+      tag: 6.2.0
     simp-adapter:
-      ref: 6d8208fb618bdb4e05e7696a76686bb8010dc6a1
+      ref: 860fa56c1286c9e9a090f39d38fdf32431bcd4bf
       branch: master
+      tag: 0.0.5
     simp-environment-skeleton:
       ref: 037a93538e040052c4a47ab9aa85b476f5e39cb3
       branch: master
+      tag: 6.2.8
     simp-gpgkeys:
-      ref: 0cb94266ee5f02822cf6ed99df6d2597f39a26e6
+      ref: b5e27809d94f1db6f716cce5621e7b997b84be77
       branch: master
+      tag: 3.0.3
     simp-utils:
-      ref: 1828ea0d02f6c8a3277cffb0bbddc272afa9c93f
+      ref: f43af3ae3a141fab1aa0a8a0fb3e9c914abbebd1
       branch: master
+      tag: 6.1.1
     rubygem-simp-cli:
-      ref: 0d852e133b8457dd35a93a488512ecb091a8f391
+      ref: ee69ecfab838fc3094bf122b88f7311e443bee40
       branch: master
+      tag: 4.0.5
     puppet-grafana:
       ref: 3f432205c3467b4614de47f488b1f94646bc3426
       branch: master
@@ -186,9 +194,9 @@ releases:
       branch: master
       tag: 6.0.2
     pupmod-simp-compliance_markup:
-      ref: 74a530bf528e21fa832f439b94f16ba0b31d3140
+      ref: ea40ab4e3fdc4c535c66cdd055955ddf5ee4b1f9
       branch: master
-      tag: 2.3.2
+      tag: 2.3.3
     pupmod-simp-cron:
       ref: c63db83da298a60d8ae3cd6ce62a92211e398b21
       branch: master
@@ -334,9 +342,9 @@ releases:
       branch: master
       tag: 2.1.2
     pupmod-simp-simp:
-      ref: 7494ecd921ba890da84a7fa4a0678d7337e55d65
+      ref: e57ab7ef954a98dd9021441a7acb66eed64b4efd
       branch: master
-      tag: simp-simp
+      tag: 4.4.1
     pupmod-simp-simpcat:
       ref: d287b90cb654de7e2857697391d556de1f9d1023
       branch: master
@@ -350,13 +358,13 @@ releases:
       branch: master
       tag: 5.0.1
     pupmod-simp-simp_grafana:
-      ref: d1c22d138a6775377d18746c2f02c02d4b2c0f6a
+      ref: f2be07fbe265161accc97d9a35bd88436f6ec764
       branch: master
-      tag: 1.0.3
+      tag: 1.0.5
     pupmod-simp-simp_logstash:
-      ref: d78a6188f5ad6cdf8e0a4e8083b833d2432cdddb
+      ref: 315eb9cb2cc37214c2fbdf20beeaca67e064fbc7
       branch: master
-      tag: 4.0.0
+      tag: 5.0.1
     pupmod-simp-simp_options:
       ref: 774fad86b9fc0664b39d1366b95fb5e3f8799165
       branch: master
@@ -460,8 +468,8 @@ releases:
       ref: 62f42713403dd9102bb1ac687924ea00dab50741
     rubygem-simp-metadata:
       compiled: true
-      ref: 23c18d85744d8a8d330bd73ffba9411805437d61
-      tag: 0.3.14
+      ref: ''
+      tag: ''
     rubygem-simp-rake-helpers:
-      ref: a8820b38ff84dccdd1204326aa55d18c610a3051
+      ref: 3fe49610299d21720cd86b4bc8815b6ac8f0c964
       tag: 5.4.3
