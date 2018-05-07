@@ -5,9 +5,7 @@ releases:
       ref: 0e544b7516e981ccadbe25c91a4d1dee7a9b3ba4
       branch: master
     pupmod-simp-rsync:
-      ref: 'b1701c2141a2f4eb1638eb5b666793eabdc33c4f
-
-'
+      ref: b1701c2141a2f4eb1638eb5b666793eabdc33c4f
       branch: master
       tag: 6.0.5
     simp-rsync:
@@ -29,646 +27,428 @@ releases:
       ref: 0d852e133b8457dd35a93a488512ecb091a8f391
       branch: master
     puppet-grafana:
-      ref: '3f432205c3467b4614de47f488b1f94646bc3426
-
-'
+      ref: bb106f5c511ea4f6c152d91c3a9be1344b168a7a
       branch: master
       tag: v4.1.2-enterprise
     puppet-kmod:
       tag: 2.2.0
       branch: master
-      ref: '7c17b7dbc4fbf1f63f6bae197acdbab78f7f12fd
-
-'
     puppet-elasticsearch:
-      tag: 6.2.0
+      tag: 5.2.0
       branch: master
-      ref: '28f96cac4b55ac0eaa4b32fdce3426d9aa912ea2
-
-'
     puppet-logstash:
-      tag: 6.0.2
+      tag: 5.2.1
       branch: master
-      ref: '08cc70dbcfd19f669cc2cf3cfecac817105569f6
-
-'
     puppet-lib-file_concat:
-      ref: '813132b5d776204e1da169a93e4bc6a1e253f75c
-
-'
+      ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
       branch: master
       tag: simp6.0.0-1.0.1
     augeasproviders:
-      ref: 'bbfc6ff9fa9acfd39e1ae9aff6341dc07e86a8d4
-
-'
+      ref: bbfc6ff9fa9acfd39e1ae9aff6341dc07e86a8d4
       branch: master
       tag: v2.1.3
     augeasproviders_apache:
-      ref: 'a5e9704b594152163bcff48bc759b702914ee5a5
-
-'
+      ref: 66f17fabef214dc830b1692123c99990d03d4b6b
       branch: master
-      tag: 2.0.2
+      tag: simp6.0.0-2.0.1
     augeasproviders_base:
-      ref: 'de6152df502f2642003c439195acc438c6da69b3
-
-'
+      ref: de6152df502f2642003c439195acc438c6da69b3
       branch: master
       tag: simp6.0.0-2.0.1
     augeasproviders_core:
-      ref: '604680cb5fe7e32fd1ad1051fc34ef100a4d6923
-
-'
+      ref: 72fccf10b532f06fc81cf491614e7119c72ee981
       branch: master
-      tag: 2.1.4
+      tag: simp6.0.0-2.1.3
     augeasproviders_grub:
-      ref: '5e2d464cee5ee723c4835b7524e4faca591cee8e
-
-'
+      ref: b48597b56a48aa4cbae2f3866d32a67d6950c79b
       branch: master
-      tag: 3.0.0
+      tag: simp6.0.0-2.4.0
     augeasproviders_mounttab:
-      ref: '169d2cd9730059fb4dab983b864ba1abab73ed14
-
-'
+      ref: 169d2cd9730059fb4dab983b864ba1abab73ed14
       branch: master
       tag: 2.0.3
     augeasproviders_nagios:
-      ref: 'bd572653fb3de18c3ae920b9608989d5ca14ff9c
-
-'
+      ref: 4af1337ecbedfd1f8e79084c919b25a25b3f7d62
       branch: master
-      tag: 2.0.2
+      tag: simp6.0.0-2.0.1
     augeasproviders_pam:
-      ref: 'e20796872f094c56a201519bab7716f099c78819
-
-'
+      ref: a9481948712e2e2951162cbcf5dda7003d54cf16
       branch: master
-      tag: 2.1.1
+      tag: simp6.0.0-2.1.0
     augeasproviders_postgresql:
-      ref: 'f75319e10ac9ee51e5b489b1ddd5a514c6f180ee
-
-'
+      ref: 6b70535febce71e6d54c04e065deebd590491083
       branch: master
-      tag: 2.0.4
+      tag: simp6.0.0-2.0.3
     augeasproviders_puppet:
-      ref: '5419f7e19c5721f2ed54654e791fd6bbc3be9707
-
-'
+      ref: bb3310e60ddfeddc9ab2b45f05066e44ff2b942e
       branch: master
-      tag: 2.1.1
+      tag: simp-2.1.0
     augeasproviders_shellvar:
-      ref: '295de2b48986e3033d01da0de0fa6650a8870849
-
-'
+      ref: 455780660018a7f8bccfedb0ec2d6aad4c864caa
       branch: master
-      tag: 2.2.2
+      tag: simp6.0.0-2.2.1
     augeasproviders_ssh:
-      ref: 'b6268b38b6931ecb9f5a641d42f7cd9bbac530cf
-
-'
+      ref: a8b72a482a37fe86827e41659a7d8753a309cb07
       branch: master
-      tag: 2.5.3
+      tag: simp6.0.0-2.5.0
     augeasproviders_sysctl:
-      ref: '012cd99bb6f1fdf210a2bc1c3f153138643dfb48
-
-'
+      ref: 4425603e3c95e086596c9e4ab41813b408f99785
       branch: master
-      tag: 2.2.0
+      tag: simp6.0.0-2.1.0
     puppet-gpasswd:
-      ref: '5859d88cea1f9841dda6cca321c9d106e9f0559a
-
-'
+      ref: 5859d88cea1f9841dda6cca321c9d106e9f0559a
       branch: master
       tag: 1.0.5
     puppetlabs-apache:
-      ref: '0b270f9bfe0830c95052a5ea1a205af14c01ed79
-
-'
+      ref: e587f2af793111adab04bb776808f99a09ca092b
       branch: master
-      tag: 3.0.0
+      tag: 2.3.1
     puppetlabs-concat:
-      ref: 'c95dc13ea769d187a1ad3e51f45f4c266baa7825
-
-'
+      ref: 5eadf453a12a3df723380de1b80a2edc9ed10956
       branch: master
-      tag: 4.1.1
+      tag: simp6.0.0-2.2.0
     puppetlabs-inifile:
-      ref: 'b8a43a73d6b88236c851bbf87c1891ddc5d70497
-
-'
+      ref: 252ab552f4bf57d1099c2c2f5578f602caa7b1a5
       branch: master
-      tag: 2.2.0
+      tag: simp6.0.0-1.6.0
     puppetlabs-java:
-      ref: '10503819d25aefd2fc457de82c76835982903b03
-
-'
+      ref: e36f6ce7603d2c14d391d368de171b0828437617
       branch: master
-      tag: 2.4.0
+      tag: simp-1.6.0-post1
     puppetlabs-java_ks:
-      ref: '029a74c9cd1a1c8321f5582e392de26735d07d91
-
-'
+      ref: ef5ac6157f6ee90917af606b25010f31c906ed92
       branch: master
-      tag: 2.1.0
+      tag: simp6.0.0-1.4.1
     puppetlabs-puppet_authorization:
-      ref: '963830013512398d2d0212950fb4572edb598539
-
-'
+      ref: master
       branch: master
       tag: 0.4.0
     puppetlabs-motd:
-      ref: '6160665065be2720b491534d96b62f397ca1d17b
-
-'
+      ref: ac521566a31a5ba6aca9c6fe3f30c57dd5cf7449
       branch: master
-      tag: 1.7.0
+      tag: simp6.0.0-1.4.0
     puppetlabs-mysql:
-      ref: 'c25b4396db0cf657c07194921519deda3c66f68e
-
-'
+      ref: a5497b2bcf9098ed707348193bb7ff2e4ef1e543
       branch: master
-      tag: 5.3.0
+      tag: simp-2.2.3
     puppetlabs-postgresql:
-      ref: 'eb04c05f768b67d7d655ff4d1d5da36bb391d5df
-
-'
+      ref: d022a56b28b2174456fc0f6adc51a4b54493afad
       branch: master
-      tag: 5.2.1
+      tag: simp6.0.0-4.8.0
     puppetlabs-stdlib:
-      tag: 4.24.0
+      tag: 4.19.0
       branch: master
-      ref: 'e46d9a4c144cbe3e979f1684d89f577f43fe9084
-
-'
     puppet-datacat:
-      ref: '93b88b78364ee35f2bf39ca98ad08b78f423c1d2
-
-'
+      ref: 93b88b78364ee35f2bf39ca98ad08b78f423c1d2
       branch: master
       tag: simp6.0.0-0.6.2
     puppet-timezone:
-      ref: 'c9db0461d16959ed195ef2e44f29f88ecffd9c09
-
-'
+      ref: 9344a1d094313b7d94e1ee4da4be9bda441c2708
       branch: master
-      tag: v3.5.0
+      tag: simp6.0.0-3.3.0
     pupmod-simp-acpid:
-      ref: '403c1cee95ee22a27a2e8cba26067b26f99e40d7
-
-'
+      ref: 66ec8df52c867252a742c8023ddf176105147dc3
       branch: master
-      tag: 1.0.2
+      tag: 1.0.1
     pupmod-simp-activemq:
-      ref: '6209548987267a9f6518a81c06e5028e3baa72e7
-
-'
+      ref: 6209548987267a9f6518a81c06e5028e3baa72e7
       branch: master
       tag: 4.0.1
     pupmod-simp-aide:
-      ref: 'e4fd206cfbb9c63abf311ed4a814c0f349487659
-
-'
+      ref: 57a04d9f6e179caddfc103ee5da2ccc9282ded2e
       branch: master
-      tag: 6.1.2
+      tag: 6.0.0
     pupmod-simp-at:
-      ref: '64a0eaadaa2bfd0f332fec95d35575b8287141d7
-
-'
+      ref: 64a0eaadaa2bfd0f332fec95d35575b8287141d7
       branch: master
       tag: 0.0.4
     pupmod-simp-auditd:
-      ref: '8b7ed6ef3ad9f683c9cd170c7d962c8b1e41f4d0
-
-'
+      ref: 8b7ed6ef3ad9f683c9cd170c7d962c8b1e41f4d0
       branch: master
       tag: 7.1.3
     pupmod-simp-autofs:
-      ref: '02aae8fc49e49d381ed42ea0bb60a5b24d87442e
-
-'
+      ref: 03dc56021d5ea0735bd17c4e954b38a049efc36d
       branch: master
-      tag: 6.1.1
+      tag: 6.1.1-1-g03dc560
     pupmod-simp-chkrootkit:
-      ref: '11221ddfb826123167ca898a53269634c264ca15
-
-'
+      ref: 9896b324489f1f615c48736aed18f47c2bc86de8
       branch: master
-      tag: 0.0.2
+      tag: 0.0.1
     pupmod-simp-clamav:
-      ref: 'dbd2426cd0e1cc25e32bbd307bcefc19954f595b
-
-'
+      ref: c0e603c9af7ef72c3657a759ac450d2682b2fa64
       branch: master
-      tag: 6.0.2
+      tag: 6.0.0
     pupmod-simp-compliance_markup:
-      ref: '74a530bf528e21fa832f439b94f16ba0b31d3140
-
-'
+      ref: 766eccd7df330178226af7f27030022056a949b2
       branch: master
-      tag: 2.3.2
+      tag: 2.3.3-1-g766eccd
     pupmod-simp-cron:
-      ref: 'c63db83da298a60d8ae3cd6ce62a92211e398b21
-
-'
+      ref: 3813e45a67c21ee35f1afbe24f6783573d4f9f0a
       branch: master
-      tag: 0.0.2
+      tag: 0.0.1
     pupmod-simp-dhcp:
-      ref: 'b77511e47f6b1da325cc667ba26b52700a6b17af
-
-'
+      ref: 178a113b3e5e5d4f9c4e6846a5500e18a0428eaf
       branch: master
-      tag: 6.0.1
+      tag: 6.0.0
     pupmod-simp-dirtycow:
-      ref: '16a8228b4bebec6d12340124f89529c4e7700b22
-
-'
+      ref: e6191625e791d711f72eaf9ed4fb8e54c80a5968
       branch: master
-      tag: 1.0.3
+      tag: 1.0.2
     pupmod-simp-fips:
-      ref: '62eb8b17c9fa6fff0143fe457e16619116cf8713
-
-'
+      ref: 62eb8b17c9fa6fff0143fe457e16619116cf8713
       branch: master
       tag: 0.1.4
     pupmod-simp-freeradius:
-      ref: 'b1c04e009efad2ff535963a239d96eb6232676f0
-
-'
+      ref: b1c04e009efad2ff535963a239d96eb6232676f0
       branch: master
       tag: 7.0.1
     pupmod-simp-gdm:
-      ref: 'f3b0b793b196e55c64bf6d5ce705e47ecf5811d9
-
-'
+      ref: f3b0b793b196e55c64bf6d5ce705e47ecf5811d9
       branch: master
       tag: 7.0.3
     pupmod-simp-gnome:
-      ref: 'ab95fadc39f917a75c937f25007c9e9c4b172816
-
-'
+      ref: e706e2b2e22cecdca86d2ee48143a1c607a486df
       branch: master
-      tag: 7.0.1
+      tag: 6.0.2
     puppet-haveged:
-      ref: '2f16d86710b1dddc47f51e409b094c9a54df8c7b
-
-'
+      ref: d0e335efbccfd8e12f1ad2b70855df21a71aa7a3
       branch: master
-      tag: 0.4.5
+      tag: 0.4.0
     pupmod-simp-incron:
-      ref: '50ad9f7a315697162b2e181e3414ff139436200c
-
-'
+      ref: b5054fef3e7b0a29b8364a7bc1823f75e43b1afb
       branch: master
       tag: 0.2.0
     pupmod-simp-iptables:
-      ref: 'c5b178f7fe4e9763df3b0b9d70116bdc3ee4abf1
-
-'
+      ref: 1208f627e63faa730381d0d32b175bc099450c25
       branch: master
       tag: 6.1.4
     pupmod-simp-issue:
-      ref: '1ae3867a50d8baad9bbba8ed09e598dde0e716ee
-
-'
+      ref: 31fd9b22d3085d1c34d4d208d73b23a8094fc4ab
       branch: master
-      tag: 0.0.2
+      tag: 0.0.1
     pupmod-simp-jenkins:
-      ref: 'add24f99fb3c5f7537489f0766b85f6273cf808e
-
-'
+      ref: add24f99fb3c5f7537489f0766b85f6273cf808e
       branch: master
       tag: 6.0.1
     pupmod-simp-journald:
-      ref: '00114b643ff50bb1fe69166ec770e7b38ef78f71
-
-'
+      ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
       branch: master
       tag: 0.6.0
     pupmod-simp-krb5:
-      ref: 'e2c7d66805cf8dbc5918f6381c6b6de87d6d6f2c
-
-'
+      ref: '04941954129a52863368c3907f674aecd655271a'
       branch: master
-      tag: 7.0.3
+      tag: 7.0.1
     pupmod-simp-libreswan:
-      ref: '60f21c5e0b8adf8a99e5f49773ee5d4e26220f90
-
-'
+      ref: 87cb0bec0e7d32325bde4e4a2f2c82d5f4477d0c
       branch: master
-      tag: 3.0.2
+      tag: 3.0.2-1-g87cb0be
     pupmod-simp-libvirt:
-      ref: '5195265ccf6203eeecd41d7b6a3a62ceca5197c2
-
-'
+      ref: bdc6176b2c11634b755f196c4ea48e175681a598
       branch: master
-      tag: 5.1.0
+      tag: bdc6176
     pupmod-simp-logrotate:
-      ref: '865e1b1e60a917478b16f4e1338cd387c75dfd4f
-
-'
+      ref: f078813e5394a7427216d73c44464bdfecbb07e0
       branch: master
-      tag: 6.1.2
+      tag: 6.0.0
     pupmod-simp-mcafee:
-      ref: 'daff4cd505643edf69b4c0411d00bf543d9a8b42
-
-'
+      ref: 6dfe22cbbf524971e21d1af5888656ad8d215091
       branch: master
-      tag: 6.0.1
+      tag: 6.0.0
     pupmod-simp-mcollective:
-      ref: '185d58bd3400fb051f4b41e488dca7a2dde58b85
-
-'
+      ref: 90ceda13854da0501e17f15602634d293bf54205
       branch: master
-      tag: 2.3.3
+      tag: simp-3.0.0
     pupmod-simp-mozilla:
-      ref: '8e9b013f59559a598479bfe6b3cf81ca967c718a
-
-'
+      ref: 1cc5e45c2d10ff2aed59b68a7f02887a436e4104
       branch: master
-      tag: 5.0.1
+      tag: 1cc5e45
     pupmod-simp-named:
-      ref: 'e1988ad8e344457c2b8ab673d2bf86e00ff3c384
-
-'
+      ref: e1988ad8e344457c2b8ab673d2bf86e00ff3c384
       branch: master
       tag: 6.0.3
     pupmod-simp-network:
-      ref: '62c73747e2fe93f59aa588abba20faad70fdebf1
-
-'
+      ref: 328c9780c946524ff7e6fe4396c5df4e2cea66b5
       branch: master
-      tag: 6.0.2
+      tag: 6.0.1
     pupmod-simp-nfs:
-      ref: '428b24f918d31569832f2ecbf9725cd11a2bb1e7
-
-'
+      ref: b8b8fa91d589fa57497869aa52a6438f3dbfac20
       branch: master
       tag: 6.1.0
     pupmod-simp-ntpd:
-      ref: '20f654f539c3075264d9a54f4eb8fb0047c4cf31
-
-'
+      ref: 20f654f539c3075264d9a54f4eb8fb0047c4cf31
       branch: master
       tag: 6.1.0
     pupmod-simp-oddjob:
-      ref: 'bdd6a0d37734ec58a035b5b3ae117de2cab6ff45
-
-'
+      ref: 0c79577630e86b6e2859738a04d65e4489ed29cd
       branch: master
-      tag: 2.0.1
+      tag: 2.0.0
     pupmod-simp-simp_openldap:
-      ref: '208128e799f025cede61c2a56d11c9b73bb489c2
-
-'
+      ref: ea964ecf68ce5426480f2338ebcb3e053cbb4298
       branch: master
-      tag: 6.2.0
+      tag: ea964ec
     pupmod-simp-openscap:
-      ref: 'f6c2e737f3c01171741b4154be1ea7d85dffb3a4
-
-'
+      ref: 9c26e36c57a9ad0451bb0a94440e0cfd62e77179
       branch: master
-      tag: 6.0.4
+      tag: 6.0.1
     pupmod-simp-pam:
-      ref: 'c6f60a6bca3bbd278fc17350931c20c9900d3bbc
-
-'
+      ref: c02d5d1c6978f5a63a27b6cbb8b90d86a4b2b97f
       branch: master
-      tag: 6.2.0
+      tag: 6.2.0-1-gc02d5d1
     pupmod-simp-pki:
-      ref: '90829ce197fa436d29e105e93a6e8a37a3c0de42
-
-'
+      ref: 8187269864a909d28d0d2f44025da7f92697e6d3
       branch: master
-      tag: 6.0.2
+      tag: 6.0.2-1-g8187269
     pupmod-simp-polkit:
-      ref: '9fc7cf72dd8f81d539969003795f565e3c2a822b
-
-'
+      ref: 91b57406f1053603bdb7c880aad824b7db906207
       branch: master
-      tag: 6.1.0
+      tag: 6.0.0
     pupmod-simp-postfix:
-      ref: 'd272b6b42f4dde7f72d1595cdd5de05c8ba1d712
-
-'
+      ref: d272b6b42f4dde7f72d1595cdd5de05c8ba1d712
       branch: master
       tag: 5.0.3
     pupmod-simp-pupmod:
-      ref: '6f01599c2112f35061f4bcbe30c28c2ad4d97b79
-
-'
+      ref: 88009f92b670ab222625fde75b5cd13304451a70
       branch: master
       tag: 7.5.0
     puppetlabs-puppetdb:
-      ref: 'c076aabb2e9df16e7955b44ea6d0b94682a80c62
-
-'
+      ref: 3718c588cf4e40c450dfaae16afc1aac6ad6cb88
       branch: master
-      tag: 6.0.2
+      tag: simp6.0.0-5.1.2
     pupmod-simp-resolv:
-      ref: '8dffcc02d51b80574596a54bb7496478effa05b0
-
-'
+      ref: 0b2c35cae893e2c83e3162d1fde8878d3f29cdc4
       branch: master
-      tag: 0.1.0
+      tag: 0.0.1
     pupmod-simp-rsyslog:
-      ref: '12e145658e0af8301752ee64893c0ebed144031f
-
-'
+      ref: 12e145658e0af8301752ee64893c0ebed144031f
       branch: master
       tag: 7.1.1
     pupmod-simp-selinux:
-      ref: '9532ca2d612e25281be43d0fe82066087a3d5c00
-
-'
+      ref: 9532ca2d612e25281be43d0fe82066087a3d5c00
       branch: master
       tag: 2.1.2
     pupmod-simp-simp:
-      ref: 'e57ab7ef954a98dd9021441a7acb66eed64b4efd
-
-'
+      ref: 7494ecd921ba890da84a7fa4a0678d7337e55d65
       branch: master
-      tag: 4.4.1
+      tag: simp-simp
     pupmod-simp-simpcat:
-      ref: 'd287b90cb654de7e2857697391d556de1f9d1023
-
-'
+      ref: eeaa2e7e7f14c45f9b6a3f83c1fec86f03d41864
       branch: master
-      tag: 6.0.1
+      tag: eeaa2e7
     pupmod-simp-apache:
-      ref: '0b270f9bfe0830c95052a5ea1a205af14c01ed79
-
-'
+      ref: beebf920ffd077e930d7705a7d470d1b22ff3304
       branch: master
-      tag: 3.0.0
+      tag: 6.0.0
     pupmod-simp-simp_elasticsearch:
-      ref: '244647701c191a6a63473b7b1fa5424de7b7a776
-
-'
+      ref: 244647701c191a6a63473b7b1fa5424de7b7a776
       branch: master
       tag: 5.0.1
     pupmod-simp-simp_grafana:
-      ref: 'd1c22d138a6775377d18746c2f02c02d4b2c0f6a
-
-'
+      ref: f2be07fbe265161accc97d9a35bd88436f6ec764
       branch: master
-      tag: 1.0.3
+      tag: 1.0.5
     pupmod-simp-simp_logstash:
-      ref: 'd78a6188f5ad6cdf8e0a4e8083b833d2432cdddb
-
-'
+      ref: 315eb9cb2cc37214c2fbdf20beeaca67e064fbc7
       branch: master
-      tag: 4.0.0
+      tag: 5.0.1
     pupmod-simp-simp_options:
-      ref: '774fad86b9fc0664b39d1366b95fb5e3f8799165
-
-'
+      ref: 774fad86b9fc0664b39d1366b95fb5e3f8799165
       branch: master
       tag: 1.1.0
     pupmod-simp-simp_nfs:
-      ref: '1f0ac983ed8e6cb13d8467b73686b1482f893542
-
-'
+      ref: 0d41ec44cb3cdb621cd42a1d8c5f8749bcbb3ba1
       branch: master
-      tag: 0.0.4
+      tag: 0.0.4-4-g0d41ec4
     pupmod-simp-simp_rsyslog:
-      ref: 'a2ebef2054c5fb4d3e2624bf606dfbb9f83b604b
-
-'
+      ref: d72f2b1596b4f1f7c52a27c10d8d1fb59e1508d8
       branch: master
-      tag: 0.2.0
+      tag: 0.0.3
     pupmod-simp-simplib:
-      ref: 'a8cffe89e73acf6d02414d85c8073e5b9ea2537d
-
-'
+      ref: 7b899b619e2d3b3f0511fb1c50de107067b76749
       branch: master
-      tag: 3.9.0
+      tag: 3.9.0-1-g7b899b6
     pupmod-simp-site:
-      ref: '0ba070f208ce5965ff0e701d286df55ab6806fd6
-
-'
+      ref: 61327ae260572365cab6f778cd78f7769aa0d16e
       branch: master
-      tag: 2.0.4
+      tag: 2.0.3
     pupmod-simp-ssh:
-      ref: 'b1280e4564b8175780aa4b376ca1b9971cd3afdb
-
-'
+      ref: b1280e4564b8175780aa4b376ca1b9971cd3afdb
       branch: master
-      tag: 6.4.1
+      tag: 6.3.0
     pupmod-simp-sssd:
-      ref: '4893318ab1211daaa89f77ed1a822b2c87e36d9b
-
-'
+      ref: 4893318ab1211daaa89f77ed1a822b2c87e36d9b
       branch: master
       tag: 6.1.1
     pupmod-simp-stunnel:
-      ref: 'cb6bdfbce4abea1f385aee18c1e56422fec4af2a
-
-'
+      ref: cb6bdfbce4abea1f385aee18c1e56422fec4af2a
       branch: master
       tag: 6.3.1
     pupmod-simp-sudo:
-      ref: 'e53f9a98238433b26573ae32887f2122af2118a5
-
-'
+      ref: e53f9a98238433b26573ae32887f2122af2118a5
       branch: master
       tag: 5.0.4
     pupmod-simp-sudosh:
-      ref: '0df590e97b9081b66aeb5e33ea9e24455e9f0316
-
-'
+      ref: aebefa9af889d5289b13150719cb0fa4ccceee6a
       branch: master
-      tag: 6.0.1
+      tag: aebefa9
     pupmod-simp-svckill:
-      ref: '76730cb848ef6558c34b619522d4a904ccaa4440
-
-'
+      ref: cf7f2129309723275714ede9fc2e709588669007
       branch: master
-      tag: 3.2.5
+      tag: cf7f212
     pupmod-simp-swap:
-      ref: 'd027e3607ac337918a2174e170a72ad57cd49da0
-
-'
+      ref: 50cf9df5b2683584664cc88d74ec204494904142
       branch: master
-      tag: 0.1.1
+      tag: 0.1.0
     pupmod-simp-tcpwrappers:
-      ref: 'e24affac278bd91ebceb3d18031408a8913dd83f
-
-'
+      ref: 9c7c58cc0ea9ea2ff51d11899b96f5a56ff306ee
       branch: master
-      tag: 6.0.3
+      tag: 6.0.0
     pupmod-simp-tftpboot:
-      ref: '69b78bebf848c97c5b8724c5ec22c77a71f7264f
-
-'
+      ref: 878c4ce0cef021c80b6b876df6242cc99a1bbb74
       branch: master
-      tag: 6.0.2
+      tag: 6.0.0
     pupmod-simp-tpm:
-      ref: 'de059d272d89ad8f8cc4d96c63ad84de364ae9dd
-
-'
+      ref: 858194088b35c4d43f7d1aba94bf12302083e89d
       branch: master
-      tag: 1.1.0
+      tag: '8581940'
     pupmod-simp-tuned:
-      ref: '4a30770c89b70dd0df73d677ffc401e6eece6434
-
-'
+      ref: 7d39b937c6669aee06fb8e8d063ffcc5ad02ab48
       branch: master
-      tag: 0.0.2
+      tag: 0.0.1
     pupmod-simp-upstart:
-      ref: 'ea341333c730ce3014ab1681038cb9214096ac19
-
-'
+      ref: 84ee9bb62f8cc976e5ec16bd2efc29c1f11ecf9c
       branch: master
-      tag: 6.0.1
+      tag: 6.0.0
     pupmod-simp-vnc:
-      ref: 'bb08160268ac3b34edb70eb5dd95add9c7c4dfc6
-
-'
+      ref: 873815f2d3169d3e2f4106dce63b124f7bc0d24b
       branch: master
-      tag: 6.0.2
+      tag: 873815f
     pupmod-simp-vsftpd:
-      ref: '4ec3fe355ee60025842b34981f70b1bf5c315fb4
-
-'
+      ref: adb91f66db804b8ba2c7cf4ec0e8efd781a84e88
       branch: master
-      tag: 7.1.0
+      tag: adb91f6
     pupmod-simp-xinetd:
-      ref: 'bdd83df1e5cb736481e1c74d3e22d79556bdb4b2
-
-'
+      ref: 74be77b849e78a71fafc7a7035cbafa35163bd7e
       branch: master
-      tag: 4.0.2
+      tag: 4.0.2-2-g74be77b
     pupmod-simp-useradd:
-      ref: '693fd682d7bac77f7697a6d8f483a2e752078a5e
-
-'
+      ref: 31ce72beec33febc55a187059c34ffa8ac87e71f
       branch: master
-      tag: 0.2.1
+      tag: 0.1.0
     puppet-nsswitch:
-      ref: '506a7f0fcecc72000f87a42ebf564ccdfd895d37
-
-'
+      ref: 6a2fee0947932dbde3c96ff75f5e461931366c78
       branch: master
-      tag: 2.0.0
+      tag: simp6.0.0-2.0.0
     pupmod-simp-libkv:
       tag: 0.6.1f
-      ref: 'de631cc5c485fd872c719955b780861e76fea6d5
-
-'
+      ref: de631cc5c485fd872c719955b780861e76fea6d5
       branch: develop
     pupmod-simp-simp_consul:
       tag: 0.1.0
-      ref: '4f97881d17c5ce2e294c42a052386c39ad57921d
-
-'
+      ref: 4f97881d17c5ce2e294c42a052386c39ad57921d
       branch: develop
     solarkennedy-consul:
-      ref: '3ed6c6495e7df079d69c55315eb64c277cfe6314
-
-'
-      tag: v3.3.1
+      ref: c1d87dc396b71146ac9e37557c3d7f841087d319
+      tag: v3.0.0-4-gc1d87dc
     puppet-archive:
       ref: 62f42713403dd9102bb1ac687924ea00dab50741
     rubygem-simp-metadata:
