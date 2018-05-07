@@ -2,7 +2,7 @@
 releases:
   development:
     simp-doc:
-      ref: b48525c617b045e4e1ae2dd219240eaf80910fe9
+      ref: 27eb8f0c4231375bff04d4a3b3bb19e4f831bece
       branch: master
     simp-rsync:
       ref: d03a15bfbdb7fd756b71e3e8e10b2fc7bbaa9f31
