@@ -153,7 +153,7 @@ releases:
     pupmod-simp-activemq:
       ref: 9698bf5ad5263f4895bfd19b7736f2bee0a30baa
       branch: master
-      tag: 9698bf5
+      tag: 4.0.1
     pupmod-simp-aide:
       ref: 57a04d9f6e179caddfc103ee5da2ccc9282ded2e
       branch: master
