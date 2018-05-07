@@ -201,7 +201,7 @@ releases:
     pupmod-simp-freeradius:
       ref: 1ef6cc8d3cfa4581ced656b20bd88d0e04b9538f
       branch: master
-      tag: 1ef6cc8
+      tag: 7.0.1
     pupmod-simp-gdm:
       ref: 14294631dd94a014214e136cac373041082dd09e
       branch: master
