@@ -1,6 +1,9 @@
 ---
 releases:
   unstable:
+    simp-core:
+      ref: e799fb301e001acbce2224d62136db4246558415
+      branch: master
     simp-doc:
       ref: 0e544b7516e981ccadbe25c91a4d1dee7a9b3ba4
       branch: master

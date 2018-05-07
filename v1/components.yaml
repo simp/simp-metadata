@@ -1578,3 +1578,10 @@ components:
     - url: https://github.com/simp/rubygem-simp-metadata
       type: git
       primary: true
+  simp-core:
+    component-type: simp-core
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/simp-core
+      type: git
+      primary: true
