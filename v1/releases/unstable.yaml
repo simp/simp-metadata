@@ -62,7 +62,7 @@ releases:
       branch: master
       tag: v2.1.3
     augeasproviders_apache:
-      ref: a5e9704b594152163bcff48bc759b702914ee5a5
+      ref: d2d51f011c845c888151a95d00a4972ec1054a6b
       branch: master
       tag: 3.0.0
     augeasproviders_base:
