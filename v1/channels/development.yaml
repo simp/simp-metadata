@@ -339,7 +339,7 @@ releases:
       ref: 31ce72beec33febc55a187059c34ffa8ac87e71f
       branch: master
     puppet-nsswitch:
-      ref: 6a2fee0947932dbde3c96ff75f5e461931366c78
+      ref: 8cc6c14f6c47efafbf7c9e6ab53832a0c9782728
       branch: master
     pupmod-simp-libkv:
       ref: de631cc5c485fd872c719955b780861e76fea6d5
