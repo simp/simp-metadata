@@ -26,7 +26,7 @@ releases:
       tag: 5.2.0
     puppet-logstash:
       tag: 5.2.1
-    puppet-lib-file_concat:
+    puppet-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
       tag: simp6.0.0-1.0.1
     augeasproviders:

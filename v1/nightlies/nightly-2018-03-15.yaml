@@ -35,7 +35,7 @@ releases:
     puppet-logstash:
       tag: 5.2.1
       branch: master
-    puppet-lib-file_concat:
+    puppet-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
       branch: master
     augeasproviders:

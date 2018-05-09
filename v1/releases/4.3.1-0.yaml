@@ -25,7 +25,7 @@ releases:
       ref: 61a9d3d83c184bda7e935154fcc295e40bda924a
       type: https
       path: "/src/puppet/modules"
-    puppet-lib-file_concat:
+    puppet-file_concat:
       ref: decefc4e2a36580a52818f72f0a054e0088a1b6e
       type: https
       path: "/src/puppet/modules"

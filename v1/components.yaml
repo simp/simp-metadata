@@ -96,11 +96,11 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  puppet-lib-file_concat:
+  puppet-file_concat:
     authoritative: false
     primary_source:
       host: github.com
-      path: simp/puppet-lib-file_concat
+      path: simp/puppet-file_concat
       type: git
     mirrors:
     - host: gitlab.com

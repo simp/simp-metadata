@@ -34,7 +34,7 @@ releases:
       type: https
       path: "/src/puppet/modules"
       tag: 5.0.3
-    puppet-lib-file_concat:
+    puppet-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
       type: https
       path: "/src/puppet/modules"

@@ -15,7 +15,7 @@ releases:
       ref: dc6d3fab6ace62701aa3de6e4bb868e24fef0553
     puppet-logstash:
       ref: f475deaeb6120abc4c56c27cd3ab1ce808391517
-    puppet-lib-file_concat:
+    puppet-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
     augeasproviders:
       ref: bbfc6ff9fa9acfd39e1ae9aff6341dc07e86a8d4

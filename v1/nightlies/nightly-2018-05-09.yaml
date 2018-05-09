@@ -53,7 +53,7 @@ releases:
       tag: 6.0.2
       branch: master
       ref: '08cc70dbcfd19f669cc2cf3cfecac817105569f6'
-    puppet-lib-file_concat:
+    puppet-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
       branch: master
       tag: simp6.0.0-1.0.1
