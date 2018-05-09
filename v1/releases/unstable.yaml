@@ -102,7 +102,7 @@ releases:
       branch: master
       tag: 2.2.2
     augeasproviders_ssh:
-      ref: b6268b38b6931ecb9f5a641d42f7cd9bbac530cf
+      ref: 44273c14afb678135bf2812550ac982a54c1eab4
       branch: master
       tag: 3.0.0
     augeasproviders_sysctl:
