@@ -68,7 +68,7 @@ releases:
       ref: a9481948712e2e2951162cbcf5dda7003d54cf16
       branch: master
     augeasproviders_postgresql:
-      ref: 6b70535febce71e6d54c04e065deebd590491083
+      ref: 219c27e1920ec4f905bbb3dbf84ab44fe12c9e04
       branch: master
     augeasproviders_puppet:
       ref: bb3310e60ddfeddc9ab2b45f05066e44ff2b942e
