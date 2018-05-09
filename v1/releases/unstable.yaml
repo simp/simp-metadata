@@ -90,7 +90,7 @@ releases:
       branch: master
       tag: 2.1.1
     augeasproviders_postgresql:
-      ref: f75319e10ac9ee51e5b489b1ddd5a514c6f180ee
+      ref: 39d033fd9fa5ce1d67bbac81148c3d63615378a9
       branch: master
       tag: 3.0.0
     augeasproviders_puppet:
