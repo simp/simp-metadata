@@ -21,7 +21,7 @@ releases:
       ref: 860fa56c1286c9e9a090f39d38fdf32431bcd4bf
       branch: master
       tag: 0.0.5
-    simp-environment-skeleton:
+    simp-environment:
       ref: 037a93538e040052c4a47ab9aa85b476f5e39cb3
       branch: master
       tag: 6.2.8

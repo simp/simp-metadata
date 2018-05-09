@@ -1508,7 +1508,7 @@ components:
     - url: https://github.com/simp/simp-adapter
       primary: true
       type: git
-  simp-environment-skeleton:
+  simp-environment:
     format: git
     component-type: rpm
     authoritative: true

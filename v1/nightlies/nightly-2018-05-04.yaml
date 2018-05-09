@@ -13,7 +13,7 @@ releases:
     simp-adapter:
       ref: 6d8208fb618bdb4e05e7696a76686bb8010dc6a1
       branch: master
-    simp-environment-skeleton:
+    simp-environment:
       ref: e07f8666e8cbc37fa29dc26b562f345768a885bd
       branch: master
     simp-gpgkeys:
