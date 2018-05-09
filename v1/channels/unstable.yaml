@@ -194,9 +194,9 @@ releases:
       branch: master
       tag: 6.0.2
     pupmod-simp-compliance_markup:
-      ref: ea40ab4e3fdc4c535c66cdd055955ddf5ee4b1f9
+      ref: 74a530bf528e21fa832f439b94f16ba0b31d3140
       branch: master
-      tag: 2.3.3
+      tag: 2.3.2
     pupmod-simp-cron:
       ref: c63db83da298a60d8ae3cd6ce62a92211e398b21
       branch: master
@@ -342,29 +342,29 @@ releases:
       branch: master
       tag: 2.1.2
     pupmod-simp-simp:
-      ref: 7494ecd921ba890da84a7fa4a0678d7337e55d65
+      ref: e57ab7ef954a98dd9021441a7acb66eed64b4efd
       branch: master
-      tag: simp-simp
+      tag: 4.4.1
     pupmod-simp-simpcat:
       ref: d287b90cb654de7e2857697391d556de1f9d1023
       branch: master
       tag: 6.0.1
     pupmod-simp-apache:
-      ref: 40533b06a1ff38dcd0c6569cbb0f2445d573164e
+      ref: 0b270f9bfe0830c95052a5ea1a205af14c01ed79
       branch: master
-      tag: 6.0.1
+      tag: 3.0.0
     pupmod-simp-simp_elasticsearch:
       ref: 244647701c191a6a63473b7b1fa5424de7b7a776
       branch: master
       tag: 5.0.1
     pupmod-simp-simp_grafana:
-      ref: f2be07fbe265161accc97d9a35bd88436f6ec764
+      ref: d1c22d138a6775377d18746c2f02c02d4b2c0f6a
       branch: master
-      tag: 1.0.5
+      tag: 1.0.3
     pupmod-simp-simp_logstash:
-      ref: 315eb9cb2cc37214c2fbdf20beeaca67e064fbc7
+      ref: d78a6188f5ad6cdf8e0a4e8083b833d2432cdddb
       branch: master
-      tag: 5.0.1
+      tag: 4.0.0
     pupmod-simp-simp_options:
       ref: 774fad86b9fc0664b39d1366b95fb5e3f8799165
       branch: master
