@@ -100,7 +100,7 @@ components:
     authoritative: false
     primary_source:
       host: github.com
-      path: simp/puppet-file_concat
+      path: simp/puppet-lib-file_concat
       type: git
     mirrors:
     - host: gitlab.com
