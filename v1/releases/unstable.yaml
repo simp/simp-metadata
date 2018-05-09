@@ -98,7 +98,7 @@ releases:
       branch: master
       tag: 2.1.1
     augeasproviders_shellvar:
-      ref: 295de2b48986e3033d01da0de0fa6650a8870849
+      ref: 67c592af6fdfbee92e61733b5f146c851b93232c
       branch: master
       tag: 2.2.4
     augeasproviders_ssh:
