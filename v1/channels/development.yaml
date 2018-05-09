@@ -74,7 +74,7 @@ releases:
       ref: bb3310e60ddfeddc9ab2b45f05066e44ff2b942e
       branch: master
     augeasproviders_shellvar:
-      ref: 455780660018a7f8bccfedb0ec2d6aad4c864caa
+      ref: 4607570dfc526ce357f1e3f3ad98e232e88a06e8
       branch: master
     augeasproviders_ssh:
       ref: a8b72a482a37fe86827e41659a7d8753a309cb07
