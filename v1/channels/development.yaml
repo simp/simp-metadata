@@ -258,7 +258,7 @@ releases:
       ref: 013dd5a7528f08569886eedbd6e575b906880ea7
       branch: master
     pupmod-simp-simp:
-      ref: cf8670e1f70fb711ff882c6ede7db992e006b36a
+      ref: 3f448f59ac99c60d6f185e00606366500047026f
       branch: master
     pupmod-simp-simpcat:
       ref: eeaa2e7e7f14c45f9b6a3f83c1fec86f03d41864
