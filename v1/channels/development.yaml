@@ -353,6 +353,6 @@ releases:
       ref: 62f42713403dd9102bb1ac687924ea00dab50741
     rubygem-simp-metadata:
       compiled: true
-      ref: 55c4897e4b05b0f7658e9d6d1d59367d64fdd2a7
+      ref: c3d1f1f63796250eda2c69cec8e2620eb1242478
     rubygem-simp-rake-helpers:
       ref: a8820b38ff84dccdd1204326aa55d18c610a3051
