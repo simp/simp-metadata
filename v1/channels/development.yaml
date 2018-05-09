@@ -56,7 +56,7 @@ releases:
       ref: 72fccf10b532f06fc81cf491614e7119c72ee981
       branch: master
     augeasproviders_grub:
-      ref: b48597b56a48aa4cbae2f3866d32a67d6950c79b
+      ref: e773a9a02d2a8d0cdecee658ba9b58d346f0b3bb
       branch: master
     augeasproviders_mounttab:
       ref: 169d2cd9730059fb4dab983b864ba1abab73ed14
