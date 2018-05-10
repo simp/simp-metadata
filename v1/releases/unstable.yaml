@@ -350,9 +350,9 @@ releases:
       branch: master
       tag: 6.0.1
     pupmod-simp-apache:
-      ref: 0b270f9bfe0830c95052a5ea1a205af14c01ed79
+      ref: 40533b06a1ff38dcd0c6569cbb0f2445d573164e
       branch: master
-      tag: 3.0.0
+      tag: 6.0.1
     pupmod-simp-simp_elasticsearch:
       ref: 244647701c191a6a63473b7b1fa5424de7b7a776
       branch: master
