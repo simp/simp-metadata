@@ -76,7 +76,7 @@ releases:
     augeasproviders_grub:
       ref: aa550a1b1df303eb2a07b80634f5e83b5ad718b8
       branch: master
-      tag: ''
+      tag: 3.0.1
     augeasproviders_mounttab:
       ref: 169d2cd9730059fb4dab983b864ba1abab73ed14
       branch: master
