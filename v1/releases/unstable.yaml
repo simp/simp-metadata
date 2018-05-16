@@ -452,7 +452,7 @@ releases:
     puppet-nsswitch:
       ref: 506a7f0fcecc72000f87a42ebf564ccdfd895d37
       branch: master
-      tag: ''
+      tag: 2.0.0
     pupmod-simp-libkv:
       tag: 0.6.1f
       ref: de631cc5c485fd872c719955b780861e76fea6d5
