@@ -8,7 +8,7 @@ releases:
       ref: 8a973cd2d52692a5950fdbc24504e2f9ac91daec
       branch: master
     simp-rsync:
-      ref: d03a15bfbdb7fd756b71e3e8e10b2fc7bbaa9f31
+      ref: ''
       branch: master
     pupmod-simp-rsync:
       ref: '0000000000000000000000000000000000000000'
