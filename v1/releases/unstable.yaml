@@ -112,7 +112,7 @@ releases:
     puppet-gpasswd:
       ref: 5859d88cea1f9841dda6cca321c9d106e9f0559a
       branch: master
-      tag: 1.0.5
+      tag: ''
     puppetlabs-apache:
       ref: ''
       branch: master
