@@ -114,7 +114,7 @@ releases:
       branch: master
       tag: 1.0.5
     puppetlabs-apache:
-      ref: 0b270f9bfe0830c95052a5ea1a205af14c01ed79
+      ref: ''
       branch: master
       tag: ''
     puppetlabs-concat:
