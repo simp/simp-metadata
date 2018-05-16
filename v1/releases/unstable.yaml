@@ -226,7 +226,7 @@ releases:
       branch: master
       tag: 7.0.1
     puppet-haveged:
-      ref: 2f16d86710b1dddc47f51e409b094c9a54df8c7b
+      ref: ''
       branch: master
       tag: ''
     pupmod-simp-incron:
