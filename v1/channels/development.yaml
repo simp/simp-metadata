@@ -121,7 +121,7 @@ releases:
       ref: 93b88b78364ee35f2bf39ca98ad08b78f423c1d2
       branch: master
     puppet-timezone:
-      ref: ''
+      ref: c9db0461d16959ed195ef2e44f29f88ecffd9c09
       branch: master
     pupmod-simp-acpid:
       ref: 66ec8df52c867252a742c8023ddf176105147dc3
