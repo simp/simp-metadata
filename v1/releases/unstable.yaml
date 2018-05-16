@@ -92,7 +92,7 @@ releases:
     augeasproviders_postgresql:
       ref: 39d033fd9fa5ce1d67bbac81148c3d63615378a9
       branch: master
-      tag: 3.0.0
+      tag: ''
     augeasproviders_puppet:
       ref: 5419f7e19c5721f2ed54654e791fd6bbc3be9707
       branch: master
