@@ -126,7 +126,7 @@ releases:
       branch: master
       tag: 2.2.0
     puppetlabs-java:
-      ref: ''
+      ref: 10503819d25aefd2fc457de82c76835982903b03
       branch: master
       tag: ''
     puppetlabs-java_ks:
