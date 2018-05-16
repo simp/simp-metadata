@@ -228,7 +228,7 @@ releases:
     puppet-haveged:
       ref: 2f16d86710b1dddc47f51e409b094c9a54df8c7b
       branch: master
-      tag: ''
+      tag: 0.4.5
     pupmod-simp-incron:
       ref: ''
       branch: master
