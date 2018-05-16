@@ -115,6 +115,7 @@ releases:
     puppetlabs-stdlib:
       tag: 4.19.0
       branch: master
+      ref: b83fda834d791f6dda4042df9f0d0425a989ed49
     puppet-datacat:
       ref: 93b88b78364ee35f2bf39ca98ad08b78f423c1d2
       branch: master
