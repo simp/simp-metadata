@@ -104,7 +104,7 @@ releases:
     augeasproviders_ssh:
       ref: 44273c14afb678135bf2812550ac982a54c1eab4
       branch: master
-      tag: ''
+      tag: 3.0.0
     augeasproviders_sysctl:
       ref: 012cd99bb6f1fdf210a2bc1c3f153138643dfb48
       branch: master
