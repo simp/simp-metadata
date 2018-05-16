@@ -16,7 +16,7 @@ releases:
     simp-rsync:
       ref: 472f8da85d4b6b3d8579e60c168c84c578f818d5
       branch: master
-      tag: 6.2.0
+      tag: ''
     simp-adapter:
       ref: 860fa56c1286c9e9a090f39d38fdf32431bcd4bf
       branch: master
