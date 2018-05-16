@@ -170,7 +170,7 @@ releases:
       ref: e706e2b2e22cecdca86d2ee48143a1c607a486df
       branch: master
     puppet-haveged:
-      ref: d0e335efbccfd8e12f1ad2b70855df21a71aa7a3
+      ref: ''
       branch: master
     pupmod-simp-incron:
       ref: a431475ee9e300cb3293930409577fd31bcafe30
