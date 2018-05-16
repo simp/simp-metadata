@@ -130,7 +130,7 @@ releases:
       branch: master
       tag: ''
     puppetlabs-java_ks:
-      ref: '029a74c9cd1a1c8321f5582e392de26735d07d91'
+      ref: ''
       branch: master
       tag: ''
     puppetlabs-puppet_authorization:
