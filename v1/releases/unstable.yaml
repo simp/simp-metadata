@@ -50,7 +50,7 @@ releases:
       branch: master
       ref: 28f96cac4b55ac0eaa4b32fdce3426d9aa912ea2
     puppet-logstash:
-      tag: 6.0.2
+      tag: ''
       branch: master
       ref: '08cc70dbcfd19f669cc2cf3cfecac817105569f6'
     puppet-file_concat:
