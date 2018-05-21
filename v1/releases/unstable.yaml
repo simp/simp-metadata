@@ -48,7 +48,7 @@ releases:
     puppet-elasticsearch:
       tag: 6.2.0
       branch: master
-      ref: 7d297e0002f1519e488620b7580963c80fe89f18
+      ref: 28f96cac4b55ac0eaa4b32fdce3426d9aa912ea2
     puppet-logstash:
       tag: 6.0.2
       branch: master
