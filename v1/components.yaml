@@ -1676,3 +1676,6 @@ components:
     - url: https://github.com/simp/puppet-gitlab.git
       type: git
       primary: true
+  pkg-r10k:
+    locations:
+    - primary: true
