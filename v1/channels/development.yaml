@@ -139,7 +139,7 @@ releases:
       ref: 54f4e261f5e50bcf821eb5a4b0577f329c62a92c
       branch: master
     pupmod-simp-autofs:
-      ref: 03dc56021d5ea0735bd17c4e954b38a049efc36d
+      ref: 8e5e57bd27d9bb5369671a62bb1ff3c525a202cc
       branch: master
     pupmod-simp-chkrootkit:
       ref: 9896b324489f1f615c48736aed18f47c2bc86de8
