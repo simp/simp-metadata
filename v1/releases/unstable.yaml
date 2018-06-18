@@ -304,7 +304,7 @@ releases:
     pupmod-simp-openscap:
       ref: f6c2e737f3c01171741b4154be1ea7d85dffb3a4
       branch: master
-      tag: 6.0.4
+      tag: 6.0.5
     pupmod-simp-pam:
       ref: c6f60a6bca3bbd278fc17350931c20c9900d3bbc
       branch: master
