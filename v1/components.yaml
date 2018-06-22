@@ -108,7 +108,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders:
+  herculesteam-augeasproviders:
     authoritative: true
     primary_source:
       host: github.com
@@ -116,11 +116,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders
+      path: simp/augeasproviders
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_apache:
+  herculesteam-augeasproviders_apache:
     authoritative: true
     primary_source:
       host: github.com
@@ -128,11 +128,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_apache
+      path: simp/augeasproviders_apache
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_base:
+  herculesteam-augeasproviders_base:
     authoritative: true
     primary_source:
       host: github.com
@@ -140,11 +140,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_base
+      path: simp/augeasproviders_base
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_core:
+  herculesteam-augeasproviders_core:
     authoritative: true
     primary_source:
       host: github.com
@@ -152,11 +152,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_core
+      path: simp/augeasproviders_core
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_grub:
+  herculesteam-augeasproviders_grub:
     authoritative: true
     primary_source:
       host: github.com
@@ -164,11 +164,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_grub
+      path: simp/augeasproviders_grub
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_mounttab:
+  herculesteam-augeasproviders_mounttab:
     authoritative: true
     primary_source:
       host: github.com
@@ -176,11 +176,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_mounttab
+      path: simp/augeasproviders_mounttab
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_nagios:
+  herculesteam-augeasproviders_nagios:
     authoritative: true
     primary_source:
       host: github.com
@@ -188,11 +188,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_nagios
+      path: simp/augeasproviders_nagios
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_pam:
+  herculesteam-augeasproviders_pam:
     authoritative: true
     primary_source:
       host: github.com
@@ -200,11 +200,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_pam
+      path: simp/augeasproviders_pam
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_postgresql:
+  herculesteam-augeasproviders_postgresql:
     authoritative: true
     primary_source:
       host: github.com
@@ -212,11 +212,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_postgresql
+      path: simp/augeasproviders_postgresql
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_puppet:
+  herculesteam-augeasproviders_puppet:
     authoritative: true
     primary_source:
       host: github.com
@@ -224,11 +224,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_puppet
+      path: simp/augeasproviders_puppet
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_shellvar:
+  herculesteam-augeasproviders_shellvar:
     authoritative: true
     primary_source:
       host: github.com
@@ -236,11 +236,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_shellvar
+      path: simp/augeasproviders_shellvar
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_ssh:
+  herculesteam-augeasproviders_ssh:
     authoritative: true
     primary_source:
       host: github.com
@@ -248,11 +248,11 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_ssh
+      path: simp/augeasproviders_ssh
       type: git
     format: git
     component-type: puppet-module
-  augeasproviders_sysctl:
+  herculesteam-augeasproviders_sysctl:
     authoritative: true
     primary_source:
       host: github.com
@@ -260,7 +260,7 @@ components:
       type: git
     mirrors:
     - host: gitlab.com
-      path: simp/herculesteam-augeasproviders_sysctl
+      path: simp/augeasproviders_sysctl
       type: git
     format: git
     component-type: puppet-module
