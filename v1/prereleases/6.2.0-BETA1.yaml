@@ -357,7 +357,7 @@ releases:
       ref: 244647701c191a6a63473b7b1fa5424de7b7a776
       branch: master
       tag: 5.0.1
-    pupmod-elastic-elastic_stack:
+    elastic-elastic_stack:
       ref: 7211cc090a6e999fdbd22f44287cf7ec8621d453
       branch: master
       tag: 6.0.1
