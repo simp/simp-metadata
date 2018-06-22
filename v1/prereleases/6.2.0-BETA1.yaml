@@ -109,9 +109,6 @@ releases:
       ref: 012cd99bb6f1fdf210a2bc1c3f153138643dfb48
       branch: master
       tag: 2.2.0
-    herculesteam-augeasproviders_syslog:
-      ref: 514215c649dd1863029108f73bc7a6dce020b009
-      tag: 2.1.1
     puppet-gpasswd:
       ref: 5859d88cea1f9841dda6cca321c9d106e9f0559a
       branch: master
