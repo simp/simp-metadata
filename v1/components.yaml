@@ -1680,9 +1680,9 @@ components:
     component-type: puppet-module
     authoritative: true
     locations:
-    -url: https://github.com/elastic/puppet-elastic-stack.git
-    type: git
-    primary: true
+    - url: https://github.com/elastic/puppet-elastic-stack.git
+      type: git
+      primary: true
   pkg-r10k:
     component-type: asset
     authoritative: true
