@@ -52,7 +52,7 @@ releases:
     puppet-logstash:
       tag: 6.0.2
       branch: master
-      ref: 08cc70dbcfd19f669cc2cf3cfecac817105569f6
+      ref: '08cc70dbcfd19f669cc2cf3cfecac817105569f6'
     puppet-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
       branch: master
@@ -101,7 +101,7 @@ releases:
       ref: 67c592af6fdfbee92e61733b5f146c851b93232c
       branch: master
       tag: 2.2.4
-    augeasproviders_ssh:
+    herculesteam-augeasproviders_ssh:
       ref: 44273c14afb678135bf2812550ac982a54c1eab4
       branch: master
       tag: 3.0.0
@@ -130,7 +130,7 @@ releases:
       branch: master
       tag: 2.4.0
     puppetlabs-java_ks:
-      ref: 029a74c9cd1a1c8321f5582e392de26735d07d91
+      ref: '029a74c9cd1a1c8321f5582e392de26735d07d91'
       branch: master
       tag: 2.1.0
     puppetlabs-puppet_authorization:
@@ -357,10 +357,6 @@ releases:
       ref: 244647701c191a6a63473b7b1fa5424de7b7a776
       branch: master
       tag: 5.0.1
-    pupmod-elastic-elastic_stack:
-      ref: 7211cc090a6e999fdbd22f44287cf7ec8621d453
-      branch: master
-      tag: 6.0.1
     pupmod-simp-simp_grafana:
       ref: d1c22d138a6775377d18746c2f02c02d4b2c0f6a
       branch: master

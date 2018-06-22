@@ -1676,13 +1676,6 @@ components:
     - url: https://github.com/simp/puppet-gitlab.git
       type: git
       primary: true
-  pupmod-elastic-elastic_stack:
-    component-type: puppet-module
-    authoritative: true
-    locations:
-    - url: https://github.com/elastic/puppet-elastic-stack.git
-      type: git
-      primary: true
   pkg-r10k:
     component-type: asset
     authoritative: true
