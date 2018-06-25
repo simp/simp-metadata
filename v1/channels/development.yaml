@@ -290,7 +290,7 @@ releases:
       ref: cce499a68d6dcd1244d8d6248e6efc66fc931d45
       branch: master
     pupmod-simp-site:
-      ref: 61327ae260572365cab6f778cd78f7769aa0d16e
+      ref: 296be8608e3432356ce8137ad281c9a19776082d
       branch: master
     pupmod-simp-ssh:
       ref: 3ae36f2c13a71c5baea4282d15b8fe4767e0e781
