@@ -434,7 +434,7 @@ releases:
       branch: master
       tag: 6.0.1
     pupmod-simp-vnc:
-      ref: c22ecb4d344d24c260ead976308d94969e8317a4
+      ref: '0000000000000000000000000000000000000000'
       branch: master
       tag: 7.0.1
     pupmod-simp-vsftpd:
