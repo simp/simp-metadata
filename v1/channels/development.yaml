@@ -17,7 +17,7 @@ releases:
       ref: 0a97cf962150af1dee3c564219e1961406726377
       branch: master
     simp-environment:
-      ref: aa8b0f1a7097d5693543dfce0b8bffebcb33ffc2
+      ref: e4ecf03a0e9d06d7bbf0c40cc20187a4014e8f5e
       branch: master
     simp-gpgkeys:
       ref: 0cb94266ee5f02822cf6ed99df6d2597f39a26e6
