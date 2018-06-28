@@ -370,7 +370,7 @@ releases:
       branch: master
       tag: 1.2.0
     pupmod-simp-simp_nfs:
-      ref: 1f0ac983ed8e6cb13d8467b73686b1482f893542
+      ref: 984f8e745b24bae269e8a9d50099a296088c4f2f
       branch: master
       tag: 0.0.5
     pupmod-simp-simp_rsyslog:
