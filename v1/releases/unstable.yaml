@@ -318,7 +318,7 @@ releases:
       branch: master
       tag: 6.1.0
     pupmod-simp-postfix:
-      ref: d272b6b42f4dde7f72d1595cdd5de05c8ba1d712
+      ref: 75581cfd1437c95998797b6b5071fea03b81ecbc
       branch: master
       tag: 5.1.0
     pupmod-simp-pupmod:
