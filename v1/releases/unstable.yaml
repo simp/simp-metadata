@@ -372,7 +372,7 @@ releases:
     pupmod-simp-simp_nfs:
       ref: 1f0ac983ed8e6cb13d8467b73686b1482f893542
       branch: master
-      tag: 0.0.4
+      tag: 0.0.5
     pupmod-simp-simp_rsyslog:
       ref: a2ebef2054c5fb4d3e2624bf606dfbb9f83b604b
       branch: master
