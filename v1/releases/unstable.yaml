@@ -400,7 +400,7 @@ releases:
     pupmod-simp-sudo:
       ref: e53f9a98238433b26573ae32887f2122af2118a5
       branch: master
-      tag: 5.0.4
+      tag: 5.0.5
     pupmod-simp-sudosh:
       ref: 0df590e97b9081b66aeb5e33ea9e24455e9f0316
       branch: master
