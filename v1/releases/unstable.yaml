@@ -368,7 +368,7 @@ releases:
     pupmod-simp-simp_options:
       ref: 774fad86b9fc0664b39d1366b95fb5e3f8799165
       branch: master
-      tag: 1.1.0
+      tag: 1.2.0
     pupmod-simp-simp_nfs:
       ref: 1f0ac983ed8e6cb13d8467b73686b1482f893542
       branch: master
