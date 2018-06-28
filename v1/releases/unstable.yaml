@@ -310,7 +310,7 @@ releases:
       branch: master
       tag: 6.2.0
     pupmod-simp-pki:
-      ref: 90829ce197fa436d29e105e93a6e8a37a3c0de42
+      ref: f24f7076fb75eb7541a2fa09fa05b396a6e7c048
       branch: master
       tag: 6.0.3
     pupmod-simp-polkit:
