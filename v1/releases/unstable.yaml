@@ -386,7 +386,7 @@ releases:
       branch: master
       tag: 2.0.4
     pupmod-simp-ssh:
-      ref: b1280e4564b8175780aa4b376ca1b9971cd3afdb
+      ref: 476bd30f5542be8632481e7c31679f8bddce29ce
       branch: master
       tag: 6.4.2
     pupmod-simp-sssd:
