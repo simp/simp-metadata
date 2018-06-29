@@ -308,7 +308,7 @@ releases:
     pupmod-simp-pam:
       ref: c6f60a6bca3bbd278fc17350931c20c9900d3bbc
       branch: master
-      tag: 6.2.0
+      tag: 6.2.1
     pupmod-simp-pki:
       ref: '0000000000000000000000000000000000000000'
       branch: master
