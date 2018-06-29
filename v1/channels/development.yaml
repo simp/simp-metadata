@@ -20,7 +20,7 @@ releases:
       ref: e4ecf03a0e9d06d7bbf0c40cc20187a4014e8f5e
       branch: master
     simp-gpgkeys:
-      ref: 0cb94266ee5f02822cf6ed99df6d2597f39a26e6
+      ref: 28be98f67de6baa8ba29f0f3746cbb7cc8128cc4
       branch: master
     simp-utils:
       ref: 1828ea0d02f6c8a3277cffb0bbddc272afa9c93f
