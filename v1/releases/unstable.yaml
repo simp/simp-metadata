@@ -234,7 +234,7 @@ releases:
       branch: master
       tag: 0.2.0
     pupmod-simp-iptables:
-      ref: c5b178f7fe4e9763df3b0b9d70116bdc3ee4abf1
+      ref: fbae038548c7b76aa50d0cc4285b1d3c5ed4800d
       branch: master
       tag: 6.1.5
     pupmod-simp-issue:
