@@ -14,7 +14,7 @@ releases:
       ref: b3534c8eb35d9dd527e6459a54277feb8d614f80
       branch: master
     simp-adapter:
-      ref: 0dd2a55a4947ebbee13b1603c1aba22bc4f1f306
+      ref: c1cb4e2cc03bc9bed0f828d4bf30fcb46b540216
       branch: master
     simp-environment:
       ref: e4ecf03a0e9d06d7bbf0c40cc20187a4014e8f5e
