@@ -620,17 +620,12 @@ components:
     format: git
     component-type: puppet-module
   simp-haveged:
-    authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppet-haveged
-      type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-haveged
-      type: git
-    format: git
     component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-haveged
+      type: git
+      primary: true
   pupmod-simp-incron:
     authoritative: true
     primary_source:
@@ -1632,13 +1627,6 @@ components:
     authoritative: true
     locations:
     - url: https://github.com/simp/puppet-snmp
-      type: git
-      primary: true
-  simp-haveged:
-    component-type: puppet-module
-    authoritative: true
-    locations:
-    - url: https://github.com/simp/pupmod-simp-haveged
       type: git
       primary: true
   simp-simp_apache:

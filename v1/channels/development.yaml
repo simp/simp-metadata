@@ -136,7 +136,7 @@ releases:
       ref: af4dc0bdd873614e116e99ee065c49f441c8ade4
       branch: master
     pupmod-simp-auditd:
-      ref: a17d74bca9f84d62b933466800646629e2fd0e43
+      ref: 405a6909b00ffa7845b5264bb269a24f333b8faa
       branch: master
     pupmod-simp-autofs:
       ref: 8e5e57bd27d9bb5369671a62bb1ff3c525a202cc
