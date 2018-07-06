@@ -18,12 +18,20 @@ components:
       host: github.com
       path: simp/pupmod-simp-rsync
       type: git
+    mirrors:
+    - host: gitlab.com
+      path: simp/pupmod-simp-rsync
+      type: git
     format: git
     component-type: puppet-module
   simp-rsync-skeleton:
     authoritative: true
     primary_source:
       host: github.com
+      path: simp/simp-rsync-skeleton
+      type: git
+    mirrors:
+    - host: gitlab.com
       path: simp/simp-rsync-skeleton
       type: git
     format: git
