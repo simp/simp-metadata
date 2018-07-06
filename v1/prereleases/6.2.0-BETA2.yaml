@@ -13,7 +13,7 @@ releases:
       ref: b3534c8eb35d9dd527e6459a54277feb8d614f80
       branch: master
       tag: 6.0.6
-    simp-rsync:
+    simp-rsync-skeleton:
       ref: aaf439407429acd8a1f07d9f7505eb232a8bcd62
       branch: master
       tag: 6.2.1
@@ -41,34 +41,22 @@ releases:
       ref: 9ccb9bbe66cb44118ebbc9f91ab2a5c99440dbe3
       branch: master
       tag: v4.1.1
-    puppet-kmod:
+    camptocamp-kmod:
       tag: 2.2.0
       branch: master
       ref: 7c17b7dbc4fbf1f63f6bae197acdbab78f7f12fd
-    puppet-elasticsearch:
+    elastic-elasticsearch:
       tag: 5.5.0
       branch: master
       ref: 7d297e0002f1519e488620b7580963c80fe89f18
-    puppet-logstash:
+    elastic-logstash:
       tag: 6.0.2
       branch: master
       ref: '08cc70dbcfd19f669cc2cf3cfecac817105569f6'
-    puppet-file_concat:
-      ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
-      branch: master
-      tag: simp6.0.0-1.0.1
     herculesteam-augeasproviders:
       ref: bbfc6ff9fa9acfd39e1ae9aff6341dc07e86a8d4
       branch: master
       tag: v2.1.3
-    herculesteam-augeasproviders_apache:
-      ref: d2d51f011c845c888151a95d00a4972ec1054a6b
-      branch: master
-      tag: 3.0.0
-    herculesteam-augeasproviders_base:
-      ref: de6152df502f2642003c439195acc438c6da69b3
-      branch: master
-      tag: simp6.0.0-2.0.1
     herculesteam-augeasproviders_core:
       ref: 604680cb5fe7e32fd1ad1051fc34ef100a4d6923
       branch: master
@@ -109,7 +97,7 @@ releases:
       ref: 012cd99bb6f1fdf210a2bc1c3f153138643dfb48
       branch: master
       tag: 2.2.0
-    puppet-gpasswd:
+    onyxpoint-gpasswd:
       ref: 5859d88cea1f9841dda6cca321c9d106e9f0559a
       branch: master
       tag: 1.0.5
@@ -121,6 +109,9 @@ releases:
       ref: c95dc13ea769d187a1ad3e51f45f4c266baa7825
       branch: master
       tag: 4.1.1
+    puppetlabs-docker:
+      ref: 11dc4a66a86978f22ce057e5027fe20243d26916
+      tag: 1.1.0
     puppetlabs-inifile:
       ref: b8a43a73d6b88236c851bbf87c1891ddc5d70497
       branch: master
@@ -153,22 +144,14 @@ releases:
       tag: 4.25.0
       branch: master
       ref: b83fda834d791f6dda4042df9f0d0425a989ed49
-    puppet-datacat:
+    richardc-datacat:
       ref: 93b88b78364ee35f2bf39ca98ad08b78f423c1d2
       branch: master
       tag: simp6.0.0-0.6.2
-    puppet-timezone:
-      ref: c9db0461d16959ed195ef2e44f29f88ecffd9c09
-      branch: master
-      tag: v3.5.0
     pupmod-simp-acpid:
       ref: 403c1cee95ee22a27a2e8cba26067b26f99e40d7
       branch: master
       tag: 1.0.2
-    pupmod-simp-activemq:
-      ref: 6209548987267a9f6518a81c06e5028e3baa72e7
-      branch: master
-      tag: 4.0.1
     pupmod-simp-aide:
       ref: e4fd206cfbb9c63abf311ed4a814c0f349487659
       branch: master
@@ -225,7 +208,7 @@ releases:
       ref: ab95fadc39f917a75c937f25007c9e9c4b172816
       branch: master
       tag: 7.0.1
-    puppet-haveged:
+    simp-haveged:
       ref: 2f16d86710b1dddc47f51e409b094c9a54df8c7b
       branch: master
       tag: 0.4.5
@@ -245,7 +228,7 @@ releases:
       ref: add24f99fb3c5f7537489f0766b85f6273cf808e
       branch: master
       tag: 6.0.1
-    pupmod-simp-journald:
+    cristifalcas-journald:
       ref: 00114b643ff50bb1fe69166ec770e7b38ef78f71
       branch: master
       tag: 0.6.0
@@ -269,10 +252,6 @@ releases:
       ref: daff4cd505643edf69b4c0411d00bf543d9a8b42
       branch: master
       tag: 6.0.1
-    pupmod-simp-mcollective:
-      ref: 185d58bd3400fb051f4b41e488dca7a2dde58b85
-      branch: master
-      tag: 2.3.3
     pupmod-simp-mozilla:
       ref: 8e9b013f59559a598479bfe6b3cf81ca967c718a
       branch: master
@@ -349,10 +328,13 @@ releases:
       ref: d287b90cb654de7e2857697391d556de1f9d1023
       branch: master
       tag: 6.0.1
-    pupmod-simp-apache:
+    pupmod-simp-simp_apache:
       ref: a0b61eb6ddc22ff810f7f47576f1677712752160
       branch: master
       tag: 6.0.2
+    pupmod-simp-simp_docker:
+      ref: 9996a9b65a5b78e815783cfa27bc871c9e4b5beb
+      tag: 0.1.0
     pupmod-simp-simp_elasticsearch:
       ref: 244647701c191a6a63473b7b1fa5424de7b7a776
       branch: master
@@ -449,11 +431,11 @@ releases:
       ref: 693fd682d7bac77f7697a6d8f483a2e752078a5e
       branch: master
       tag: 0.2.1
-    puppet-nsswitch:
+    trlinkin-nsswitch:
       ref: 506a7f0fcecc72000f87a42ebf564ccdfd895d37
       branch: master
       tag: 2.0.0
-    camptocamp-systemd:
+    simp-systemd:
       tag: 1.1.1
       ref: b29c6eb2cee112a031a6780a943d43a5f335609b
     puppetlabs-hocon:

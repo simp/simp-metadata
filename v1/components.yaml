@@ -18,12 +18,15 @@ components:
       host: github.com
       path: simp/pupmod-simp-rsync
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-rsync
+    component-type: puppet-module
+  simp-rsync-skeleton:
+    authoritative: true
+    primary_source:
+      host: github.com
+      path: simp/simp-rsync-skeleton
       type: git
     format: git
-    component-type: puppet-module
+    component-type: rpm
   rubygem-simp-cli:
     authoritative: true
     primary_source:
@@ -60,7 +63,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  puppet-kmod:
+  camptocamp-kmod:
     authoritative: false
     primary_source:
       host: github.com
@@ -72,7 +75,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  puppet-elasticsearch:
+  elastic-elasticsearch:
     authoritative: false
     primary_source:
       host: github.com
@@ -84,7 +87,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  puppet-logstash:
+  elastic-logstash:
     authoritative: false
     primary_source:
       host: github.com
@@ -264,7 +267,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  puppet-gpasswd:
+  onyxpoint-gpasswd:
     authoritative: true
     primary_source:
       host: github.com
@@ -288,6 +291,14 @@ components:
       type: git
     format: git
     component-type: puppet-module
+  puppetlabs-docker:
+  authoritative: true
+  primary_source:
+    host: github.com
+    path: simp/puppetlabs-docker
+    type: git
+  format: git
+  component-type: puppet-module
   puppetlabs-concat:
     authoritative: true
     primary_source:
@@ -384,7 +395,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  puppet-datacat:
+  richardc-datacat:
     authoritative: true
     primary_source:
       host: github.com
@@ -600,7 +611,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  puppet-haveged:
+  simp-haveged:
     authoritative: true
     primary_source:
       host: github.com
@@ -660,7 +671,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  pupmod-simp-journald:
+  cristifalcas-journald:
     authoritative: true
     primary_source:
       host: github.com
@@ -972,7 +983,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  pupmod-simp-apache:
+  pupmod-simp-simp_apache:
     authoritative: true
     primary_source:
       host: github.com
@@ -981,6 +992,14 @@ components:
     mirrors:
     - host: gitlab.com
       path: simp/simp-simp_apache
+      type: git
+    format: git
+    component-type: puppet-module
+  pupmod-simp-simp_docker:
+    authoritative: true
+    primary_source:
+      host: github.com
+      path: simp/pupmod-simp-simp_docker
       type: git
     format: git
     component-type: puppet-module
@@ -1272,7 +1291,7 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  puppet-nsswitch:
+  trlinkin-nsswitch:
     authoritative: true
     primary_source:
       host: github.com
@@ -1380,6 +1399,14 @@ components:
       type: git
     format: git
     component-type: rpm
+  simp-rsync_data:
+    authoritative: true
+    primary_source:
+      host: github.com
+      path: simp/simp-rsync-skeleton
+      type: git
+    format: git
+    component-type: asset
   rubygem-simp-rake-helpers:
     authoritative: true
     primary_source:
@@ -1592,7 +1619,7 @@ components:
     - url: https://github.com/simp/simp-rsync-skeleton
       type: git
       primary: true
-  camptocamp-systemd:
+  simp-systemd:
     component-type: puppet-module
     authoritative: true
     locations:
