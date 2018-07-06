@@ -2,303 +2,178 @@
 components:
   simp-doc:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/simp-doc
+    locations:
+    - url: https://github.com/simp/simp-doc
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-doc
-      type: git
-    format: git
+      primary: true
     component-type: documentation
   pupmod-simp-rsync:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-rsync
+    locations:
+    - url: https://github.com/simp/pupmod-simp-rsync
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/pupmod-simp-rsync
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   simp-rsync-skeleton:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/simp-rsync-skeleton
+    locations:
+    - url: https://github.com/simp/simp-rsync-skeleton
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-rsync-skeleton
-      type: git
-    format: git
+      primary: true
     component-type: rpm
   rubygem-simp-cli:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/rubygem-simp-cli
+    locations:
+    - url: https://github.com/simp/rubygem-simp-cli
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/rubygem-simp_cli
-      type: git
-    format: git
+      primary: true
     component-type: rubygem
   binford2k-node_encrypt:
     authoritative: false
-    primary_source:
-      host: github.com
-      path: simp/binford2k-node_encrypt
+    locations:
+    - url: https://github.com/simp/binford2k-node_encrypt
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/binford2k-node_encrypt
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppet-grafana:
     authoritative: false
-    primary_source:
-      host: github.com
-      path: simp/puppet-grafana
+    locations:
+    - url: https://github.com/simp/puppet-grafana
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/bfraser-grafana
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   camptocamp-kmod:
     authoritative: false
-    primary_source:
-      host: github.com
-      path: simp/puppet-kmod
+    locations:
+    - url: https://github.com/simp/puppet-kmod
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/camptocamp-kmod
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   elastic-elasticsearch:
     authoritative: false
-    primary_source:
-      host: github.com
-      path: simp/puppet-elasticsearch
+    locations:
+    - url: https://github.com/simp/puppet-elasticsearch
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/elastic-elasticsearch
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   elastic-logstash:
     authoritative: false
-    primary_source:
-      host: github.com
-      path: simp/puppet-logstash
+    locations:
+    - url: https://github.com/simp/puppet-logstash
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/elastic-logstash
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppet-file_concat:
     authoritative: false
-    primary_source:
-      host: github.com
-      path: simp/puppet-lib-file_concat
+    locations:
+    - url: https://github.com/simp/puppet-lib-file_concat
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/electrical-file_concat
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders
+    locations:
+    - url: https://github.com/simp/augeasproviders
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_apache:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_apache
+    locations:
+    - url: https://github.com/simp/augeasproviders_apache
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_apache
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_base:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_base
+    locations:
+    - url: https://github.com/simp/augeasproviders_base
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_base
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_core:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_core
+    locations:
+    - url: https://github.com/simp/augeasproviders_core
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_core
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_grub:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_grub
+    locations:
+    - url: https://github.com/simp/augeasproviders_grub
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_grub
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_mounttab:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_mounttab
+    locations:
+    - url: https://github.com/simp/augeasproviders_mounttab
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_mounttab
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_nagios:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_nagios
+    locations:
+    - url: https://github.com/simp/augeasproviders_nagios
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_nagios
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_pam:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_pam
+    locations:
+    - url: https://github.com/simp/augeasproviders_pam
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_pam
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_postgresql:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_postgresql
+    locations:
+    - url: https://github.com/simp/augeasproviders_postgresql
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_postgresql
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_puppet:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_puppet
+    locations:
+    - url: https://github.com/simp/augeasproviders_puppet
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_puppet
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_shellvar:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_shellvar
+    locations:
+    - url: https://github.com/simp/augeasproviders_shellvar
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_shellvar
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_ssh:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_ssh
+    locations:
+    - url: https://github.com/simp/augeasproviders_ssh
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_ssh
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   herculesteam-augeasproviders_sysctl:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/augeasproviders_sysctl
+    locations:
+    - url: https://github.com/simp/augeasproviders_sysctl
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/augeasproviders_sysctl
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   onyxpoint-gpasswd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppet-gpasswd
+    locations:
+    - url: https://github.com/simp/puppet-gpasswd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/onyxpoint-gpasswd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-apache:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-apache
+    locations:
+    - url: https://github.com/simp/puppetlabs-apache
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/puppetlabs-apache
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-docker:
     authoritative: true
@@ -309,315 +184,185 @@ components:
     component-type: puppet-module
   puppetlabs-concat:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-concat
+    locations:
+    - url: https://github.com/simp/puppetlabs-concat
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/puppetlabs-concat
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-inifile:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-inifile
+    locations:
+    - url: https://github.com/simp/puppetlabs-inifile
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/puppetlabs-inifile
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-java:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-java
+    locations:
+    - url: https://github.com/simp/puppetlabs-java
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/puppetlabs-java
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-java_ks:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-java_ks
+    locations:
+    - url: https://github.com/simp/puppetlabs-java_ks
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/puppetlabs-java_ks
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-motd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-motd
+    locations:
+    - url: https://github.com/simp/puppetlabs-motd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/puppetlabs-motd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-mysql:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-mysql
+    locations:
+    - url: https://github.com/simp/puppetlabs-mysql
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/puppetlabs-mysql
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-postgresql:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-postgresql
+    locations:
+    - url: https://github.com/simp/puppetlabs-postgresql
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/puppetlabs-postgresql
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-stdlib:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-stdlib
+    locations:
+    - url: https://github.com/simp/puppetlabs-stdlib
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/puppetlabs-stdlib
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   richardc-datacat:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppet-datacat
+    locations:
+    - url: https://github.com/simp/puppet-datacat
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/richardc-datacat
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppet-timezone:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppet-timezone
+    locations:
+    - url: https://github.com/simp/puppet-timezone
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/saz-timezone
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-acpid:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-acpid
+    locations:
+    - url: https://github.com/simp/pupmod-simp-acpid
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-acpid
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-activemq:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-activemq
+    locations:
+    - url: https://github.com/simp/pupmod-simp-activemq
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-activemq
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-aide:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-aide
+    locations:
+    - url: https://github.com/simp/pupmod-simp-aide
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-aide
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-at:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-at
+    locations:
+    - url: https://github.com/simp/pupmod-simp-at
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-at
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-auditd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-auditd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-auditd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-auditd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-autofs:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-autofs
+    locations:
+    - url: https://github.com/simp/pupmod-simp-autofs
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-autofs
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-chkrootkit:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-chkrootkit
+    locations:
+    - url: https://github.com/simp/pupmod-simp-chkrootkit
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-chkrootkit
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-clamav:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-clamav
+    locations:
+    - url: https://github.com/simp/pupmod-simp-clamav
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-clamav
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-compliance_markup:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-compliance_markup
+    locations:
+    - url: https://github.com/simp/pupmod-simp-compliance_markup
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-compliance_markup
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-cron:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-cron
+    locations:
+    - url: https://github.com/simp/pupmod-simp-cron
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-cron
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-dhcp:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-dhcp
+    locations:
+    - url: https://github.com/simp/pupmod-simp-dhcp
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-dhcp
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-dirtycow:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-dirtycow
+    locations:
+    - url: https://github.com/simp/pupmod-simp-dirtycow
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-dirtycow
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-fips:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-fips
+    locations:
+    - url: https://github.com/simp/pupmod-simp-fips
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-fips
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-freeradius:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-freeradius
+    locations:
+    - url: https://github.com/simp/pupmod-simp-freeradius
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-freeradius
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-gdm:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-gdm
+    locations:
+    - url: https://github.com/simp/pupmod-simp-gdm
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-gdm
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-gnome:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-gnome
+    locations:
+    - url: https://github.com/simp/pupmod-simp-gnome
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-gnome
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   simp-haveged:
     component-type: puppet-module
@@ -628,375 +373,220 @@ components:
       primary: true
   pupmod-simp-incron:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-incron
+    locations:
+    - url: https://github.com/simp/pupmod-simp-incron
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-incron
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-iptables:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-iptables
+    locations:
+    - url: https://github.com/simp/pupmod-simp-iptables
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-iptables
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-issue:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-issue
+    locations:
+    - url: https://github.com/simp/pupmod-simp-issue
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-issue
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-jenkins:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-jenkins
+    locations:
+    - url: https://github.com/simp/pupmod-simp-jenkins
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-jenkins
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   cristifalcas-journald:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-journald
+    locations:
+    - url: https://github.com/simp/pupmod-simp-journald
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-journald
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-krb5:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-krb5
+    locations:
+    - url: https://github.com/simp/pupmod-simp-krb5
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-krb5
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-libreswan:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-libreswan
+    locations:
+    - url: https://github.com/simp/pupmod-simp-libreswan
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-libreswan
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-libvirt:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-libvirt
+    locations:
+    - url: https://github.com/simp/pupmod-simp-libvirt
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-libvirt
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-logrotate:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-logrotate
+    locations:
+    - url: https://github.com/simp/pupmod-simp-logrotate
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-logrotate
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-mcafee:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-mcafee
+    locations:
+    - url: https://github.com/simp/pupmod-simp-mcafee
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-mcafee
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-mcollective:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-mcollective
+    locations:
+    - url: https://github.com/simp/pupmod-simp-mcollective
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-mcollective
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-mozilla:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-mozilla
+    locations:
+    - url: https://github.com/simp/pupmod-simp-mozilla
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-mozilla
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-named:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-named
+    locations:
+    - url: https://github.com/simp/pupmod-simp-named
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-named
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-network:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-network
+    locations:
+    - url: https://github.com/simp/pupmod-simp-network
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-network
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-nfs:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-nfs
+    locations:
+    - url: https://github.com/simp/pupmod-simp-nfs
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-nfs
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-ntpd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-ntpd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-ntpd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-ntpd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-oddjob:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-oddjob
+    locations:
+    - url: https://github.com/simp/pupmod-simp-oddjob
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-oddjob
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp_openldap:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp_openldap
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_openldap
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simp_openldap
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-openscap:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-openscap
+    locations:
+    - url: https://github.com/simp/pupmod-simp-openscap
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-openscap
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-pam:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-pam
+    locations:
+    - url: https://github.com/simp/pupmod-simp-pam
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-pam
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-pki:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-pki
+    locations:
+    - url: https://github.com/simp/pupmod-simp-pki
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-pki
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-polkit:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-polkit
+    locations:
+    - url: https://github.com/simp/pupmod-simp-polkit
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-polkit
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-postfix:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-postfix
+    locations:
+    - url: https://github.com/simp/pupmod-simp-postfix
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-postfix
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-pupmod:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-pupmod
+    locations:
+    - url: https://github.com/simp/pupmod-simp-pupmod
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-pupmod
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-puppetdb:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-puppetdb
+    locations:
+    - url: https://github.com/simp/puppetlabs-puppetdb
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-puppetdb
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-resolv:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-resolv
+    locations:
+    - url: https://github.com/simp/pupmod-simp-resolv
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-resolv
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-rsyslog:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-rsyslog
+    locations:
+    - url: https://github.com/simp/pupmod-simp-rsyslog
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-rsyslog
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-selinux:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-selinux
+    locations:
+    - url: https://github.com/simp/pupmod-simp-selinux
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-selinux
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simp
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simpcat:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simpcat
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simpcat
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simpcat
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp_apache:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp_apache
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_apache
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simp_apache
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp_docker:
     authoritative: true
@@ -1007,507 +597,297 @@ components:
     component-type: puppet-module
   pupmod-simp-simp_elasticsearch:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp_elasticsearch
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_elasticsearch
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simp_elasticsearch
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp_grafana:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp_grafana
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_grafana
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simp_grafana
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp_logstash:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp_logstash
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_logstash
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simp_logstash
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp_options:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp_options
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_options
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simp_options
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp_nfs:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp_nfs
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_nfs
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simp_nfs
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp_rsyslog:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp_rsyslog
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_rsyslog
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simp_rsyslog
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simplib:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simplib
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simplib
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-simplib
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-site:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-site
+    locations:
+    - url: https://github.com/simp/pupmod-simp-site
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-site
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-ssh:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-ssh
+    locations:
+    - url: https://github.com/simp/pupmod-simp-ssh
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-ssh
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-sssd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-sssd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-sssd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-sssd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-stunnel:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-stunnel
+    locations:
+    - url: https://github.com/simp/pupmod-simp-stunnel
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-stunnel
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-sudo:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-sudo
+    locations:
+    - url: https://github.com/simp/pupmod-simp-sudo
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-sudo
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-sudosh:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-sudosh
+    locations:
+    - url: https://github.com/simp/pupmod-simp-sudosh
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-sudosh
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-svckill:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-svckill
+    locations:
+    - url: https://github.com/simp/pupmod-simp-svckill
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-svckill
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-swap:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-swap
+    locations:
+    - url: https://github.com/simp/pupmod-simp-swap
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-swap
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-tcpwrappers:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-tcpwrappers
+    locations:
+    - url: https://github.com/simp/pupmod-simp-tcpwrappers
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-tcpwrappers
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-tftpboot:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-tftpboot
+    locations:
+    - url: https://github.com/simp/pupmod-simp-tftpboot
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-tftpboot
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-tpm:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-tpm
+    locations:
+    - url: https://github.com/simp/pupmod-simp-tpm
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-tpm
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-tuned:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-tuned
+    locations:
+    - url: https://github.com/simp/pupmod-simp-tuned
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-tuned
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-upstart:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-upstart
+    locations:
+    - url: https://github.com/simp/pupmod-simp-upstart
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-upstart
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-vnc:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-vnc
+    locations:
+    - url: https://github.com/simp/pupmod-simp-vnc
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-vnc
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-vsftpd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-vsftpd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-vsftpd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-vsftpd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-xinetd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-xinetd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-xinetd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-xinetd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-useradd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-useradd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-useradd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-useradd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   trlinkin-nsswitch:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppet-nsswitch
+    locations:
+    - url: https://github.com/simp/puppet-nsswitch
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/trlinkin-nsswitch
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-ganglia:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-ganglia
+    locations:
+    - url: https://github.com/simp/pupmod-simp-ganglia
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-ganglia
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-nscd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-nscd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-nscd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-nscd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-openldap:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-openldap
+    locations:
+    - url: https://github.com/simp/pupmod-simp-openldap
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-openldap
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-snmpd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-snmpd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-snmpd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-snmpd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-sysctl:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-sysctl
+    locations:
+    - url: https://github.com/simp/pupmod-simp-sysctl
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-sysctl
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-windowmanager:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-windowmanager
+    locations:
+    - url: https://github.com/simp/pupmod-simp-windowmanager
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-windowmanager
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-xwindows:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-xwindows
+    locations:
+    - url: https://github.com/simp/pupmod-simp-xwindows
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-xwindows
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   rubygem-simp-rake-helpers:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/rubygem-simp-rake-helpers
+    locations:
+    - url: https://github.com/simp/rubygem-simp-rake-helpers
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/rubygems-simp-rake-helpers
-      type: git
-    format: git
+      primary: true
     component-type: rubygem
   pupmod-simp-backuppc:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-backuppc
+    locations:
+    - url: https://github.com/simp/pupmod-simp-backuppc
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-backuppc
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-cgroups:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-cgroups
+    locations:
+    - url: https://github.com/simp/pupmod-simp-cgroups
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-cgroups
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-concat:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-concat
+    locations:
+    - url: https://github.com/simp/pupmod-simp-concat
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-concat
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-gfs2:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-gfs2
+    locations:
+    - url: https://github.com/simp/pupmod-simp-gfs2
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-gfs2
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-kibana:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-kibana
+    locations:
+    - url: https://github.com/simp/pupmod-simp-kibana
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-kibana
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppet-memcached:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppet-memcached
+    locations:
+    - url: https://github.com/simp/puppet-memcached
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-memcached
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-multipathd:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-multipathd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-multipathd
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-multipathd
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-foreman:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-foreman
+    locations:
+    - url: https://github.com/simp/pupmod-simp-foreman
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp-foreman
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-compliance:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: trevor-vaughan/pupmod-compliance
+    locations:
+    - url: https://github.com/trevor-vaughan/pupmod-compliance
       type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/onyxpoint-compliance_mapper
-      type: git
-    format: git
+      primary: true
     component-type: puppet-module
   simp-adapter:
     format: git
