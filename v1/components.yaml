@@ -302,11 +302,10 @@ components:
     component-type: puppet-module
   puppetlabs-docker:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/puppetlabs-docker
+    locations:
+    - url: https://github.com/simp/puppetlabs-docker
       type: git
-    format: git
+      primary: true
     component-type: puppet-module
   puppetlabs-concat:
     authoritative: true
@@ -1006,11 +1005,10 @@ components:
     component-type: puppet-module
   pupmod-simp-simp_docker:
     authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/pupmod-simp-simp_docker
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_docker
       type: git
-    format: git
+      primary: true
     component-type: puppet-module
   pupmod-simp-simp_elasticsearch:
     authoritative: true
@@ -1396,26 +1394,6 @@ components:
       type: git
     format: git
     component-type: puppet-module
-  simp-rsync:
-    authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/simp-rsync
-      type: git
-    mirrors:
-    - host: gitlab.com
-      path: simp/simp_rsync
-      type: git
-    format: git
-    component-type: rpm
-  simp-rsync_data:
-    authoritative: true
-    primary_source:
-      host: github.com
-      path: simp/simp-rsync-skeleton
-      type: git
-    format: git
-    component-type: asset
   rubygem-simp-rake-helpers:
     authoritative: true
     primary_source:
@@ -1619,13 +1597,6 @@ components:
     authoritative: true
     locations:
     - url: https://github.com/simp/simp-core
-      type: git
-      primary: true
-  simp-rsync_data:
-    component-type: puppet-module
-    authoritative: true
-    locations:
-    - url: https://github.com/simp/simp-rsync-skeleton
       type: git
       primary: true
   simp-systemd:
