@@ -18,6 +18,7 @@ components:
       host: github.com
       path: simp/pupmod-simp-rsync
       type: git
+    format: git
     component-type: puppet-module
   simp-rsync-skeleton:
     authoritative: true
