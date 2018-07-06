@@ -178,7 +178,7 @@ releases:
       branch: master
       tag: 0.0.4
     pupmod-simp-auditd:
-      ref: 11e9a98c2eaf41f7868cc17fd56eb2eea72225ea
+      ref: 6a60e860b2e2f28312e323abe16c754d71a02cab
       branch: master
       tag: 8.0.0
     pupmod-simp-autofs:
