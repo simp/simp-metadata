@@ -1148,3 +1148,94 @@ components:
     - url: https://github.com/simp/simp-rsync
       type: git
       primary: true
+  augeasproviders:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders
+      type: git
+      primary: true
+  augeasproviders_apache:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_apache
+      type: git
+      primary: true
+  augeasproviders_base:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_base
+      type: git
+      primary: true
+  augeasproviders_core:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_core
+      type: git
+      primary: true
+  augeasproviders_grub:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_grub
+      type: git
+      primary: true
+  augeasproviders_mounttab:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_mounttab
+      type: git
+      primary: true
+  augeasproviders_nagios:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_nagios
+      type: git
+      primary: true
+  augeasproviders_pam:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_pam
+      type: git
+      primary: true
+  augeasproviders_postgresql:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_postgresql
+      type: git
+      primary: true
+  augeasproviders_puppet:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_puppet
+      type: git
+      primary: true
+  augeasproviders_shellvar:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_shellvar
+      type: git
+      primary: true
+  augeasproviders_ssh:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_ssh
+      type: git
+      primary: true
+  augeasproviders_sysctl:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/augeasproviders_sysctl
+      type: git
+      primary: true
