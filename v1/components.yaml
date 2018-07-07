@@ -1139,3 +1139,10 @@ components:
     - url: https://github.com/simp/puppet-systemd.git
       type: git
       primary: true
+  simp-rsync:
+    deprecated: true
+    component-type: rpm
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/simp-rsync
+      type: git
