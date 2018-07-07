@@ -1146,3 +1146,4 @@ components:
     locations:
     - url: https://github.com/simp/simp-rsync
       type: git
+      primary: true
