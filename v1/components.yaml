@@ -1058,8 +1058,6 @@ components:
     - url: https://github.com/simp/pkg-r10k
       type: git
       primary: true
-
-## Deprecated due to name changes or being removed from releases
   puppet-kmod:
     deprecated: true
     component-type: puppet-module
