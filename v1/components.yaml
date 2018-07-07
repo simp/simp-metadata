@@ -1075,6 +1075,7 @@ components:
     locations:
     - url: https://github.com/simp/puppet-elasticsearch
       type: git
+      primary: true
   puppet-logstash:
     deprecated: true
     component-type: puppet-module
