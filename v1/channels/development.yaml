@@ -257,7 +257,7 @@ releases:
       ref: 571dcc7323ec380dc6bcabcdba6def571e06fe28
       branch: master
     pupmod-simp-selinux:
-      ref: ff876f06658e92a344d873ddf0a65d121e1459dc
+      ref: e75c6f97d376845dec5cb6d2496b73fb5a85c93a
       branch: master
     pupmod-simp-simp:
       ref: 7957c04e1998db51ed495bbd0faeb7d112fc7318
