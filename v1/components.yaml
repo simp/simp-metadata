@@ -14,7 +14,7 @@ components:
     - url: https://github.com/simp/pupmod-simp-rsync
       type: git
       primary: true
-  rsync-skeleton:
+  simp-rsync_skeleton:
     component-type: rpm
     authoritative: true
     locations:
