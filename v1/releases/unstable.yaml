@@ -422,7 +422,7 @@ releases:
       branch: master
       tag: 6.1.0
     pupmod-simp-tpm:
-      ref: 7e96b121de7fd3b7a02ae627fe3c678915b87cf0
+      ref: f50654075b249f5a427dfe28bd7f665f9b36944a
       branch: master
       tag: 1.2.1
     pupmod-simp-tuned:
