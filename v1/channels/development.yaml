@@ -142,7 +142,7 @@ releases:
       ref: b48753570000d6f278af877d129d0a664888a5b6
       branch: master
     pupmod-simp-chkrootkit:
-      ref: 9896b324489f1f615c48736aed18f47c2bc86de8
+      ref: 921b27b418506fd4fb4644ff526fe0a9cc95e62a
       branch: master
     pupmod-simp-clamav:
       ref: 7c9c6e81dc9f38cdfe52593c5c8a392b2710d57c
