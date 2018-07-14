@@ -203,7 +203,7 @@ releases:
       ref: 943064852e1dc4aadc0829cb0ade968363802fb8
       branch: master
     pupmod-simp-mcafee:
-      ref: 6dfe22cbbf524971e21d1af5888656ad8d215091
+      ref: 651c2aa296500c7a44000deecb98216fcf4225f6
       branch: master
     pupmod-simp-mcollective:
       ref: 90ceda13854da0501e17f15602634d293bf54205
