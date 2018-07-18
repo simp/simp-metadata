@@ -170,7 +170,7 @@ releases:
       branch: master
       tag: 4.0.1
     pupmod-simp-aide:
-      ref: e4fd206cfbb9c63abf311ed4a814c0f349487659
+      ref: 0b83b0e757d6a9078518b2e3934a69e82488e5ef
       branch: master
       tag: 6.1.3
     pupmod-simp-at:
