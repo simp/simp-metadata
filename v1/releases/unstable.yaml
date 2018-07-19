@@ -394,7 +394,7 @@ releases:
       branch: master
       tag: 6.1.2
     pupmod-simp-stunnel:
-      ref: cb6bdfbce4abea1f385aee18c1e56422fec4af2a
+      ref: b32720c639952b9d8f3a96e2724648d6609a672a
       branch: master
       tag: 6.3.2
     pupmod-simp-sudo:
