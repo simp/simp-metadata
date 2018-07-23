@@ -145,7 +145,7 @@ releases:
       ref: 921b27b418506fd4fb4644ff526fe0a9cc95e62a
       branch: master
     pupmod-simp-clamav:
-      ref: a8c89a81eb328583f8ccd51996d2d91b357e21fe
+      ref: cac55bd761c30ffad91efc1c2941842f601b9958
       branch: master
     pupmod-simp-compliance_markup:
       ref: '06364812bdc24aaf3ae375fddf00bd47a8496699'
