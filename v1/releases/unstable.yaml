@@ -120,7 +120,7 @@ releases:
     puppetlabs-concat:
       ref: c95dc13ea769d187a1ad3e51f45f4c266baa7825
       branch: master
-      tag: 4.1.1
+      tag: simp6.0.0-4.1.1
     puppetlabs-inifile:
       ref: b8a43a73d6b88236c851bbf87c1891ddc5d70497
       branch: master
