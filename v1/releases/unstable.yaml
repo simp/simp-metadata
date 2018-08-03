@@ -150,7 +150,7 @@ releases:
       branch: master
       tag: simp6.0.0-5.4.0
     puppetlabs-stdlib:
-      tag: 4.25.0
+      tag: simp6.0.0-4.25.1
       branch: master
       ref: b83fda834d791f6dda4042df9f0d0425a989ed49
     puppet-datacat:
