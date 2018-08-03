@@ -116,7 +116,7 @@ releases:
     puppetlabs-apache:
       ref: 0b270f9bfe0830c95052a5ea1a205af14c01ed79
       branch: master
-      tag: 3.0.0
+      tag: simp6.0.0-3.0.0
     puppetlabs-concat:
       ref: c95dc13ea769d187a1ad3e51f45f4c266baa7825
       branch: master
