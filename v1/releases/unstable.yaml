@@ -398,7 +398,7 @@ releases:
       branch: master
       tag: 6.3.2
     pupmod-simp-sudo:
-      ref: b95546b5c4d476836165a1e73cefd4d0c08a59ea
+      ref: 8c7c08cfeb26546709c89023bdab3a296ed38a83
       branch: master
       tag: 5.0.6
     pupmod-simp-sudosh:
