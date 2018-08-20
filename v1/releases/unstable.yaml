@@ -298,7 +298,7 @@ releases:
       branch: master
       tag: 2.0.1
     pupmod-simp-simp_openldap:
-      ref: 208128e799f025cede61c2a56d11c9b73bb489c2
+      ref: e4ad8ce3f6856eb943de27fa1f67453d9520d5b9
       branch: master
       tag: 6.2.1
     pupmod-simp-openscap:
