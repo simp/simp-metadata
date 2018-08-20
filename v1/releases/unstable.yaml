@@ -336,7 +336,7 @@ releases:
     pupmod-simp-rsyslog:
       ref: 659af8469e66229e4a4a71e166514e70cbbdb1ae
       branch: master
-      tag: 7.1.2
+      tag: 7.2.0
     pupmod-simp-selinux:
       ref: b2bef5fb5646efdb85ce0a4c8143c588203ac851
       branch: master
