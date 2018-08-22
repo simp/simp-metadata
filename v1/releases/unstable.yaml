@@ -328,7 +328,7 @@ releases:
     puppetlabs-puppetdb:
       ref: ff8011c07132e7c27eaba3d87492b7e5be1b1643
       branch: master
-      tag: 7.0.1
+      tag: 7.0.0
     pupmod-simp-resolv:
       ref: 8dffcc02d51b80574596a54bb7496478effa05b0
       branch: master
