@@ -128,7 +128,7 @@ releases:
     puppetlabs-java:
       ref: 10503819d25aefd2fc457de82c76835982903b03
       branch: master
-      tag: simp6.0.0-2.4.0
+      tag: 3.0.0
     puppetlabs-java_ks:
       ref: '029a74c9cd1a1c8321f5582e392de26735d07d91'
       branch: master
