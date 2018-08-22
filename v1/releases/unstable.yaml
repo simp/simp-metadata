@@ -152,7 +152,7 @@ releases:
     puppetlabs-stdlib:
       tag: 5.0.0
       branch: master
-      ref: 45454b8de4ff8f860f6f78438107133e510336ed
+      ref: 72512b37b68f5e727d7c0050284c715c3cef299b
     puppet-datacat:
       ref: 93b88b78364ee35f2bf39ca98ad08b78f423c1d2
       branch: master
