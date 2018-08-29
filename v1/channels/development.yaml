@@ -338,7 +338,7 @@ releases:
       ref: 74be77b849e78a71fafc7a7035cbafa35163bd7e
       branch: master
     pupmod-simp-useradd:
-      ref: 31ce72beec33febc55a187059c34ffa8ac87e71f
+      ref: 68d0f64da0542f933711fc702d435adead3ec3d4
       branch: master
     puppet-nsswitch:
       ref: 8cc6c14f6c47efafbf7c9e6ab53832a0c9782728
