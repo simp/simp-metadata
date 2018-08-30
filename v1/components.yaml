@@ -1251,4 +1251,3 @@ components:
     - url: https://github.com/simp/augeasproviders_sysctl
       type: git
       primary: true
-

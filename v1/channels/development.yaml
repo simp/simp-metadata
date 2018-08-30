@@ -308,7 +308,7 @@ releases:
       ref: 9584cb30a9e594543e52f0adaab9674fe6d59c16
       branch: master
     pupmod-simp-svckill:
-      ref: 32bf9b7b24b0bccd3bf6e3d77d94f959142b4ae3
+      ref: 00f4c620d1fda3a82be976d5bcddff5db7f22598
       branch: master
     pupmod-simp-swap:
       ref: e6cf77e2cb44fcd6d0140232b9653dc5052a547c
