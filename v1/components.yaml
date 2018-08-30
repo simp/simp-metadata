@@ -322,6 +322,13 @@ components:
     - url: https://github.com/simp/pupmod-simp-cron
       type: git
       primary: true
+  pupmod-simp-dconf:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-dconf
+      type: git
+      primary: true
   pupmod-simp-dhcp:
     component-type: puppet-module
     authoritative: true
@@ -488,6 +495,13 @@ components:
     authoritative: true
     locations:
     - url: https://github.com/simp/pupmod-simp-oddjob
+      type: git
+      primary: true
+  pupmod-simp-simp_ipa:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_ipa
       type: git
       primary: true
   pupmod-simp-simp_openldap:
@@ -1237,3 +1251,4 @@ components:
     - url: https://github.com/simp/augeasproviders_sysctl
       type: git
       primary: true
+
