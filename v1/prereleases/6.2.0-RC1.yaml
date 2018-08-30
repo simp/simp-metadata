@@ -1,6 +1,6 @@
 ---
 releases:
-  6.2.0-BETA2:
+  6.2.0-RC1:
     simp-core:
       ref: 197843ec92b9a9c0955ee3a8b614d389eb6271be
       branch: master
