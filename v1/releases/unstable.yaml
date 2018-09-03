@@ -292,7 +292,7 @@ releases:
     pupmod-simp-ntpd:
       ref: 20f654f539c3075264d9a54f4eb8fb0047c4cf31
       branch: master
-      tag: 6.1.0
+      tag: 6.1.1
     pupmod-simp-oddjob:
       ref: bdd6a0d37734ec58a035b5b3ae117de2cab6ff45
       branch: master
