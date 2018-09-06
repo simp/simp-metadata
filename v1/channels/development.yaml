@@ -284,7 +284,7 @@ releases:
       ref: c7c8b349ceec97431788b48a4267969c72fd8cc2
       branch: master
     pupmod-simp-simp_rsyslog:
-      ref: c9853650783b46383e59c91acff3fdd75a998527
+      ref: 8b50481d708bebc4420810f59e9483bae8a3774c
       branch: master
     pupmod-simp-simplib:
       ref: f347b1492c0c98b34d1506f1477e6924fbbbada1
