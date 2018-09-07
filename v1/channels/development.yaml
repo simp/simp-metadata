@@ -236,7 +236,7 @@ releases:
       ref: c08346e1d42e2211a4a464ff73b1a120adb06ad9
       branch: master
     pupmod-simp-pki:
-      ref: 9c072078bd55706812173841fa66b13d01a42c14
+      ref: e6e103a465a63de6f5d172f48be1a13d10c96027
       branch: master
     pupmod-simp-polkit:
       ref: 98cc5c5ce6c349b6be080763217bfcbd71b0d641
