@@ -6,7 +6,7 @@ releases:
       branch: master
       tag: 6.1.0-0
     simp-doc:
-      ref: 6645aabe6609f35d831ea572407a04a0348136be
+      ref: '0000000000000000000000000000000000000000'
       branch: master
       tag: 6.2.0-RC1
     pupmod-simp-rsync:
