@@ -191,7 +191,7 @@ releases:
       ref: 0a6df1389b58ac787f3339a7f6ac3d1cdf56b9b9
       branch: master
     pupmod-simp-krb5:
-      ref: d9d92cfde4668a76e29487bf10791a039303e89d
+      ref: a0ce4b320e3e11f9dce2326d301a4d108c5e0676
       branch: master
     pupmod-simp-libreswan:
       ref: 9befd13b6b5678ee46d037c4062bc5205a78634e
