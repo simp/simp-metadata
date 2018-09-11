@@ -194,7 +194,7 @@ releases:
       ref: a0ce4b320e3e11f9dce2326d301a4d108c5e0676
       branch: master
     pupmod-simp-libreswan:
-      ref: 9befd13b6b5678ee46d037c4062bc5205a78634e
+      ref: be74d1f2b945c14bcdffe6dc2f72e28cc08db97e
       branch: master
     pupmod-simp-libvirt:
       ref: 11d6fcd93cc77879dc0583a910f73953148485aa
