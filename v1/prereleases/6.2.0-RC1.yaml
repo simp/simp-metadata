@@ -461,3 +461,4 @@ releases:
     vshn-gitlab:
       tag: v1.13.3
       ref: 5de09ad4bb8398a336b0651ba1f4f5e2406300cf
+      revision: 2016.1
