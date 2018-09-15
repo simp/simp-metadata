@@ -317,7 +317,7 @@ releases:
       ref: 9c7c58cc0ea9ea2ff51d11899b96f5a56ff306ee
       branch: master
     pupmod-simp-tftpboot:
-      ref: 60f551fdb044bb73c5d020c691945e1129c3ea66
+      ref: 2a1f0208e25af1277dac2199ece8c2d172304fd9
       branch: master
     pupmod-simp-tpm:
       ref: a0fb3e24e676caa412614a786c978850055c8eb0
