@@ -323,7 +323,7 @@ releases:
       ref: a0fb3e24e676caa412614a786c978850055c8eb0
       branch: master
     pupmod-simp-tuned:
-      ref: 49d5301182f348d587ee2edf71ee68394aebe53d
+      ref: 4577cea3403da1016d10a353f2300220376026a2
       branch: master
     pupmod-simp-upstart:
       ref: 6b4635a95178c2eba7bb7ba93ce468cdd0976bb6
