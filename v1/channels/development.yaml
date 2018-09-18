@@ -233,7 +233,7 @@ releases:
       ref: 679e241ffbc09bd9f8dfd9ec89f9f554ea1bc5e7
       branch: master
     pupmod-simp-pam:
-      ref: c08346e1d42e2211a4a464ff73b1a120adb06ad9
+      ref: 9dc5c1772491668b7dc2db39988649e92d59e977
       branch: master
     pupmod-simp-pki:
       ref: e6e103a465a63de6f5d172f48be1a13d10c96027
