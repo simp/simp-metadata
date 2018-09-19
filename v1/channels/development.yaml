@@ -332,7 +332,7 @@ releases:
       ref: c27943ba3992d53c2b0c6af4811b838cbc778b00
       branch: master
     pupmod-simp-vsftpd:
-      ref: 16e32b831203588e95c5a6bd6300d8892a85a077
+      ref: 1f4de6b00a0fb49220d75ff164ad92fe1a80439f
       branch: master
     pupmod-simp-xinetd:
       ref: 74be77b849e78a71fafc7a7035cbafa35163bd7e
