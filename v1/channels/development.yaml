@@ -23,7 +23,7 @@ releases:
       ref: 28be98f67de6baa8ba29f0f3746cbb7cc8128cc4
       branch: master
     simp-utils:
-      ref: b52f701672882c2ade7f87fd874cc18fba15bf85
+      ref: f31b6265647838d7b4ba32908be9ac05bad63bce
       branch: master
     rubygem-simp-cli:
       ref: caabbaacd96c9cd59d5a4b821b8dcf26c57df502
