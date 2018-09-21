@@ -105,7 +105,7 @@ releases:
       ref: master
       branch: master
     puppetlabs-motd:
-      ref: 6fa2d0ced8e0abb2eaf1cbb9344c648c152b5dc0
+      ref: 4c2704257ec05ac9838a0fa3dd0765474c43254e
       branch: master
     puppetlabs-mysql:
       ref: a5497b2bcf9098ed707348193bb7ff2e4ef1e543
