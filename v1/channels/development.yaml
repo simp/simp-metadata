@@ -111,7 +111,7 @@ releases:
       ref: a5497b2bcf9098ed707348193bb7ff2e4ef1e543
       branch: master
     puppetlabs-postgresql:
-      ref: 797758e5ed88dba1506880ad64e33c7d15fd8d1d
+      ref: df04f26261cbacc85280c8d16a2a2db2a99f3f3b
       branch: master
     puppetlabs-stdlib:
       tag: 4.19.0
