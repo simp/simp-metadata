@@ -356,7 +356,7 @@ releases:
     pupmod-simp-simp_elasticsearch:
       ref: 4e29459c00905f3f0b141731d7ceb24066ac56fe
       branch: master
-      tag: 5.0.3
+      tag: 5.0.4
     pupmod-simp-simp_grafana:
       ref: d1c22d138a6775377d18746c2f02c02d4b2c0f6a
       branch: master
