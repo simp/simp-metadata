@@ -1251,3 +1251,5 @@ components:
     - url: https://github.com/simp/puppet-gitlab.git
       primary: true
       type: git
+  isos:
+    component_type: isos
