@@ -287,7 +287,7 @@ releases:
       ref: d4645be99449229bdead6ae9d75a3dc61b6a5899
       branch: master
     pupmod-simp-simplib:
-      ref: f7c4a46b8a19e6af279f42acb5f65af569ac4dd3
+      ref: a128f47acaaf57615b57091dc75869292a513c8f
       branch: master
     pupmod-simp-site:
       ref: c32c90ef91ad50f8552ce6ce0947d1548b7763c9
