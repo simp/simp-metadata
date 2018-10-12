@@ -178,7 +178,7 @@ releases:
       ref: 5f558b07c1f70d0d3ac861d83159c633c9ad820f
       branch: master
     pupmod-simp-iptables:
-      ref: ea68d4b3c27f9feac0fd2441a07bd3de28ec6f30
+      ref: a4f9b93f070410df3b8ab888ebcb0c3028aef6fa
       branch: master
       tag: 6.2.0
     pupmod-simp-issue:
