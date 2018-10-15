@@ -128,7 +128,7 @@ releases:
     puppetlabs-java:
       ref: bf60d1327be47b9861bb9571f8403bcab29f43a8
       branch: master
-      tag: 3.1.0
+      tag: 3.2.0
     puppetlabs-java_ks:
       ref: '029a74c9cd1a1c8321f5582e392de26735d07d91'
       branch: master
