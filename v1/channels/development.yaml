@@ -96,7 +96,7 @@ releases:
       ref: 252ab552f4bf57d1099c2c2f5578f602caa7b1a5
       branch: master
     puppetlabs-java:
-      ref: 58669e653c7c2c4fe02d17ae914127ce2831f441
+      ref: 390805475ea221797320296435a6d0ac29d64034
       branch: master
     puppetlabs-java_ks:
       ref: ef5ac6157f6ee90917af606b25010f31c906ed92
