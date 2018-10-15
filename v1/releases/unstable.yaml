@@ -138,7 +138,7 @@ releases:
       branch: master
       tag: 0.4.0
     puppetlabs-motd:
-      ref: ddeac1f07a2cdfd314c94bc8a96204ee91944231
+      ref: 6b5a08905b0f50c6d4cf5cee468ecfb32f589e25
       branch: master
       tag: 2.1.1
     puppetlabs-mysql:
