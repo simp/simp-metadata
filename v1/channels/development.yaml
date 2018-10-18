@@ -3,7 +3,7 @@ releases:
   development:
     simp-core:
       branch: master
-      ref: 34eea08722755718a03f42c139b9214fb88733fc
+      ref: a3e7c69819152c20cd61a508829fe5f27db71c87
     simp-doc:
       ref: 0a586d5d5608fb1e7fc832c8463f61f0788d7c63
       branch: master
