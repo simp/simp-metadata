@@ -1,4 +1,4 @@
---
+---
 releases:
   6.2.0-0:
     simp-core:
@@ -464,7 +464,6 @@ releases:
       revision: 2016.1
     isos:
       platforms:
-        - 'RedHat-7.4-x86_64'
-        - 'CentOS-7.4-x86_64'
-        - 'CentOS-6.9-x86_64'
-
+      - 'RedHat-7.4-x86_64'
+      - 'CentOS-7.4-x86_64'
+      - 'CentOS-6.9-x86_64'
