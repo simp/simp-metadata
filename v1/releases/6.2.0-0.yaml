@@ -1,4 +1,4 @@
----
+--
 releases:
   6.2.0-0:
     simp-core:
@@ -462,3 +462,9 @@ releases:
       tag: v1.13.3
       ref: 5de09ad4bb8398a336b0651ba1f4f5e2406300cf
       revision: 2016.1
+    isos:
+      platforms:
+        - 'RedHat-7.4-x86_64'
+        - 'CentOS-7.4-x86_64'
+        - 'CentOS-6.9-x86_64'
+
