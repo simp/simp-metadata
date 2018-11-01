@@ -329,7 +329,7 @@ releases:
       ref: 18c1bb6738a4eae888119e366d2c4ff9891dc162
       branch: master
     pupmod-simp-vnc:
-      ref: 44d1052d5d2d45f15ba0970dad9a156f4fa72c2d
+      ref: efc0d94b379aa2232e1d817ae6aaa97657627a72
       branch: master
     pupmod-simp-vsftpd:
       ref: 1103efc835fe6fe59f9be0085d0331c819107981
