@@ -314,7 +314,7 @@ releases:
       ref: 216e6765fe6a7f8efa6f8c7229f3070d12bc1d9c
       branch: master
     pupmod-simp-tcpwrappers:
-      ref: 4a2ad72dde404a1d54e85b35372d73b9655ba138
+      ref: 94256d15349861e256b49b30fbb39e7e3b7634f9
       branch: master
     pupmod-simp-tftpboot:
       ref: af5c204afe1addded69a86535dadcdce40d519f7
