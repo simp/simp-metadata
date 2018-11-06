@@ -269,7 +269,7 @@ releases:
       ref: beebf920ffd077e930d7705a7d470d1b22ff3304
       branch: master
     pupmod-simp-simp_elasticsearch:
-      ref: ec892820b1d518274434102fe2f4b781cfaabc22
+      ref: 1f7b5d989730d98a01af3bd80e43f316e4226d3a
       branch: master
     pupmod-simp-simp_grafana:
       ref: 83a1578b8d39499e79dd4980b117cb92abd43aca
