@@ -311,7 +311,7 @@ releases:
       ref: ed37c8e778b53ffb3a79ef8a1d39e4b6226e3e0b
       branch: master
     pupmod-simp-swap:
-      ref: e6cf77e2cb44fcd6d0140232b9653dc5052a547c
+      ref: 216e6765fe6a7f8efa6f8c7229f3070d12bc1d9c
       branch: master
     pupmod-simp-tcpwrappers:
       ref: 4a2ad72dde404a1d54e85b35372d73b9655ba138
