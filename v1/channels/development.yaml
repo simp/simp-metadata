@@ -254,7 +254,7 @@ releases:
       ref: d903fa468e02c2f21521bed9d4d405f8d570c718
       branch: master
     pupmod-simp-rsyslog:
-      ref: 7ce11ce2c467293d995e99aef84d9cb03feca64e
+      ref: bac24119f5576e8952cafa14a8a40d3948a21c6b
       branch: master
     pupmod-simp-selinux:
       ref: 6c78cd99805e521811e1eeafeb8081ce0f0e4f6f
