@@ -469,8 +469,3 @@ releases:
     registry_acl:
       tag: 0.0.5
       ref: b4ff8530b122f6524246150fdc6414663bb85d2b
-    isos:
-      platforms:
-      - 'RedHat-7.4-x86_64'
-      - 'CentOS-7.4-x86_64'
-      - 'CentOS-6.9-x86_64'

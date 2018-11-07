@@ -17,17 +17,14 @@ releases:
       ref: aaf439407429acd8a1f07d9f7505eb232a8bcd62
       branch: master
       tag: 6.2.1
-      compiled: true
     simp-adapter:
       ref: c1cb4e2cc03bc9bed0f828d4bf30fcb46b540216
       branch: master
       tag: 0.0.6
-      compiled: true
     simp-environment:
       ref: 86ffad13755cd6e5e97a4de683a1a1a967d50854
       branch: master
       tag: 6.2.10
-      compiled: true
     simp-gpgkeys:
       ref: b5e27809d94f1db6f716cce5621e7b997b84be77
       branch: master
@@ -44,7 +41,6 @@ releases:
       ref: 9ccb9bbe66cb44118ebbc9f91ab2a5c99440dbe3
       branch: master
       tag: v4.1.1
-      compiled: true
     camptocamp-kmod:
       tag: 2.2.0
       branch: master
@@ -466,8 +462,3 @@ releases:
       tag: v1.13.3
       ref: 5de09ad4bb8398a336b0651ba1f4f5e2406300cf
       revision: 2016.1
-    isos:
-      platforms:
-      - 'RedHat-7.4-x86_64'
-      - 'CentOS-7.4-x86_64'
-      - 'CentOS-6.9-x86_64'
