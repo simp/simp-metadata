@@ -1251,3 +1251,11 @@ components:
     - url: https://github.com/simp/augeasproviders_sysctl
       type: git
       primary: true
+  registry_acl:
+    component-type: puppet-module
+    authoritative: no
+    locations:
+    - url: https://github.com/simp/registry_acl
+      type: git
+      primary: true
+
