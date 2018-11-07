@@ -1251,5 +1251,12 @@ components:
     - url: https://github.com/simp/puppet-gitlab.git
       primary: true
       type: git
+  registry_acl:
+    authoritative: false
+    component-type: puppet-module
+    locations:
+    - url: https://github.com/simp/registry_acl.git
+      primary: true
+      type: git
   isos:
     component_type: isos
