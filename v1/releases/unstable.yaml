@@ -314,7 +314,7 @@ releases:
       branch: master
       tag: 6.0.3
     pupmod-simp-polkit:
-      ref: 9fc7cf72dd8f81d539969003795f565e3c2a822b
+      ref: 7e9c50bdca341cb61f52aae1a49eb1ea65359fdc
       branch: master
       tag: 6.1.1
     pupmod-simp-postfix:
