@@ -188,7 +188,7 @@ releases:
     pupmod-simp-chkrootkit:
       ref: 11221ddfb826123167ca898a53269634c264ca15
       branch: master
-      tag: 0.0.2
+      tag: 0.1.0
     pupmod-simp-clamav:
       ref: dbd2426cd0e1cc25e32bbd307bcefc19954f595b
       branch: master
