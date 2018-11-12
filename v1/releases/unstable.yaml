@@ -224,7 +224,7 @@ releases:
     pupmod-simp-gnome:
       ref: ab95fadc39f917a75c937f25007c9e9c4b172816
       branch: master
-      tag: 7.0.1
+      tag: 8.0.0
     puppet-haveged:
       ref: 2f16d86710b1dddc47f51e409b094c9a54df8c7b
       branch: master
