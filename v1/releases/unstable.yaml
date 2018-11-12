@@ -420,7 +420,7 @@ releases:
     pupmod-simp-tftpboot:
       ref: cc7018ac472ffdb6f4865a26542a29a98709b89c
       branch: master
-      tag: 6.1.0
+      tag: 6.2.0
     pupmod-simp-tpm:
       ref: f50654075b249f5a427dfe28bd7f665f9b36944a
       branch: master
