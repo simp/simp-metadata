@@ -414,7 +414,7 @@ releases:
       branch: master
       tag: 0.1.1
     pupmod-simp-tcpwrappers:
-      ref: e24affac278bd91ebceb3d18031408a8913dd83f
+      ref: 49c54b9253737b11fecbdbe972bf36ede55e700e
       branch: master
       tag: 6.1.0
     pupmod-simp-tftpboot:
