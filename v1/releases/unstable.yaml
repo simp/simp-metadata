@@ -232,7 +232,7 @@ releases:
     pupmod-simp-incron:
       ref: 57e9ef19d2a2b0945c7d73122600f976c43a27bd
       branch: master
-      tag: 0.3.0
+      tag: 0.3.1
     pupmod-simp-iptables:
       ref: fbae038548c7b76aa50d0cc4285b1d3c5ed4800d
       branch: master
