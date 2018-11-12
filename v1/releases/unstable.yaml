@@ -206,7 +206,7 @@ releases:
       branch: master
       tag: 6.1.0
     pupmod-simp-dirtycow:
-      ref: 16a8228b4bebec6d12340124f89529c4e7700b22
+      ref: 94f8545942d3a7d8c325437ef2866bdf6d251994
       branch: master
       tag: 1.0.4
     pupmod-simp-fips:
