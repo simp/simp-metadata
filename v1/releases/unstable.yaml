@@ -200,7 +200,7 @@ releases:
     pupmod-simp-cron:
       ref: c63db83da298a60d8ae3cd6ce62a92211e398b21
       branch: master
-      tag: 0.0.2
+      tag: 0.1.0
     pupmod-simp-dhcp:
       ref: b77511e47f6b1da325cc667ba26b52700a6b17af
       branch: master
