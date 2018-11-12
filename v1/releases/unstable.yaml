@@ -294,7 +294,7 @@ releases:
       branch: master
       tag: 6.2.1
     pupmod-simp-oddjob:
-      ref: bdd6a0d37734ec58a035b5b3ae117de2cab6ff45
+      ref: 3eda3e21ccf4e467e0401b283386bf8db881f630
       branch: master
       tag: 2.1.0
     pupmod-simp-simp_openldap:
