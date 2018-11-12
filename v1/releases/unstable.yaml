@@ -276,7 +276,7 @@ releases:
     pupmod-simp-mozilla:
       ref: 8e9b013f59559a598479bfe6b3cf81ca967c718a
       branch: master
-      tag: 5.0.1
+      tag: 5.1.0
     pupmod-simp-named:
       ref: e1988ad8e344457c2b8ab673d2bf86e00ff3c384
       branch: master
