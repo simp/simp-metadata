@@ -364,7 +364,7 @@ releases:
     pupmod-simp-simp_logstash:
       ref: d78a6188f5ad6cdf8e0a4e8083b833d2432cdddb
       branch: master
-      tag: 4.0.0
+      tag: 5.0.2
     pupmod-simp-simp_options:
       ref: 5a8b753704917bb94ade6b5194c975b541b5cb38
       branch: master
