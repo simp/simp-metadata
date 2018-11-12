@@ -428,7 +428,7 @@ releases:
     pupmod-simp-tuned:
       ref: 4a30770c89b70dd0df73d677ffc401e6eece6434
       branch: master
-      tag: 0.0.2
+      tag: 0.1.0
     pupmod-simp-upstart:
       ref: cee26996deed765d44d9c643af1282151e2a41d7
       branch: master
