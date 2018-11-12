@@ -30,7 +30,7 @@ releases:
       branch: master
       tag: 3.0.3
     simp-utils:
-      ref: f43af3ae3a141fab1aa0a8a0fb3e9c914abbebd1
+      ref: 258fe960f57757416fa6ab7e0679f9fcb2871ec6
       branch: master
       tag: 6.1.2
     rubygem-simp-cli:
