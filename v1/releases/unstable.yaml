@@ -182,7 +182,7 @@ releases:
       branch: master
       tag: 8.1.0
     pupmod-simp-autofs:
-      ref: 02aae8fc49e49d381ed42ea0bb60a5b24d87442e
+      ref: b1577b215869bd30fd216ab6922266c8f78dca5e
       branch: master
       tag: 6.1.2
     pupmod-simp-chkrootkit:
