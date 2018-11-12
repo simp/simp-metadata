@@ -202,7 +202,7 @@ releases:
       branch: master
       tag: 0.1.0
     pupmod-simp-dhcp:
-      ref: b77511e47f6b1da325cc667ba26b52700a6b17af
+      ref: 1aaf202978559f54bf9c8f1bc9453c06bb809cb1
       branch: master
       tag: 6.1.0
     pupmod-simp-dirtycow:
