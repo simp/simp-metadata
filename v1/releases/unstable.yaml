@@ -20,7 +20,7 @@ releases:
     simp-adapter:
       ref: 58c124c131cb8f81f15cfd23cb3be2ce2cb5cc6e
       branch: master
-      tag: 0.0.6
+      tag: 0.1.0
     simp-environment:
       ref: beaefcbf0badf654fc0d74520734db08ae79e74d
       branch: master
