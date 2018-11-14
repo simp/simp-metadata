@@ -157,7 +157,7 @@ releases:
       ref: 3a3534c6b6be58113a6e1e1804beeaf38de4f4e0
       branch: master
     pupmod-simp-dirtycow:
-      ref: 07fa2a47373c261fef0989df576155c03ce3d130
+      ref: 1a75a63a6083d105036bc2d9e4e96ad0f9572bcc
       branch: master
     pupmod-simp-fips:
       ref: 2bea5f763999878f1bc921e9b87289a970fa8ca9
