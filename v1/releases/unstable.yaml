@@ -26,7 +26,7 @@ releases:
       branch: master
       tag: 6.3.0
     simp-gpgkeys:
-      ref: b5e27809d94f1db6f716cce5621e7b997b84be77
+      ref: bbd08c58b54a6bba740a0bb42685f853c78e028a
       branch: master
       tag: 3.0.4
     simp-utils:
