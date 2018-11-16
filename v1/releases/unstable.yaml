@@ -24,7 +24,7 @@ releases:
     simp-environment:
       ref: beaefcbf0badf654fc0d74520734db08ae79e74d
       branch: master
-      tag: 6.2.10
+      tag: 6.3.0
     simp-gpgkeys:
       ref: b5e27809d94f1db6f716cce5621e7b997b84be77
       branch: master
