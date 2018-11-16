@@ -36,7 +36,7 @@ releases:
     rubygem-simp-cli:
       ref: 832a8a5d6f81677b6329c4d7898b17d937532929
       branch: master
-      tag: 4.2.0
+      tag: 4.3.0
     puppet-grafana:
       ref: 9ccb9bbe66cb44118ebbc9f91ab2a5c99440dbe3
       branch: master
