@@ -1251,3 +1251,80 @@ components:
     - url: https://github.com/simp/augeasproviders_sysctl
       type: git
       primary: true
+  rubygem-simp-processgraph:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/rubygem-simp-processgraph
+      type: git
+      primary: true
+  pupmod-saz-locales:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-saz-locales
+      type: git
+      primary: true
+  pupmod-simp-deferred_resources:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-deferred_resources
+      type: git
+      primary: true
+  pupmod-simp-ima:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-ima
+      type: git
+      primary: true
+  pupmod-simp-mate:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-mate
+      type: git
+      primary: true
+  pupmod-simp-simp_banners:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_banners
+      type: git
+      primary: true
+  pupmod-simp-simp_pki_service:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_pki_service
+      type: git
+      primary: true
+  pupmod-simp-tlog:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-tlog
+      type: git
+      primary: true
+  pupmod-simp-tpm2:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-tpm2
+      type: git
+      primary: true
+  pupmod-voxpupuli-selinux:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-voxpupuli-selinux
+      type: git
+      primary: true
+  pupmod-simp-x2go:
+    component-type: puppet-module
+    authoritative: true
+    locations:
+    - url: https://github.com/simp/pupmod-simp-x2go
+      type: git
+      primary: true
