@@ -217,7 +217,7 @@ releases:
       branch: master
       tag: 0.3.1
     pupmod-simp-iptables:
-      ref: 04993ce809070f5f8713ce77ac27101589f99c52
+      ref: '04993ce809070f5f8713ce77ac27101589f99c52'
       branch: master
       tag: 6.1.6
     pupmod-simp-issue:
@@ -344,7 +344,7 @@ releases:
       branch: master
       tag: 5.0.2
     pupmod-simp-simp_options:
-      ref: 094c12d8bb02b6def9db5da28484b0b261c9f303
+      ref: '094c12d8bb02b6def9db5da28484b0b261c9f303'
       branch: master
       tag: 1.2.1
     pupmod-simp-simp_nfs:
