@@ -196,7 +196,7 @@ releases:
     pupmod-simp-compliance_markup:
       ref: 53ffbefe7d815e7546610058e29434245276fa2c
       branch: master
-      tag: 2.4.1-enterprise
+      tag: 2.4.1
     pupmod-simp-cron:
       ref: 4e9cc4d65e941ccf82586ceca043d65653f2e820
       branch: master
