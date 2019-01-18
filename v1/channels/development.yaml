@@ -5,7 +5,7 @@ releases:
       branch: master
       ref: 7a4b6404e47ca2d8e72484fc1fa5d583ed45c3a2
     simp-doc:
-      ref: d4cef8c20a93174e67d0bf87a6bf4982729e8fe3
+      ref: f22ffc92b3621d8da7acf992913b3ad4a383f478
       branch: master
     simp-rsync:
       ref: ''
