@@ -2,7 +2,7 @@
 releases:
   unstable:
     simp-core:
-      ref: b3dab793be990e6faa9625be4b4f5fcf77397854
+      ref: f308b6923cc0e9a5f6548f65c3e13e6de1e4e3f7
       branch: master
       tag: 6.3.1
     simp-doc:
