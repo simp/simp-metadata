@@ -380,7 +380,7 @@ releases:
     pupmod-simp-simplib:
       ref: bad2f755426586868ab0720ad11eb2a42c0c7447
       branch: master
-      tag: 3.11.0
+      tag: 3.12.0
     pupmod-simp-site:
       ref: 8b401b7b1f45ab4e39e777bc07fb423dc9d530d0
       branch: master
