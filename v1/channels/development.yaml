@@ -175,7 +175,7 @@ releases:
       ref: ''
       branch: master
     pupmod-simp-incron:
-      ref: aa86cb5fe9b802b6fd86293df12fd80e44dfbbe5
+      ref: 15b77351d4d5ba4992249fa4c764117f8e29a7d5
       branch: master
     pupmod-simp-iptables:
       ref: 4084e4bf7809c432c4a6487d3d6643ff71a55093
