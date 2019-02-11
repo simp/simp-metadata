@@ -182,7 +182,7 @@ releases:
       branch: master
       tag: 6.2.0
     pupmod-simp-issue:
-      ref: a3e14f8784b5b0b17a63ece8f29908c5065d6762
+      ref: 8cc69dcd8b9942d5ccc4e5f7d915ea4f274a5206
       branch: master
     pupmod-simp-jenkins:
       ref: 3d5ada01a30a2e0021c858ab9271f14a9e2db365
