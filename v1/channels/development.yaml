@@ -151,7 +151,7 @@ releases:
       ref: '06364812bdc24aaf3ae375fddf00bd47a8496699'
       branch: master
     pupmod-simp-cron:
-      ref: 33d4f6a3a126366ca0b711c427b12207ff32be43
+      ref: 5f30d7dda7b3207069cc172d1573c007290fab48
       branch: master
     pupmod-simp-dhcp:
       ref: 79269d0fdb212c93cb2d4a552ef9c8f21d44007d
