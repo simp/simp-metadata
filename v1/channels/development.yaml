@@ -335,7 +335,7 @@ releases:
       ref: da69c1e9c837225d5bdafb8a6c62ac2f602cd43e
       branch: master
     pupmod-simp-xinetd:
-      ref: 7ed32e6b87a3100848ef375084c3c75035018987
+      ref: cc7bfe70ddfc89de64bcae3053c740aadd509a16
       branch: master
     pupmod-simp-useradd:
       ref: 616bc6d193fd2bb67cea1d0303fc31a6ff5d24b8
