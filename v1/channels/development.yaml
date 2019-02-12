@@ -357,6 +357,6 @@ releases:
       compiled: true
       ref: c8f617ff4dfb1120477e5feb97f1741a2bedfe45
     rubygem-simp-rake-helpers:
-      ref: 7c809f361a503908ef6fd678b5f9cd9b29f66ec3
+      ref: c0c7341748b1fbd274a713fd2535302d4eb96806
     pkg-r10k:
       ref: 6c1b5946b2a896d7797e2adc4773dec229e90b49
