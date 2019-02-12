@@ -154,7 +154,7 @@ releases:
       ref: 5f30d7dda7b3207069cc172d1573c007290fab48
       branch: master
     pupmod-simp-dhcp:
-      ref: 79269d0fdb212c93cb2d4a552ef9c8f21d44007d
+      ref: 20347f264c646341e68c82e35367c5f3abb98ed1
       branch: master
     pupmod-simp-dirtycow:
       ref: 1a75a63a6083d105036bc2d9e4e96ad0f9572bcc
