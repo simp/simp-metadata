@@ -302,7 +302,7 @@ releases:
       ref: 0dfa47df184db327d6cb6f68c36a89da0e5f92ca
       branch: master
     pupmod-simp-sudo:
-      ref: bb9a43f70296a83e664807f25023cf731dccf63d
+      ref: bf95d71602ed5e19a9709b4b01032ce9cfd2b7ae
       branch: master
     pupmod-simp-sudosh:
       ref: 77111aaae67aa54e7263e0befcf40f4a5cb24323
