@@ -11,7 +11,7 @@ releases:
       ref: ''
       branch: master
     pupmod-simp-rsync:
-      ref: 4ba57d001769f8fa54a5e8ff0b5a46253d32bf5f
+      ref: abc3d9c3384d6dfe53e4a21086acdff4d191c830
       branch: master
     simp-adapter:
       ref: eeb6f99fcc84fc512e67079513f3e8711498bc9e
