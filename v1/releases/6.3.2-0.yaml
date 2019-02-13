@@ -37,9 +37,9 @@ releases:
       branch: master
       tag: 6.1.2
     rubygem-simp-cli:
-      ref: 2192cb1299da3615c01a1c5154221f25706db2e8
+      ref: c35a9864ad230c8f6586d74cfea8fc8c8a43bebb
       branch: master
-      tag: 4.3.2
+      tag: 4.4.0
     puppet-grafana:
       ref: 9ccb9bbe66cb44118ebbc9f91ab2a5c99440dbe3
       branch: master
@@ -213,9 +213,9 @@ releases:
       branch: master
       tag: 0.4.6
     pupmod-simp-incron:
-      ref: c643a1d2f66f47c35f085f79aa94d607aafc6cd2
+      ref: aa86cb5fe9b802b6fd86293df12fd80e44dfbbe5
       branch: master
-      tag: 0.3.1
+      tag: 0.4.0
     pupmod-simp-iptables:
       ref: '04993ce809070f5f8713ce77ac27101589f99c52'
       branch: master
@@ -293,9 +293,9 @@ releases:
       branch: master
       tag: 5.2.0
     pupmod-simp-pupmod:
-      ref: be749a057de469add17e01fdb557d0f4fcd19788
+      ref: 3224d2495d0e37bf81940f0c3b43107ef2336538
       branch: master
-      tag: 7.7.1
+      tag: 7.8.0
     puppetlabs-puppetdb:
       ref: c076aabb2e9df16e7955b44ea6d0b94682a80c62
       branch: master
@@ -356,9 +356,9 @@ releases:
       branch: master
       tag: 0.3.0
     pupmod-simp-simplib:
-      ref: 2306b6de5b0525cb4d654c7a3995c1a800f00a57
+      ref: c926994c7684e28e35ea23ffdefd8576b1312a89
       branch: master
-      tag: 3.11.1
+      tag: 3.12.0
     pupmod-simp-site:
       ref: aa79efdcd7c22e86fd9a229031344562724d529c
       branch: master
@@ -368,13 +368,13 @@ releases:
       branch: master
       tag: 6.5.1
     pupmod-simp-sssd:
-      ref: c0ce3af4ddd69a4f1b99dacacf5e547af2dd8281
+      ref: 5cac1d6c97a0fbbd4c32cce9f904b4cff25f724c
       branch: master
-      tag: 6.1.3
+      tag: 6.1.4
     pupmod-simp-stunnel:
-      ref: ce42f2bf7d94325762fe0e8181b2553f4e3483b1
+      ref: 0dfa47df184db327d6cb6f68c36a89da0e5f92ca
       branch: master
-      tag: 6.3.3
+      tag: 6.4.0
     pupmod-simp-sudo:
       ref: bb9a43f70296a83e664807f25023cf731dccf63d
       branch: master
