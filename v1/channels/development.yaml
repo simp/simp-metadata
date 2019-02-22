@@ -296,7 +296,7 @@ releases:
       ref: 8da2952463b4e7c85231b68f53feca8293f5e8ff
       branch: master
     pupmod-simp-sssd:
-      ref: 92f6581efde45064c09c8a3667c3e9c35d2e4068
+      ref: 7b1496703b5da1c7156787b6856b645f397bc6b3
       branch: master
     pupmod-simp-stunnel:
       ref: 377ae8476bac1abc1064f975de986ea4325469c1
