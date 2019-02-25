@@ -2,13 +2,13 @@
 releases:
   6.3.3-0:
     simp-core:
-      ref: 7c0e2812dfe955de339c48aeed70b8c333dbf215
-      branch: master
-      tag: 6.3.0-0
+      ref: e8e9cb2db4a2a904275ec4ed82aff3fba32161b1
+      branch: 6.3.X
+      tag: 6.3.3-0
     simp-doc:
-      ref: a2d11c0773a105ab0d795b6b281fabf8221e456a
+      ref: 1b42120e41be08691f7a36e65506a4b86a242776
       branch: master
-      tag: 6.3.0-0
+      tag: 6.3.3-0
     pupmod-simp-rsync:
       ref: 5ff3d2016cfbaf047ccf150298cc1c4c6aabf130
       branch: master
@@ -368,9 +368,9 @@ releases:
       branch: master
       tag: 6.5.1
     pupmod-simp-sssd:
-      ref: 5cac1d6c97a0fbbd4c32cce9f904b4cff25f724c
+      ref: 7b1496703b5da1c7156787b6856b645f397bc6b3
       branch: master
-      tag: 6.1.4
+      tag: 6.1.5
     pupmod-simp-stunnel:
       ref: 0dfa47df184db327d6cb6f68c36a89da0e5f92ca
       branch: master
