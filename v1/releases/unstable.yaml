@@ -471,7 +471,7 @@ releases:
       tag: 0.6.1
     rubygem-simp-rake-helpers:
       ref: d85b56bf7c8ee234aa822cb349865b3962c5d11b
-      tag: 5.6.3
+      tag: 5.8.0
     pkg-r10k:
       tag: 2.6.2-1
       ref: 7c699efd368aa0c6d5e6002749dadc5696002235
