@@ -90,7 +90,7 @@ releases:
       ref: 299af85bef3f4000c3a5e918a401c954336e3361
       branch: master
     puppetlabs-concat:
-      ref: 5eadf453a12a3df723380de1b80a2edc9ed10956
+      ref: e8229af7c04b21489079b37fd905d841f3981ed9
       branch: master
     puppetlabs-inifile:
       ref: d674268ccd933093f23602b4a2ab7b13a8b2ae11
