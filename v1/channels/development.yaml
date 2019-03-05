@@ -242,7 +242,7 @@ releases:
       ref: cc07bd44e42c0238fc8ef217954416f1baf60568
       branch: master
     pupmod-simp-postfix:
-      ref: 0c106d4e5a2c8ea5fb97c90a8c646ddbdde7b347
+      ref: 345e1f88ed0ad46d06f0ce11dd185ffeb0a6fe16
       branch: master
     pupmod-simp-pupmod:
       ref: ce2a3db264c90253b43ce7a7130cd1987c6239ea
