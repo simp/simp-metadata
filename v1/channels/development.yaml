@@ -281,7 +281,7 @@ releases:
       ref: 44b12b31c4a3b32c6f1f1d7b76fe0acaa386d17f
       branch: master
     pupmod-simp-simp_nfs:
-      ref: 98542f40ea727f4d982099f669ba37d4b769cdff
+      ref: 20e04553ed3864d89788054f34302e2b12277075
       branch: master
     pupmod-simp-simp_rsyslog:
       ref: 36782f061ae1823beebc75616571a4ecdd8dac34
