@@ -224,7 +224,7 @@ releases:
       ref: 670f252c7048181e4d0b2d556928b22377455017
       branch: master
     pupmod-simp-oddjob:
-      ref: 74c0df145d687af9bdae79456736007208e3d0c9
+      ref: 99d3985d364fe725e13ced0f0085eaa46e792470
       branch: master
     pupmod-simp-simp_openldap:
       ref: 9eded00fb8ad34bb18075f7e18686cadc311e6b5
