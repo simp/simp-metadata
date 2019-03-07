@@ -124,7 +124,7 @@ releases:
       ref: c9db0461d16959ed195ef2e44f29f88ecffd9c09
       branch: master
     pupmod-simp-acpid:
-      ref: 9916be341b1faaf1e7d2d4833e9bbc562a0e5f7c
+      ref: 26a0472170a5c13231a25ecef0c09bb3ac5ac836
       branch: master
     pupmod-simp-activemq:
       ref: 9698bf5ad5263f4895bfd19b7736f2bee0a30baa
