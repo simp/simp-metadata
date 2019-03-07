@@ -169,7 +169,7 @@ releases:
       ref: af339ce62555f26f3636fe37f93dfd0bb9057ba6
       branch: master
     pupmod-simp-gnome:
-      ref: 8cc928f5b84b06d1fa30f87a97844b7b0a30543a
+      ref: 72b28b401dade88d6661e324deba1aab91eed8e2
       branch: master
     puppet-haveged:
       ref: ''
