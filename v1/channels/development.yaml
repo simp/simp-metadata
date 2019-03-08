@@ -326,7 +326,7 @@ releases:
       ref: d8204d59f9ee97afe7cf922de34cfba2c19e0d75
       branch: master
     pupmod-simp-upstart:
-      ref: 9b6470d17a1d73395843f87c327140e84e4e82eb
+      ref: 52fd16af6312894ee2210845000084e4a03dc3d6
       branch: master
     pupmod-simp-vnc:
       ref: 3e7fe69a1e3f87d60a3d231aa48ba403c6e33aeb
