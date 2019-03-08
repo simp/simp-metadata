@@ -93,7 +93,7 @@ releases:
       ref: 912d2ccb602d959f7f12dce98b000ddffbc7c403
       branch: master
     puppetlabs-inifile:
-      ref: d674268ccd933093f23602b4a2ab7b13a8b2ae11
+      ref: 6b16db66137ccbf4d76d0668b5bc779167a5abe4
       branch: master
     puppetlabs-java:
       ref: 7cd34dd29130f4075c3afdcda242d983ea38244f
