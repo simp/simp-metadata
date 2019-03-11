@@ -200,7 +200,7 @@ releases:
       ref: 35c833762bcc50a06607c0280795ea504a1a2b1c
       branch: master
     pupmod-simp-logrotate:
-      ref: b01f6d2fcd979d8e0a31559cd5e05e3e47b6a4da
+      ref: 2930ffde99d8dc6c44019b8bad4cab53f58bb92b
       branch: master
     pupmod-simp-mcafee:
       ref: 651c2aa296500c7a44000deecb98216fcf4225f6
