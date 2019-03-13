@@ -163,7 +163,7 @@ releases:
       ref: d8c2d5be55b0396837ce262a8703cb141dbf2b4a
       branch: master
     pupmod-simp-freeradius:
-      ref: 2b4f7b0519e409e6defa3d710b51a4db02f5148c
+      ref: 951aba15b6feb32639aadf543e53a3d458cb1af1
       branch: master
     pupmod-simp-gdm:
       ref: af339ce62555f26f3636fe37f93dfd0bb9057ba6
