@@ -245,7 +245,7 @@ releases:
       ref: c00196a0a50ca53f893c2d44e8079cf808a68155
       branch: master
     pupmod-simp-pupmod:
-      ref: 6d265a3876de18fc384951441ac00ca4f294f13d
+      ref: a2b1865ced50c17bd7b409aedaec78b887e01a8b
       branch: master
     puppetlabs-puppetdb:
       ref: 15ea0f489d82e80850a28ef4a3a6bc4eb7ce684e
