@@ -25,7 +25,7 @@ releases:
       ref: d02c78b014be9310eabbbb7d8267475efcf70e07
       type: https
       path: "/src/puppet/modules"
-    puppet-file_concat:
+    puppet-lib-file_concat:
       ref: 61a6a6ede60193d9ad3eafe12278cd44a46d7ebc
       type: https
       path: "/src/puppet/modules"
@@ -129,7 +129,7 @@ releases:
       ref: be08dac7e0d7cfed0441ca523383563592243c12
       type: https
       path: "/src/puppet/modules"
-    pupmod-simp-apache:
+    pupmod-simp-simp_apache:
       ref: d9acbefb998777bc47a59c1f2484c1529bc553a7
       type: https
       path: "/src/puppet/modules"
@@ -177,7 +177,7 @@ releases:
       ref: 55afa387f1e721922f6abf89b0bccd6358346feb
       type: https
       path: "/src/puppet/modules"
-    puppet-haveged:
+    pupmod-simp-haveged:
       ref: 8610ae8b38b25e2c2bf502d6a82064915a4240e4
       type: https
       path: "/src/puppet/modules"

@@ -16,7 +16,7 @@ releases:
     simp-adapter:
       ref: 6bbd9c72e803bb3f508389ed21cd656345ee5abd
       branch: master
-    simp-environment:
+    simp-environment-skeleton:
       ref: 35ab7ba1fec1e1321fc108d25db1e6f90e487879
       branch: master
     simp-gpgkeys:
@@ -41,7 +41,7 @@ releases:
     puppet-logstash:
       tag: 5.2.1
       branch: master
-    puppet-file_concat:
+    puppet-lib-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
       branch: master
     augeasproviders:
@@ -171,7 +171,7 @@ releases:
     pupmod-simp-gnome:
       ref: 72b28b401dade88d6661e324deba1aab91eed8e2
       branch: master
-    puppet-haveged:
+    pupmod-simp-haveged:
       ref: ''
       branch: master
     pupmod-simp-incron:
@@ -265,7 +265,7 @@ releases:
     pupmod-simp-simpcat:
       ref: ab51f4ec393526e68041f9b8acd556606f4c2323
       branch: master
-    pupmod-simp-apache:
+    pupmod-simp-simp_apache:
       ref: beebf920ffd077e930d7705a7d470d1b22ff3304
       branch: master
     pupmod-simp-simp_elasticsearch:
@@ -349,7 +349,7 @@ releases:
     pupmod-simp-simp_consul:
       ref: 4f97881d17c5ce2e294c42a052386c39ad57921d
       branch: develop
-    solarkennedy-consul:
+    puppet-consul:
       ref: c1d87dc396b71146ac9e37557c3d7f841087d319
     puppet-archive:
       ref: 62f42713403dd9102bb1ac687924ea00dab50741

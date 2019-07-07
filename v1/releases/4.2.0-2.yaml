@@ -29,7 +29,7 @@ releases:
       ref: 6881ed821a39e5f455d49f7a19e0a03f23d2e674
       type: ssh
       path: "/"
-    pupmod-simp-apache:
+    pupmod-simp-simp_apache:
       ref: e581d98015ca6e2e47dacf3497d34f341ee6ab79
       type: ssh
       path: "/"

@@ -21,7 +21,7 @@ releases:
       ref: bd992f09b127b59ac8a212856eaee56304035bfa
       branch: master
       tag: 0.1.0
-    simp-environment:
+    simp-environment-skeleton:
       ref: f68243f6c6736e7fe0eccbc3cb19ee333d7773fb
       branch: master
       tag: 6.3.0
@@ -53,7 +53,7 @@ releases:
       tag: 6.0.2
       branch: master
       ref: '08cc70dbcfd19f669cc2cf3cfecac817105569f6'
-    puppet-file_concat:
+    puppet-lib-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
       branch: master
       tag: simp6.0.0-1.0.1
@@ -225,7 +225,7 @@ releases:
       ref: c82fa085b973dcdda2641ffa62f06250f4c96be6
       branch: master
       tag: 8.0.0
-    puppet-haveged:
+    pupmod-simp-haveged:
       ref: 2f16d86710b1dddc47f51e409b094c9a54df8c7b
       branch: master
       tag: 0.4.5
@@ -349,7 +349,7 @@ releases:
       ref: 3e39784e24e5ee96214ae227acfbbb3091cababb
       branch: master
       tag: 6.0.2
-    pupmod-simp-apache:
+    pupmod-simp-simp_apache:
       ref: 40533b06a1ff38dcd0c6569cbb0f2445d573164e
       branch: master
       tag: 6.0.1
@@ -461,7 +461,7 @@ releases:
       tag: 0.1.0
       ref: 4f97881d17c5ce2e294c42a052386c39ad57921d
       branch: develop
-    solarkennedy-consul:
+    puppet-consul:
       ref: 3ed6c6495e7df079d69c55315eb64c277cfe6314
       tag: v3.3.1
     puppet-archive:

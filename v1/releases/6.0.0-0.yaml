@@ -34,7 +34,7 @@ releases:
       type: https
       path: "/src/puppet/modules"
       tag: 5.0.3
-    puppet-file_concat:
+    puppet-lib-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
       type: https
       path: "/src/puppet/modules"
@@ -244,7 +244,7 @@ releases:
       type: https
       path: "/src/puppet/modules"
       tag: 6.0.2
-    puppet-haveged:
+    pupmod-simp-haveged:
       ref: d0e335efbccfd8e12f1ad2b70855df21a71aa7a3
       type: https
       path: "/src/puppet/modules"
@@ -399,7 +399,7 @@ releases:
       type: https
       path: "/src/puppet/modules"
       tag: 6.0.0
-    pupmod-simp-apache:
+    pupmod-simp-simp_apache:
       ref: beebf920ffd077e930d7705a7d470d1b22ff3304
       type: https
       path: "/src/puppet/modules"

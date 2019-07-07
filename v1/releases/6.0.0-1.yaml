@@ -15,7 +15,7 @@ releases:
       ref: dc6d3fab6ace62701aa3de6e4bb868e24fef0553
     puppet-logstash:
       ref: f475deaeb6120abc4c56c27cd3ab1ce808391517
-    puppet-file_concat:
+    puppet-lib-file_concat:
       ref: 813132b5d776204e1da169a93e4bc6a1e253f75c
     augeasproviders:
       ref: bbfc6ff9fa9acfd39e1ae9aff6341dc07e86a8d4
@@ -99,7 +99,7 @@ releases:
       ref: b50ca2bb9a3482620379b747736e9ba0b3bf3084
     pupmod-simp-gnome:
       ref: e706e2b2e22cecdca86d2ee48143a1c607a486df
-    puppet-haveged:
+    pupmod-simp-haveged:
       ref: d0e335efbccfd8e12f1ad2b70855df21a71aa7a3
     pupmod-simp-incron:
       ref: 0faecbcf94c40c00662d70bae17640936816066e
@@ -161,7 +161,7 @@ releases:
       ref: c0906fbf43f24cc9286429e8ee81035be7a36084
     pupmod-simp-simpcat:
       ref: 50deb1cecc783b28aed39e348da45cd212c37706
-    pupmod-simp-apache:
+    pupmod-simp-simp_apache:
       ref: beebf920ffd077e930d7705a7d470d1b22ff3304
     pupmod-simp-simp_elasticsearch:
       ref: 5d09a3ace93c3daa97e02ab0863ccf554150fd02
