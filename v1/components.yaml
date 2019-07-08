@@ -1226,536 +1226,536 @@ components:
 # Third Party Packages #
 ########################
   apr-util-ldap:
-    component_type: assett
+    component-type: assett
     authoritative: false
   caja:
-    component_type: assett
+    component-type: assett
     authoritative: false
   caja-extensions:
-    component_type: assett
+    component-type: assett
     authoritative: false
   caja-extensions-common:
-    component_type: assett
+    component-type: assett
     authoritative: false
   caja-open-terminal:
-    component_type: assett
+    component-type: assett
     authoritative: false
   caja-schemas:
-    component_type: assett
+    component-type: assett
     authoritative: false
   chkrootkit:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-data:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-db:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-devel:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-filesystem:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-lib:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-milter:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-scanner-systemd:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-server-systemd:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-unofficial-sigs:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamav-update:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamd:
-    component_type: assett
+    component-type: assett
     authoritative: false
   clamsmtp:
-    component_type: assett
+    component-type: assett
     authoritative: false
   fortune-mod:
-    component_type: assett
+    component-type: assett
     authoritative: false
   fping:
-    component_type: assett
+    component-type: assett
     authoritative: false
   fuse-sshfs:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ganglia:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ganglia-devel:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ganglia-gmetad:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ganglia-gmond:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ganglia-gmond-python:
-    component_type: assett
+    component-type: assett
     authoritative: false
   gtk2-engines:
-    component_type: assett
+    component-type: assett
     authoritative: false
   gtk-murrine-engine:
-    component_type: assett
+    component-type: assett
     authoritative: false
   gweb:
-    component_type: assett
+    component-type: assett
     authoritative: false
   haveged:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ima-evm-utils:
-    component_type: assett
+    component-type: assett
     authoritative: false
   incron:
-    component_type: assett
+    component-type: assett
     authoritative: false
   leiningen:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libarchive-devel:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libconfuse:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libev:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libmatekbd:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libmatemixer:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libmateweather:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libmateweather-data:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_X11:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xcomposite:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xdamage:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xdmcp:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xext:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xfixes:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xinerama:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xpm:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xrandr:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xrender:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libNX_Xtst:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libssh:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libwnck:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libXcomp:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libXcompext:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libXcompshad:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libyaml:
-    component_type: assett
+    component-type: assett
     authoritative: false
   libyaml-devel:
-    component_type: assett
+    component-type: assett
     authoritative: false
   lyx-fonts:
-    component_type: assett
+    component-type: assett
     authoritative: false
   marco:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-control-center:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-control-center-filesystem:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-desktop:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-desktop-libs:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-icon-theme:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-menus:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-menus-libs:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-notification-daemon:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-panel:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-panel-libs:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-polkit:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-power-manager:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-screensaver:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-session-manager:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-settings-daemon:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-themes:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mate-user-guide:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mrepo:
-    component_type: assett
+    component-type: assett
     authoritative: false
   mysql-connector-python:
-    component_type: assett
+    component-type: assett
     authoritative: false
   nxagent:
-    component_type: assett
+    component-type: assett
     authoritative: false
   nx-libs:
-    component_type: assett
+    component-type: assett
     authoritative: false
   nxproxy:
-    component_type: assett
+    component-type: assett
     authoritative: false
   pdsh:
-    component_type: assett
+    component-type: assett
     authoritative: false
   pdsh-debuginfo:
-    component_type: assett
+    component-type: assett
     authoritative: false
   pdsh-mod-dshgroup:
-    component_type: assett
+    component-type: assett
     authoritative: false
   pdsh-mod-machines:
-    component_type: assett
+    component-type: assett
     authoritative: false
   pdsh-mod-netgroup:
-    component_type: assett
+    component-type: assett
     authoritative: false
   pdsh-rcmd-exec:
-    component_type: assett
+    component-type: assett
     authoritative: false
   pdsh-rcmd-ssh:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Capture-Tiny:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Config-Simple:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Crypt-DES:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-File-BaseDir:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-File-RsyncP:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-File-Which:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Math-Calc-Units:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Net-FTP-AutoReconnect:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Net-FTP-RetrHandle:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Net-SNMP:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Sort-Versions:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Switch:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-Time-modules:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-X2Go-Log:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-X2Go-Server:
-    component_type: assett
+    component-type: assett
     authoritative: false
   perl-X2Go-Server-DB:
-    component_type: assett
+    component-type: assett
     authoritative: false
   postgresql96:
-    component_type: assett
+    component-type: assett
     authoritative: false
   postgresql96-contrib:
-    component_type: assett
+    component-type: assett
     authoritative: false
   postgresql96-libs:
-    component_type: assett
+    component-type: assett
     authoritative: false
   postgresql96-server:
-    component_type: assett
+    component-type: assett
     authoritative: false
   pssh:
-    component_type: assett
+    component-type: assett
     authoritative: false
   puppet5-release:
-    component_type: assett
+    component-type: assett
     authoritative: false
   puppet-agent:
-    component_type: assett
+    component-type: assett
     authoritative: false
   puppet-client-tools:
-    component_type: assett
+    component-type: assett
     authoritative: false
   puppetdb:
-    component_type: assett
+    component-type: assett
     authoritative: false
   puppetdb-termini:
-    component_type: assett
+    component-type: assett
     authoritative: false
   puppetserver:
-    component_type: assett
+    component-type: assett
     authoritative: false
   pwgen:
-    component_type: assett
+    component-type: assett
     authoritative: false
   python-argparse:
-    component_type: assett
+    component-type: assett
     authoritative: false
   python-linecache2:
-    component_type: assett
+    component-type: assett
     authoritative: false
   python-redis:
-    component_type: assett
+    component-type: assett
     authoritative: false
   python-simplejson:
-    component_type: assett
+    component-type: assett
     authoritative: false
   python-traceback2:
-    component_type: assett
+    component-type: assett
     authoritative: false
   python-unittest2:
-    component_type: assett
+    component-type: assett
     authoritative: false
   qstat:
-    component_type: assett
+    component-type: assett
     authoritative: false
   radiusclient-ng:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rkhunter:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rlwrap:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ruby-augeas:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-deep_merge:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-ffi:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-highline:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-net-ldap:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-net-ldap-doc:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-net-ping:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-puppet-lint:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-rake:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-rake-compiler:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-stomp:
-    component_type: assett
+    component-type: assett
     authoritative: false
   rubygem-stomp-doc:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ruby-ldap:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ruby-rgen:
-    component_type: assett
+    component-type: assett
     authoritative: false
   ruby-shadow:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-lastbind:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-ppolicy-check-password:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-doc:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-colored:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-cri:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-faraday:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-faraday_middleware:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-fast_gettext:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-gettext:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-gettext-setup:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-locale:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-log4r:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-minitar:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-multi_json:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-multipart-post:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-puppet_forge:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-r10k:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-semantic_puppet:
-    component_type: assett
+    component-type: assett
     authoritative: false
   simp-vendored-r10k-gem-text:
-    component_type: assett
+    component-type: assett
     authoritative: false
   sudosh2:
-    component_type: assett
+    component-type: assett
     authoritative: false
   tlog:
-    component_type: assett
+    component-type: assett
     authoritative: false
   tpm2-abrmd:
-    component_type: assett
+    component-type: assett
     authoritative: false
   tpm2-tools:
-    component_type: assett
+    component-type: assett
     authoritative: false
   tpm2-tss:
-    component_type: assett
+    component-type: assett
     authoritative: false
   tpm2-tss-devel:
-    component_type: assett
+    component-type: assett
     authoritative: false
   unhide:
-    component_type: assett
+    component-type: assett
     authoritative: false
   unique:
-    component_type: assett
+    component-type: assett
     authoritative: false
   voms:
-    component_type: assett
+    component-type: assett
     authoritative: false
   x2goagent:
-    component_type: assett
+    component-type: assett
     authoritative: false
   x2goclient:
-    component_type: assett
+    component-type: assett
     authoritative: false
   x2goserver:
-    component_type: assett
+    component-type: assett
     authoritative: false
   x2goserver-common:
-    component_type: assett
+    component-type: assett
     authoritative: false
   x2goserver-xsession:
-    component_type: assett
+    component-type: assett
     authoritative: false
