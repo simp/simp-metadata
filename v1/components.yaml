@@ -602,7 +602,7 @@ components:
     - url: https://github.com/simp/pupmod-simp-rsync
       type: git
       primary: true
-    metadata_name: simp-rsync
+    metadata_name: pupmod-simp-rsync
   pupmod-simp-rsyslog:
     authoritative: true
     component-type: puppet-module
@@ -1273,15 +1273,6 @@ components:
       primary: true
       type: git
     metadata_name: simp-gpgkeys
-  simp-rsync:
-    authoritative: true
-    component-type: rpm
-    deprecated: true
-    locations:
-    - url: https://github.com/simp/simp-rsync
-      type: git
-      primary: true
-    metadata_name: simp-rsync
   simp-rsync-skeleton:
     authoritative: true
     component-type: rpm
@@ -1289,7 +1280,7 @@ components:
     - url: https://github.com/simp/simp-rsync-skeleton
       type: git
       primary: true
-    metadata_name: simp-rsync-skeleton
+    metadata_name: simp-rsync
   simp-utils:
     authoritative: true
     component-type: rpm

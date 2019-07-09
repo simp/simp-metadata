@@ -238,15 +238,12 @@ releases:
     simp-rkhunter:
       ref: 40bd6864254265ab5111807ca53070c1d77aa044
       tag: 0.0.1
-    simp-rsync:
+    pupmod-simp-rsync:
       ref: 07b94ec4a6367d15d462f9715514bd96e6baaa72
       tag: 6.1.1
     simp-rsync_data:
       ref: fc66230023d7dcc395feabd1dd8a9f157ffaab1e
       tag: 7.0.1
-    simp-rsync_data_pre64:
-      ref: 568476f3a10b458cb20341207b79ba760943c69c
-      tag: 6.2.1-2
     simp-rsyslog:
       ref: b9c5e18c95744165c22a2b112d3bea869cf08dcc
       tag: 7.4.0
