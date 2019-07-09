@@ -322,9 +322,10 @@ releases:
       ref: 1b42120e41be08691f7a36e65506a4b86a242776
       tag: 6.3.3-0
       branch: master
-    simp-rsync:
+    simp-rsync-skeleton:
       ref: 1a1f54ebd4c8cdf39e651ff715cb761cc364047e
       branch: master
+      compiled: true
     pupmod-puppetlabs-hocon:
       ref: b2d8c1bbc7c2ac50505b1b77d623ff29d6d5180d
       tag: 1.0.0
