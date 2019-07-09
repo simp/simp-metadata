@@ -1,0 +1,1642 @@
+---
+releases:
+  6.4.0-RC1:
+    herculesteam-augeasproviders_apache:
+      ref: 0a60d7ece2e957258fccd976e0e2c87551a902f6
+      tag: 3.1.1
+    herculesteam-augeasproviders_core:
+      ref: 81686c71489485a94b5d0d32917e6a0f2c597c0c
+      tag: 2.4.0
+    herculesteam-augeasproviders_grub:
+      ref: 7ca6c4107ec5c162c576eb86506b4e2103ce4f7a
+      tag: 3.1.0
+    herculesteam-augeasproviders_mounttab:
+      ref: bccedb0bd65771f28d8f0384b64ea33b750020bc
+      tag: 2.1.1
+    herculesteam-augeasproviders_nagios:
+      ref: a19fb04f874ed69825b24ccaaf1637e74f4e72cb
+      tag: 2.1.1
+    herculesteam-augeasproviders_pam:
+      ref: eb8a4a59ae2e306c5960ba30ece1c41ce5f0fdcf
+      tag: 2.2.1
+    herculesteam-augeasproviders_postgresql:
+      ref: 3df6f71ad8421dac3c3997658c18dead158e8348
+      tag: 3.1.1
+    herculesteam-augeasproviders_puppet:
+      ref: 02aab3b100f8cb679832bf0ef2d9b42293bb5cc0
+      tag: 2.2.1
+    herculesteam-augeasproviders_shellvar:
+      ref: d436202adf100ccf11c430764962a7c21f433a1d
+      tag: 3.1.0
+    herculesteam-augeasproviders_ssh:
+      ref: 3776fd3c1f016bab44505b5af20768da3b7593b2
+      tag: 3.2.1
+    herculesteam-augeasproviders_sysctl:
+      ref: f9628c51db66087cd7793aa1257a7e642dc5b65e
+      tag: 2.3.1
+    onyxpoint-gpasswd:
+      ref: 55d739fbefbcb2c4a8102e29baf67cdfc3c3cb98
+      tag: 1.0.7
+    puppet-kmod:
+      ref: e015d2b82dc95e1f9e25278442b24e74e1802478
+      tag: 2.3.0
+    puppet-systemd:
+      ref: 4d97305fed6d9d6e51ab2468cd4e9f26ecc72237
+      tag: 2.2.0
+    puppetlabs-apache:
+      ref: 2acac585f8cc9e460e931e5dd591792fa8a32666
+      tag: 4.0.0
+    puppetlabs-concat:
+      ref: 121b9c99d0c8ec36d7c92b866730a5466e3ed737
+      tag: 5.3.0
+    puppetlabs-docker:
+      ref: bda7e4fe1c9c060c932eaf141c0d87a2e7f5924e
+      tag: 3.5.0
+    puppetlabs-hocon:
+      ref: 8f5175825884178348611cd532804da0a06bdbe6
+      tag: 1.0.1
+    puppetlabs-inifile:
+      ref: 5dbd8a3d11cc8af12a30781454a0812753776f7a
+      tag: 2.5.0
+    puppetlabs-java:
+      ref: c530c97c9210c174df713091924eef813fe6c67b
+      tag: 3.3.0
+    puppetlabs-motd:
+      ref: ba86b474e33205dbca10c814117aa40cabb5ccca
+      tag: 2.1.2
+    puppetlabs-mount_providers:
+      ref: 25dde3bd84c6a98475272c99fc9709ed13eb0a19
+      tag: 1.0.0
+    puppetlabs-mysql:
+      ref: 11716ceba76f44ac841d82d54de173b43c45740a
+      tag: 8.0.0
+    puppetlabs-postgresql:
+      ref: eeb08f0b8763b674403f79e8d2da86dcac49b4c9
+      tag: 5.12.1
+    puppetlabs-puppet_authorization:
+      ref: 42a3a1e64092934d3ae2f7232c6654c2d4a05b7b
+      tag: 0.5.0
+    puppetlabs-puppetdb:
+      ref: 6cc68c030d9a41e9e3ab939f1d6c73ae999256a8
+      tag: 7.1.0
+    puppetlabs-ruby_task_helper:
+      ref: 1f66fe501fbce8ed9b93e3086b30c908cfc6b3c6
+      tag: 0.3.0
+    puppetlabs-stdlib:
+      ref: bcb169b1047cbcd18d2d8a04c7081df6a3a08ba8
+      tag: 5.2.0
+    puppetlabs-translate:
+      ref: 47a7b82e78b9f8b907e9676a2a03dcd2b3295850
+      tag: 1.2.0
+    rubygem-rubygem_simp_cli:
+      ref: 25cbc7dfc546eb902ff1b9dc1a234395d9b09297
+      tag: 5.0.0
+    saz-locales:
+      ref: beec43f6f079d8993087b105677d3847380ba5c3
+      tag: v2.5.1
+    saz-timezone:
+      ref: e44be603765a247369504182b0c3af045d56f6f1
+      tag: v5.1.1
+    simp-acpid:
+      ref: b34262e55c19529c52046449df9aa0bc75abbe93
+      tag: 1.0.4
+    simp-adapter:
+      ref: 352c9372a2fceda504f6d8e245f0efeca25d4800
+      tag: 1.0.1
+    simp-aide:
+      ref: c487c8739a522d0aeafdecc1a378f2de5e943a42
+      tag: 6.2.2
+    simp-at:
+      ref: a261a9ed4873ee85b6747c1c7b29fc654d6f859f
+      tag: 0.0.7
+    simp-auditd:
+      ref: 995669358a23b4328dac5bc74412d5eac7bb2e57
+      tag: 8.3.2
+    simp-autofs:
+      ref: cb59a017c6b3b26caf8697bed4cee8eb32a4572e
+      tag: 6.1.3
+    simp-chkrootkit:
+      ref: 4dce3deeee328009ee90d3bdb1270b998df0ca2b
+      tag: 0.2.0
+    simp-clamav:
+      ref: b3dda8a743fcd896eec66384ef1350d90f59aca6
+      tag: 6.2.0
+    simp-compliance_markup:
+      ref: f511dd6dd829c8f8e75951ec64ef6a1ff3ba6141
+      tag: 2.4.5
+    simp-cron:
+      ref: 02aded60bfadecc216976424dc1d39371623ab15
+      tag: 0.1.2
+    simp-dconf:
+      ref: 21b490e8e68739e5cdd44e501ff1d5ba898613cf
+      tag: 0.0.3
+    simp-deferred_resources:
+      ref: 94245e981130303f96185e27c87ad4adaec8d612
+      tag: 0.2.1
+    simp-dhcp:
+      ref: e2764638278471a9ddaef74771350211704340d6
+      tag: 6.1.1
+    simp-doc:
+      ref: 79c18f732f6c73b8bff21809c639771a892722f2
+      tag: 6.0.0-0
+    simp-environment:
+      ref: 4c12f6cb69973948ad7ca6a7099b2531e916f6d3
+      tag: 7.1.0
+    simp-fips:
+      ref: 992fa40f246b5c9f308d4bc652e0b760960b38a0
+      tag: 0.2.2
+    simp-freeradius:
+      ref: 3592c7de4c90485a99bf8080e7b309558cdd364e
+      tag: 8.0.0
+    simp-gdm:
+      ref: 8be25b51b9d17983c57d9d60dc1fba903306efcb
+      tag: 7.1.1
+    simp-gnome:
+      ref: aaa41c8af4c89a7ca3df0f8232044822a465fd5d
+      tag: 8.0.1
+    simp-gpgkeys:
+      ref: 3eb58e4922fd68a6ac0a9949cc8403262c24693e
+      tag: 3.1.0
+    simp-haveged:
+      ref: dbe378740bff170cc0bac78c0a601b8749fe6693
+      tag: 0.4.7
+    simp-hirs_provisioner:
+      ref: ab3d1319bc730f9e5130d9c2a31e651ca289091e
+      tag: 0.1.1
+    simp-ima:
+      ref: 9dc72327c1ca64cd04212ba7d19cdf8000ae3571
+      tag: 0.1.1
+    simp-incron:
+      ref: d88922dfaf458d55bcb24ac53e3bd34c08c445e8
+      tag: 0.4.1
+    simp-iptables:
+      ref: be2094ff0ed91e50c65c604b6604e0ce0bc662bb
+      tag: 6.2.2
+    simp-issue:
+      ref: e29c3af38d161ce398d8fefdf5bc26e18f6a4fec
+      tag: 0.0.4
+    simp-journald:
+      ref: 5f5f0c6a53c10c3c2fbadf94a19daf6125e53ef0
+      tag: 1.0.0
+    simp-krb5:
+      ref: 8c6e9db799d3857a8304d9b043056f51c1b8220b
+      tag: 7.0.5
+    simp-libreswan:
+      ref: 3b3b864b4549f1a61c3e7b5c99eb0452af2a5732
+      tag: 3.1.1
+    simp-libvirt:
+      ref: a28e8dc2d2da91b13d455afcc4fbe5bf372e7cc0
+      tag: 5.2.2
+    simp-logrotate:
+      ref: d68f3407fb273dd15454f39b41f875ef55a68079
+      tag: 6.3.1
+    simp-mate:
+      ref: ae5f500cc04a15f3c22f8e92b5e01473508ffa7d
+      tag: 1.0.2
+    simp-mozilla:
+      ref: 05c8e44a0e7155b6c8560191ce9cbc47deaef717
+      tag: 5.1.1
+    simp-named:
+      ref: df4ae6aa3f45c8ec41b682fc4c604237f098a9f6
+      tag: 6.1.2
+    simp-network:
+      ref: 7096a1564c4d449235a275088a60fd450d010364
+      tag: 6.1.0
+    simp-nfs:
+      ref: 66ec69dd4020b9f72965bda2914db6ceb73d6a81
+      tag: 6.2.2
+    simp-ntpd:
+      ref: a09412369bf7cd9ded43681c4e92604a94d6afe6
+      tag: 6.4.0
+    simp-oath:
+      ref: 90c0941f645b3f304e93bc0f6d9bf3c77101b264
+      tag: 0.1.0
+    simp-oddjob:
+      ref: 7288556620fbdd03f2a6a82f1b5b2ae79519d681
+      tag: 2.1.1
+    simp-openscap:
+      ref: 0047e122688c9e342dbc2e2cc00eefc20b405f84
+      tag: 6.2.1
+    simp-pam:
+      ref: 8b780b6c2df9f27255a48e02ee56b050dafd771c
+      tag: 6.5.0
+    simp-pki:
+      ref: c4f6cb2bc29db11161f1ccdf5ec2fbbd9d848bc4
+      tag: 6.1.1
+    simp-polkit:
+      ref: 8d43406ce103d9ab37a041175369ff9fc6e12875
+      tag: 6.1.2
+    simp-postfix:
+      ref: cc187fbc361dfe0d77ee062d3f0d2e7cf90c2bbc
+      tag: 5.2.1
+    simp-pupmod:
+      ref: 9ac9c0b7fbb50092e188bc61b9beef33769b8ccc
+      tag: 7.10.1
+    simp-resolv:
+      ref: d8292de1052d5ba0d2525f42925998f04a4a9910
+      tag: 0.1.3
+    simp-rkhunter:
+      ref: 40bd6864254265ab5111807ca53070c1d77aa044
+      tag: 0.0.1
+    simp-rsync:
+      ref: 07b94ec4a6367d15d462f9715514bd96e6baaa72
+      tag: 6.1.1
+    simp-rsync_data:
+      ref: fc66230023d7dcc395feabd1dd8a9f157ffaab1e
+      tag: 7.0.1
+    simp-rsync_data_pre64:
+      ref: 568476f3a10b458cb20341207b79ba760943c69c
+      tag: 6.2.1-2
+    simp-rsyslog:
+      ref: b9c5e18c95744165c22a2b112d3bea869cf08dcc
+      tag: 7.4.0
+    simp-selinux:
+      ref: ca489af8b8dea8418945db149befa4b235ae8f58
+      tag: 2.4.1
+    simp-simp:
+      ref: 9a23b5d583d16bdbfb573796a04346fd79102296
+      tag: 4.9.0
+    simp-simp_apache:
+      ref: c2f4c66bf18229ef07bea42ecad71bc629287b2f
+      tag: 6.1.3
+    simp-simp_banners:
+      ref: 2462c31a517be6b1f9929f659c9657f8b8c47ccc
+      tag: 0.1.1
+    simp-simp_bolt:
+      ref: 8264b764b849a1a80cedc98575ce1c10e0cb449d
+      tag: 0.1.0
+    simp-simp_docker:
+      ref: fc56dd2b012a5a95c7d730ec4a700352ce35d175
+      tag: 0.2.1
+    simp-simp_gitlab:
+      ref: ccb8a79fd9603f0c77ebc8bb79532554e5a6351c
+      tag: 0.4.0
+    simp-simp_grub:
+      ref: f9b84acd3a849c7beb49ae333c61e447f3e00e11
+      tag: 0.1.0
+    simp-simp_ipa:
+      ref: c425c76717d188335a70bc10b47238cc3a67a6ac
+      tag: 0.0.2
+    simp-simp_nfs:
+      ref: 69441cae2add99c42897c6ee32d11ed77cd9a440
+      tag: 0.1.1
+    simp-simp_openldap:
+      ref: 7e91374f2b7bcbdd2fcc4f28b4064a2bbc9bc43b
+      tag: 6.3.2
+    simp-simp_options:
+      ref: 65e7245e6f09216fcc4dcdabe6fb99b6eb2a678a
+      tag: 1.2.4
+    simp-simp_pki_service:
+      ref: 587e72e2c444206cd5e977210191aa085307dd26
+      tag: 0.2.0
+    simp-simp_rsyslog:
+      ref: b91bc82fde515bea098531ac28b7738858c4bdca
+      tag: 0.3.2
+    simp-simp_selinux_policy:
+      ref: 006a0a25dabfc58afb153dd21b886a5cfd8e129f
+      tag: 1.0.0
+    simp-simp_snmpd:
+      ref: baecfef5c65832ce74efcd7bc27388eb1b5ad5fc
+      tag: 0.1.2
+    simp-simplib:
+      ref: ba8a500775d8e241cb87d4a4db7cfbde75924a2e
+      tag: 3.15.2
+    simp-ssh:
+      ref: 753cf8780fe64362756c9337fb3072b581bf6c92
+      tag: 6.7.1
+    simp-sssd:
+      ref: ca7c3dec9ca47a108cf6682407303b6c9d682ee3
+      tag: 6.1.6
+    simp-stunnel:
+      ref: 55855c4a720e10fc9156722c5cdc7dbe8cfe02e6
+      tag: 6.4.2
+    simp-sudo:
+      ref: a48a31410031fd68583566041b131b64a10b1ceb
+      tag: 5.2.0
+    simp-sudosh:
+      ref: 570529d8a62d43cc32d8d739fc28da7555604dde
+      tag: 6.1.1
+    simp-svckill:
+      ref: c669b012b5bd5cfc7c52b941978ceaf89959de8c
+      tag: 3.4.0
+    simp-swap:
+      ref: efd7442a1e5c62d5a8b1af1e1dbea46f66ef4ba7
+      tag: 0.1.4
+    simp-tcpwrappers:
+      ref: f0f3dc18e8b5b01cd19494679480d1e6e1b239c5
+      tag: 6.1.2
+    simp-tftpboot:
+      ref: 573c6e99fa4afb5701780b51f444324845291556
+      tag: 6.2.2
+    simp-tlog:
+      ref: ef13f07cab4cd4f64608b351ecf12f123bcabb42
+      tag: 0.1.2
+    simp-tpm:
+      ref: 21333eaf46a03dbd77e9b336170e1cb85ce0d639
+      tag: 3.1.1
+    simp-tpm2:
+      ref: 637180ab259600aacc8e730adb6ccfecb8be6425
+      tag: 0.1.1
+    simp-tuned:
+      ref: ed1b89557769e8bd62e4dc570432972e2fdffe40
+      tag: 0.1.1
+    simp-upstart:
+      ref: a763776e66b8a15fd4ef552f451fb6a543994916
+      tag: 6.0.4
+    simp-useradd:
+      ref: 9253760f3277ad998e4c5eea3e1cc5a175fdb254
+      tag: 0.2.3
+    simp-utils:
+      ref: d9a79f46050eb3d1d603d03c9b8a68a7770cd576
+      tag: 6.2.2
+    simp-vnc:
+      ref: '0015881f4ab8e7bba5769a254b389de03dbb639e'
+      tag: 7.0.1
+    simp-vox_selinux:
+      ref: 90c45a5227e8755ae544dd8f977b0c4464f513ed
+      tag: simp-1.6.1
+    simp-vsftpd:
+      ref: 04257afdb069cec5b074bc25fe7141c26c18a134
+      tag: 7.2.1
+    simp-x2go:
+      ref: ae8f305438fb0a588985e1e4c2ebc54f4f5bc747
+      tag: 0.2.1
+    simp-xinetd:
+      ref: afa9bd4fb297ab8a2f889830a3b593af33e4c6e6
+      tag: 4.1.1
+    treydock-kdump:
+      ref: eae3992ce8e846207963da43eb6269241feea646
+      tag: 0.2.0
+    trlinkin-nsswitch:
+      ref: e964b88cc9435f76ff4d1f30cfba908898212d56
+      tag: 2.1.1
+    voxpupuli-gitlab:
+      ref: ddc0ef724eabed5777d1186e496e653491b219aa
+      tag: v3.0.2
+    voxpupuli-posix_acl:
+      ref: 9093a93dc2618e81eb46b4ee3c3b1ce9e976d041
+      tag: v0.1.1
+    voxpupuli-snmp:
+      ref: d0bff1d8e0d811576366135c9c880ccdb51994e1
+      tag: v4.1.0
+    voxpupuli-yum:
+      ref: e6d8df968d385041d25914bf662fd3e246425d2e
+      tag: v3.1.1
+    HIRS_Provisioner_TPM_1_2:
+      el_version:
+        el7:
+          :rpm_name: HIRS_Provisioner_TPM_1_2-1.0.4-1558547257.cedc93.el7.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/HIRS_Provisioner_TPM_1_2-1.0.4-1558547257.cedc93.el7.noarch.rpm/download.rpm
+          version: 1.0.4
+        el6:
+          :rpm_name: HIRS_Provisioner_TPM_1_2-1.0.4-1558547257.cedc93.el6.noarch
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/HIRS_Provisioner_TPM_1_2-1.0.4-1558547257.cedc93.el6.noarch.rpm/download.rpm
+          version: 1.0.4
+    HIRS_Provisioner_TPM_2_0:
+      el_version:
+        el7:
+          :rpm_name: HIRS_Provisioner_TPM_2_0-1.0.4-1.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/HIRS_Provisioner_TPM_2_0-1.0.4-1.x86_64.rpm/download.rpm
+          version: 1.0.4
+    apr-util-ldap:
+      el_version:
+        el7:
+          :rpm_name: apr-util-ldap-1.5.2-6.el7.x86_64.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/apr-util-ldap-1.5.2-6.el7.x86_64.rpm
+          version: 1.5.2
+    caja:
+      el_version:
+        el7:
+          :rpm_name: caja-1.16.6-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/caja-1.16.6-1.el7.x86_64.rpm
+          version: 1.16.6
+    caja-extensions:
+      el_version:
+        el7:
+          :rpm_name: caja-extensions-1.16.6-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/caja-extensions-1.16.6-1.el7.x86_64.rpm
+          version: 1.16.6
+    caja-extensions-common:
+      el_version:
+        el7:
+          :rpm_name: caja-extensions-common-1.16.0-1.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/caja-extensions-common-1.16.0-1.el7.noarch.rpm
+          version: 1.16.0
+    caja-open-terminal:
+      el_version:
+        el7:
+          :rpm_name: caja-open-terminal-1.16.0-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/caja-open-terminal-1.16.0-1.el7.x86_64.rpm
+          version: 1.16.0
+    caja-schemas:
+      el_version:
+        el7:
+          :rpm_name: caja-schemas-1.16.6-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/caja-schemas-1.16.6-1.el7.x86_64.rpm
+          version: 1.16.6
+    chkrootkit:
+      el_version:
+        el7:
+          :rpm_name: chkrootkit-0.50-4el7.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/chkrootkit-0.50-4el7.x86_64.rpm/download.rpm
+          version: '0.50'
+        el6:
+          :rpm_name: chkrootkit-0.49-9.el6.x86_64.rpm
+          :source: http://mirror.cogentco.com/pub/linux/epel/6/x86_64/Packages/c/chkrootkit-0.49-9.el6.x86_64.rpm
+          version: '0.49'
+    clamav:
+      el_version:
+        el7:
+          :rpm_name: clamav-0.101.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/clamav-0.101.2-1.el7.x86_64.rpm
+          version: 0.101.2
+        el6:
+          :rpm_name: clamav-0.100.3-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/c/clamav-0.100.3-1.el6.x86_64.rpm
+          version: 0.100.3
+    clamav-data:
+      el_version:
+        el7:
+          :rpm_name: clamav-data-0.101.2-1.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/clamav-data-0.101.2-1.el7.noarch.rpm
+          version: 0.101.2
+    clamav-devel:
+      el_version:
+        el7:
+          :rpm_name: clamav-devel-0.101.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/clamav-devel-0.101.2-1.el7.x86_64.rpm
+          version: 0.101.2
+        el6:
+          :rpm_name: clamav-devel-0.100.3-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/c/clamav-devel-0.100.3-1.el6.x86_64.rpm
+          version: 0.100.3
+    clamav-filesystem:
+      el_version:
+        el7:
+          :rpm_name: clamav-filesystem-0.101.2-1.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/clamav-filesystem-0.101.2-1.el7.noarch.rpm
+          version: 0.101.2
+    clamav-lib:
+      el_version:
+        el7:
+          :rpm_name: clamav-lib-0.101.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/clamav-lib-0.101.2-1.el7.x86_64.rpm
+          version: 0.101.2
+    clamav-scanner-systemd:
+      el_version:
+        el7:
+          :rpm_name: clamav-scanner-systemd-0.101.2-1.el7.x86_64.rpm
+          :source: https://mirror.umd.edu/fedora/epel/7/x86_64/Packages/c/clamav-scanner-systemd-0.101.2-1.el7.x86_64.rpm
+          version: 0.101.2
+    clamav-server-systemd:
+      el_version:
+        el7:
+          :rpm_name: clamav-server-systemd-0.101.2-1.el7.x86_64.rpm
+          :source: https://mirror.umd.edu/fedora/epel/7/x86_64/Packages/c/clamav-server-systemd-0.101.2-1.el7.x86_64.rpm
+          version: 0.101.2
+    clamav-update:
+      el_version:
+        el7:
+          :rpm_name: clamav-update-0.101.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/clamav-update-0.101.2-1.el7.x86_64.rpm
+          version: 0.101.2
+    clamd:
+      el_version:
+        el7:
+          :rpm_name: clamd-0.101.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/c/clamd-0.101.2-1.el7.x86_64.rpm
+          version: 0.101.2
+        el6:
+          :rpm_name: clamd-0.100.3-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/c/clamd-0.100.3-1.el6.x86_64.rpm
+          version: 0.100.3
+    fortune-mod:
+      el_version:
+        el7:
+          :rpm_name: fortune-mod-1.99.1-17.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/f/fortune-mod-1.99.1-17.el7.x86_64.rpm
+          version: 1.99.1
+    fuse-sshfs:
+      el_version:
+        el7:
+          :rpm_name: fuse-sshfs-2.10-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/f/fuse-sshfs-2.10-1.el7.x86_64.rpm
+          version: '2.10'
+        el6:
+          :rpm_name: fuse-sshfs-2.4-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/f/fuse-sshfs-2.4-1.el6.x86_64.rpm
+          version: '2.4'
+    gtk-murrine-engine:
+      el_version:
+        el7:
+          :rpm_name: gtk-murrine-engine-0.98.2-10.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/g/gtk-murrine-engine-0.98.2-10.el7.x86_64.rpm
+          version: 0.98.2
+    gtk2-engines:
+      el_version:
+        el7:
+          :rpm_name: gtk2-engines-2.20.2-7.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/g/gtk2-engines-2.20.2-7.el7.x86_64.rpm
+          version: 2.20.2
+    haveged:
+      el_version:
+        el7:
+          :rpm_name: haveged-1.9.1-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/h/haveged-1.9.1-1.el7.x86_64.rpm
+          version: 1.9.1
+        el6:
+          :rpm_name: haveged-1.9.1-2.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/h/haveged-1.9.1-2.el6.x86_64.rpm
+          version: 1.9.1
+    ima-evm-utils:
+      el_version:
+        el7:
+          :rpm_name: ima-evm-utils-1.1-2.el7.x86_64.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/ima-evm-utils-1.1-2.el7.x86_64.rpm
+          version: '1.1'
+    incron:
+      el_version:
+        el7:
+          :rpm_name: incron-0.5.10-8.el7.x86_64.rpm
+          :source: https://download.simp-project.com/simp/packages/CentOS/el/7/x86_64/incron-0.5.10-8.el7.x86_64.rpm
+          version: 0.5.10
+        el6:
+          :rpm_name: incron-0.5.9-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/i/incron-0.5.9-1.el6.x86_64.rpm
+          version: 0.5.9
+    jq:
+      el_version:
+        el7:
+          :rpm_name: jq-1.5-1.el7.x86_64.rpm
+          :source: http://mirrors.lug.mtu.edu/epel/7/x86_64/Packages/j/jq-1.5-1.el7.x86_64.rpm
+          version: '1.5'
+        el6:
+          :rpm_name: jq-1.3-2.el6.x86_64.rpm
+          :source: http://mirrors.lug.mtu.edu/epel/6/x86_64/Packages/j/jq-1.3-2.el6.x86_64.rpm
+          version: '1.3'
+    libNX_X11:
+      el_version:
+        el7:
+          :rpm_name: libNX_X11-3.5.99.17-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libNX_X11-3.5.99.17-1.el7.x86_64.rpm
+          version: 3.5.99.17
+        el6:
+          :rpm_name: libNX_X11-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_X11-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libXcomp:
+      el_version:
+        el7:
+          :rpm_name: libXcomp-3.5.99.17-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libXcomp-3.5.99.17-1.el7.x86_64.rpm
+          version: 3.5.99.17
+        el6:
+          :rpm_name: libXcomp-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libXcomp-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libXcompshad:
+      el_version:
+        el7:
+          :rpm_name: libXcompshad-3.5.99.17-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libXcompshad-3.5.99.17-1.el7.x86_64.rpm
+          version: 3.5.99.17
+        el6:
+          :rpm_name: libXcompshad-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libXcompshad-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libarchive-devel:
+      el_version:
+        el7:
+          :rpm_name: libarchive-devel-3.1.2-10.el7_2.x86_64.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/libarchive-devel-3.1.2-10.el7_2.x86_64.rpm
+          version: 3.1.2
+    libconfuse:
+      el_version:
+        el7:
+          :rpm_name: libconfuse-2.7-7.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libconfuse-2.7-7.el7.x86_64.rpm
+          version: '2.7'
+        el6:
+          :rpm_name: libconfuse-2.7-4.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libconfuse-2.7-4.el6.x86_64.rpm
+          version: '2.7'
+    libev:
+      el_version:
+        el7:
+          :rpm_name: libev-4.15-3.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libev-4.15-3.el7.x86_64.rpm
+          version: '4.15'
+        el6:
+          :rpm_name: libev-4.03-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libev-4.03-3.el6.x86_64.rpm
+          version: '4.03'
+    libmatekbd:
+      el_version:
+        el7:
+          :rpm_name: libmatekbd-1.16.0-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libmatekbd-1.16.0-1.el7.x86_64.rpm
+          version: 1.16.0
+    libmatemixer:
+      el_version:
+        el7:
+          :rpm_name: libmatemixer-1.16.0-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libmatemixer-1.16.0-1.el7.x86_64.rpm
+          version: 1.16.0
+    libmateweather:
+      el_version:
+        el7:
+          :rpm_name: libmateweather-1.16.1-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libmateweather-1.16.1-1.el7.x86_64.rpm
+          version: 1.16.1
+    libmateweather-data:
+      el_version:
+        el7:
+          :rpm_name: libmateweather-data-1.16.1-1.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libmateweather-data-1.16.1-1.el7.noarch.rpm
+          version: 1.16.1
+    libssh:
+      el_version:
+        el7:
+          :rpm_name: libssh-0.7.1-3.el7.x86_64.rpm
+          :source: http://mirror.centos.org/centos/7/extras/x86_64/Packages/libssh-0.7.1-3.el7.x86_64.rpm
+          version: 0.7.1
+        el6:
+          :rpm_name: libssh-0.5.5-5.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libssh-0.5.5-5.el6.x86_64.rpm
+          version: 0.5.5
+    libwnck:
+      el_version:
+        el7:
+          :rpm_name: libwnck-2.31.0-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/libwnck-2.31.0-1.el7.x86_64.rpm
+          version: 2.31.0
+    log4cplus:
+      el_version:
+        el7:
+          :rpm_name: log4cplus-1.1.3-0.4.rc3.el7.x86_64.rpm
+          :source: http://mirrors.lug.mtu.edu/epel/7/x86_64/Packages/l/log4cplus-1.1.3-0.4.rc3.el7.x86_64.rpm
+          version: 1.1.3
+    lyx-fonts:
+      el_version:
+        el7:
+          :rpm_name: lyx-fonts-2.2.3-1.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/l/lyx-fonts-2.2.3-1.el7.noarch.rpm
+          version: 2.2.3
+    marco:
+      el_version:
+        el7:
+          :rpm_name: marco-1.16.1-4.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/marco-1.16.1-4.el7.x86_64.rpm
+          version: 1.16.1
+    mate-control-center:
+      el_version:
+        el7:
+          :rpm_name: mate-control-center-1.16.1-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-control-center-1.16.1-1.el7.x86_64.rpm
+          version: 1.16.1
+    mate-control-center-filesystem:
+      el_version:
+        el7:
+          :rpm_name: mate-control-center-filesystem-1.16.1-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-control-center-filesystem-1.16.1-1.el7.x86_64.rpm
+          version: 1.16.1
+    mate-desktop:
+      el_version:
+        el7:
+          :rpm_name: mate-desktop-1.16.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-desktop-1.16.2-1.el7.x86_64.rpm
+          version: 1.16.2
+    mate-desktop-libs:
+      el_version:
+        el7:
+          :rpm_name: mate-desktop-libs-1.16.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-desktop-libs-1.16.2-1.el7.x86_64.rpm
+          version: 1.16.2
+    mate-icon-theme:
+      el_version:
+        el7:
+          :rpm_name: mate-icon-theme-1.16.2-1.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-icon-theme-1.16.2-1.el7.noarch.rpm
+          version: 1.16.2
+    mate-menus:
+      el_version:
+        el7:
+          :rpm_name: mate-menus-1.16.0-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-menus-1.16.0-1.el7.x86_64.rpm
+          version: 1.16.0
+    mate-menus-libs:
+      el_version:
+        el7:
+          :rpm_name: mate-menus-libs-1.16.0-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-menus-libs-1.16.0-1.el7.x86_64.rpm
+          version: 1.16.0
+    mate-notification-daemon:
+      el_version:
+        el7:
+          :rpm_name: mate-notification-daemon-1.16.1-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-notification-daemon-1.16.1-1.el7.x86_64.rpm
+          version: 1.16.1
+    mate-panel:
+      el_version:
+        el7:
+          :rpm_name: mate-panel-1.16.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-panel-1.16.2-1.el7.x86_64.rpm
+          version: 1.16.2
+    mate-panel-libs:
+      el_version:
+        el7:
+          :rpm_name: mate-panel-libs-1.16.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-panel-libs-1.16.2-1.el7.x86_64.rpm
+          version: 1.16.2
+    mate-polkit:
+      el_version:
+        el7:
+          :rpm_name: mate-polkit-1.16.0-2.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-polkit-1.16.0-2.el7.x86_64.rpm
+          version: 1.16.0
+    mate-power-manager:
+      el_version:
+        el7:
+          :rpm_name: mate-power-manager-1.16.2-2.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-power-manager-1.16.2-2.el7.x86_64.rpm
+          version: 1.16.2
+    mate-screensaver:
+      el_version:
+        el7:
+          :rpm_name: mate-screensaver-1.16.1-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-screensaver-1.16.1-1.el7.x86_64.rpm
+          version: 1.16.1
+    mate-session-manager:
+      el_version:
+        el7:
+          :rpm_name: mate-session-manager-1.16.1-3.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-session-manager-1.16.1-3.el7.x86_64.rpm
+          version: 1.16.1
+    mate-settings-daemon:
+      el_version:
+        el7:
+          :rpm_name: mate-settings-daemon-1.16.2-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-settings-daemon-1.16.2-1.el7.x86_64.rpm
+          version: 1.16.2
+    mate-themes:
+      el_version:
+        el7:
+          :rpm_name: mate-themes-3.22.19-2.el7.noarch.rpm
+          :source: http://mirror.cogentco.com/pub/linux/epel/7/x86_64/Packages/m/mate-themes-3.22.19-2.el7.noarch.rpm
+          version: 3.22.19
+    mate-user-guide:
+      el_version:
+        el7:
+          :rpm_name: mate-user-guide-1.16.0-1.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/m/mate-user-guide-1.16.0-1.el7.noarch.rpm
+          version: 1.16.0
+    nx-libs:
+      el_version:
+        el7:
+          :rpm_name: nx-libs-3.5.99.17-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/n/nx-libs-3.5.99.17-1.el7.x86_64.rpm
+          version: 3.5.99.17
+        el6:
+          :rpm_name: nx-libs-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/n/nx-libs-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    nxagent:
+      el_version:
+        el7:
+          :rpm_name: nxagent-3.5.99.17-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/n/nxagent-3.5.99.17-1.el7.x86_64.rpm
+          version: 3.5.99.17
+        el6:
+          :rpm_name: nxagent-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/n/nxagent-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    nxproxy:
+      el_version:
+        el7:
+          :rpm_name: nxproxy-3.5.99.17-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/n/nxproxy-3.5.99.17-1.el7.x86_64.rpm
+          version: 3.5.99.17
+        el6:
+          :rpm_name: nxproxy-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/n/nxproxy-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    oniguruma:
+      el_version:
+        el7:
+          :rpm_name: oniguruma-5.9.5-3.el7.x86_64.rpm
+          :source: http://mirrors.lug.mtu.edu/epel/7/x86_64/Packages/o/oniguruma-5.9.5-3.el7.x86_64.rpm
+          version: 5.9.5
+    paccor:
+      el_version:
+        el7:
+          :rpm_name: paccor-1.1.2-1.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/paccor-1.1.2-1.noarch.rpm/download.rpm
+          version: 1.1.2
+        el6:
+          :rpm_name: paccor-1.1.2-1.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/paccor-1.1.2-1.noarch.rpm/download.rpm
+          version: 1.1.2
+    perl-Capture-Tiny:
+      el_version:
+        el7:
+          :rpm_name: perl-Capture-Tiny-0.24-1.el7.noarch.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/perl-Capture-Tiny-0.24-1.el7.noarch.rpm
+          version: '0.24'
+        el6:
+          :rpm_name: perl-Capture-Tiny-0.23-1.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/perl-Capture-Tiny-0.23-1.el6.noarch.rpm
+          version: '0.23'
+    perl-Config-Simple:
+      el_version:
+        el7:
+          :rpm_name: perl-Config-Simple-4.59-15.el7.noarch.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/perl-Config-Simple-4.59-15.el7.noarch.rpm
+          version: '4.59'
+        el6:
+          :rpm_name: perl-Config-Simple-4.59-5.el6.noarch.rpm
+          :source: http://mirrors.lug.mtu.edu/epel/6/x86_64/Packages/p/perl-Config-Simple-4.59-5.el6.noarch.rpm
+          version: '4.59'
+    perl-File-BaseDir:
+      el_version:
+        el7:
+          :rpm_name: perl-File-BaseDir-0.03-14.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/p/perl-File-BaseDir-0.03-14.el7.noarch.rpm
+          version: '0.03'
+        el6:
+          :rpm_name: perl-File-BaseDir-0.03-13.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/perl-File-BaseDir-0.03-13.el6.noarch.rpm
+          version: '0.03'
+    perl-File-Which:
+      el_version:
+        el7:
+          :rpm_name: perl-File-Which-1.09-12.el7.noarch.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/perl-File-Which-1.09-12.el7.noarch.rpm
+          version: '1.09'
+        el6:
+          :rpm_name: perl-File-Which-1.09-2.el6.noarch.rpm
+          :source: http://mirror.centos.org/centos/6/os/x86_64/Packages/perl-File-Which-1.09-2.el6.noarch.rpm
+          version: '1.09'
+    perl-Switch:
+      el_version:
+        el7:
+          :rpm_name: perl-Switch-2.16-7.el7.noarch.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/perl-Switch-2.16-7.el7.noarch.rpm
+          version: '2.16'
+    perl-X2Go-Log:
+      el_version:
+        el7:
+          :rpm_name: perl-X2Go-Log-4.1.0.3-3.el7.noarch.rpm
+          :source: http://mirror.cogentco.com/pub/linux/epel/7/x86_64/Packages/p/perl-X2Go-Log-4.1.0.3-3.el7.noarch.rpm
+          version: 4.1.0.3
+    perl-X2Go-Server:
+      el_version:
+        el7:
+          :rpm_name: perl-X2Go-Server-4.1.0.3-3.el7.noarch.rpm
+          :source: http://mirror.cogentco.com/pub/linux/epel/7/x86_64/Packages/p/perl-X2Go-Server-4.1.0.3-3.el7.noarch.rpm
+          version: 4.1.0.3
+    perl-X2Go-Server-DB:
+      el_version:
+        el7:
+          :rpm_name: perl-X2Go-Server-DB-4.1.0.3-3.el7.x86_64.rpm
+          :source: http://mirror.cogentco.com/pub/linux/epel/7/x86_64/Packages/p/perl-X2Go-Server-DB-4.1.0.3-3.el7.x86_64.rpm
+          version: 4.1.0.3
+    postgresql96:
+      el_version:
+        el7:
+          :rpm_name: postgresql96-9.6.12-1PGDG.rhel7.x86_64.rpm
+          :source: https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64/postgresql96-9.6.12-1PGDG.rhel7.x86_64.rpm
+          version: 9.6.12
+        el6:
+          :rpm_name: postgresql96-9.6.13-1PGDG.rhel6.x86_64.rpm
+          :source: https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-6.10-x86_64/postgresql96-9.6.13-1PGDG.rhel6.x86_64.rpm
+          version: 9.6.13
+    postgresql96-contrib:
+      el_version:
+        el7:
+          :rpm_name: postgresql96-contrib-9.6.12-1PGDG.rhel7.x86_64.rpm
+          :source: https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64/postgresql96-contrib-9.6.12-1PGDG.rhel7.x86_64.rpm
+          version: 9.6.12
+        el6:
+          :rpm_name: postgresql96-contrib-9.6.13-1PGDG.rhel6.x86_64.rpm
+          :source: https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-6.10-x86_64/postgresql96-contrib-9.6.13-1PGDG.rhel6.x86_64.rpm
+          version: 9.6.13
+    postgresql96-libs:
+      el_version:
+        el7:
+          :rpm_name: postgresql96-libs-9.6.12-1PGDG.rhel7.x86_64.rpm
+          :source: https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64/postgresql96-libs-9.6.12-1PGDG.rhel7.x86_64.rpm
+          version: 9.6.12
+        el6:
+          :rpm_name: postgresql96-libs-9.6.13-1PGDG.rhel6.x86_64.rpm
+          :source: https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-6.10-x86_64/postgresql96-libs-9.6.13-1PGDG.rhel6.x86_64.rpm
+          version: 9.6.13
+    postgresql96-server:
+      el_version:
+        el7:
+          :rpm_name: postgresql96-server-9.6.12-1PGDG.rhel7.x86_64.rpm
+          :source: https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-7-x86_64/postgresql96-server-9.6.12-1PGDG.rhel7.x86_64.rpm
+          version: 9.6.12
+        el6:
+          :rpm_name: postgresql96-server-9.6.13-1PGDG.rhel6.x86_64.rpm
+          :source: https://download.postgresql.org/pub/repos/yum/9.6/redhat/rhel-6.10-x86_64/postgresql96-server-9.6.13-1PGDG.rhel6.x86_64.rpm
+          version: 9.6.13
+    protobuf:
+      el_version:
+        el7:
+          :rpm_name: protobuf-2.5.0-8.el7.x86_64.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/protobuf-2.5.0-8.el7.x86_64.rpm
+          version: 2.5.0
+    puppet-agent:
+      el_version:
+        el7:
+          :rpm_name: puppet-agent-5.5.14-1.el7.x86_64.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/7/x86_64/puppet-agent-5.5.14-1.el7.x86_64.rpm
+          version: 5.5.14
+        el6:
+          :rpm_name: puppet-agent-5.5.14-1.el6.x86_64.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/6/x86_64/puppet-agent-5.5.14-1.el6.x86_64.rpm
+          version: 5.5.14
+    puppet-client-tools:
+      el_version:
+        el7:
+          :rpm_name: puppet-client-tools-1.2.6-1.el7.x86_64.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/7/x86_64/puppet-client-tools-1.2.6-1.el7.x86_64.rpm
+          version: 1.2.6
+        el6:
+          :rpm_name: puppet-client-tools-1.2.6-1.el6.x86_64.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/6/x86_64/puppet-client-tools-1.2.6-1.el6.x86_64.rpm
+          version: 1.2.6
+    puppet5-release:
+      el_version:
+        el7:
+          :rpm_name: puppet5-release-5.0.0-6.el7.noarch.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/7/x86_64/puppet5-release-5.0.0-6.el7.noarch.rpm
+          version: 5.0.0
+        el6:
+          :rpm_name: puppet5-release-5.0.0-6.el6.noarch.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/6/x86_64/puppet5-release-5.0.0-6.el6.noarch.rpm
+          version: 5.0.0
+    puppetdb:
+      el_version:
+        el7:
+          :rpm_name: puppetdb-5.2.8-1.el7.noarch.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/7/x86_64/puppetdb-5.2.8-1.el7.noarch.rpm
+          version: 5.2.8
+        el6:
+          :rpm_name: puppetdb-5.2.8-1.el6.noarch.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/6/x86_64/puppetdb-5.2.8-1.el6.noarch.rpm
+          version: 5.2.8
+    puppetdb-termini:
+      el_version:
+        el7:
+          :rpm_name: puppetdb-termini-5.2.8-1.el7.noarch.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/7/x86_64/puppetdb-termini-5.2.8-1.el7.noarch.rpm
+          version: 5.2.8
+        el6:
+          :rpm_name: puppetdb-termini-5.2.8-1.el6.noarch.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/6/x86_64/puppetdb-termini-5.2.8-1.el6.noarch.rpm
+          version: 5.2.8
+    puppetserver:
+      el_version:
+        el7:
+          :rpm_name: puppetserver-5.3.8-1.el7.noarch.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/7/x86_64/puppetserver-5.3.8-1.el7.noarch.rpm
+          version: 5.3.8
+        el6:
+          :rpm_name: puppetserver-5.3.8-1.el6.noarch.rpm
+          :source: https://yum.puppetlabs.com/puppet5/el/6/x86_64/puppetserver-5.3.8-1.el6.noarch.rpm
+          version: 5.3.8
+    pwgen:
+      el_version:
+        el7:
+          :rpm_name: pwgen-2.08-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/p/pwgen-2.08-1.el7.x86_64.rpm
+          version: '2.08'
+        el6:
+          :rpm_name: pwgen-2.08-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/pwgen-2.08-1.el6.x86_64.rpm
+          version: '2.08'
+    python-linecache2:
+      el_version:
+        el7:
+          :rpm_name: python-linecache2-1.0.0-1.el7.noarch.rpm
+          :source: https://lug.mtu.edu/epel/7/x86_64/Packages/p/python-linecache2-1.0.0-1.el7.noarch.rpm
+          version: 1.0.0
+    re2:
+      el_version:
+        el7:
+          :rpm_name: re2-20160401-2.el7.x86_64.rpm
+          :source: http://mirrors.lug.mtu.edu/epel/7/x86_64/Packages/r/re2-20160401-2.el7.x86_64.rpm
+          version: '20160401'
+    rkhunter:
+      el_version:
+        el7:
+          :rpm_name: rkhunter-1.4.6-1.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/r/rkhunter-1.4.6-1.el7.noarch.rpm
+          version: 1.4.6
+    ruby-ldap:
+      el_version:
+        el7:
+          :rpm_name: ruby-ldap-0.9.16-1.el7.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/ruby-ldap-0.9.16-1.el7.x86_64.rpm/download.rpm
+          version: 0.9.16
+    rubygem-highline:
+      el_version:
+        el7:
+          :rpm_name: rubygem-highline-1.6.11-5.el7.noarch.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/r/rubygem-highline-1.6.11-5.el7.noarch.rpm
+          version: 1.6.11
+        el6:
+          :rpm_name: rubygem-highline-1.6.11-1.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/rubygem-highline-1.6.11-1.noarch.rpm/download.rpm
+          version: 1.6.11
+    rubygem-net-ldap:
+      el_version:
+        el7:
+          :rpm_name: rubygem-net-ldap-0.16.0-1.el7.noarch.rpm
+          :source: https://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/r/rubygem-net-ldap-0.16.0-1.el7.noarch.rpm
+          version: 0.16.0
+        el6:
+          :rpm_name: rubygem-net-ldap-0.6.1-2.el6.1.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/rubygem-net-ldap-0.6.1-2.el6.1.noarch.rpm/download.rpm
+          version: 0.6.1
+    rubygem-net-ldap-doc:
+      el_version:
+        el7:
+          :rpm_name: rubygem-net-ldap-doc-0.16.0-1.el7.noarch.rpm
+          :source: https://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/r/rubygem-net-ldap-doc-0.16.0-1.el7.noarch.rpm
+          version: 0.16.0
+        el6:
+          :rpm_name: rubygem-net-ldap-doc-0.6.1-2.el6.1.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/rubygem-net-ldap-doc-0.6.1-2.el6.1.noarch.rpm/download.rpm
+          version: 0.6.1
+    rubygem-rake:
+      el_version:
+        el7:
+          :rpm_name: rubygem-rake-0.9.6-33.el7_4.noarch.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/rubygem-rake-0.9.6-33.el7_4.noarch.rpm
+          version: 0.9.6
+    rubygem-rake-compiler:
+      el_version:
+        el7:
+          :rpm_name: rubygem-rake-compiler-0.9.3-2.el7.noarch.rpm
+          :source: https://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/r/rubygem-rake-compiler-0.9.3-2.el7.noarch.rpm
+          version: 0.9.3
+    simp-lastbind:
+      el_version:
+        el7:
+          :rpm_name: simp-lastbind-2.4.23-0.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-lastbind-2.4.23-0.x86_64.rpm/download.rpm
+          version: 2.4.23
+        el6:
+          :rpm_name: simp-lastbind-2.4.23-0.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-lastbind-2.4.23-0.x86_64.rpm/download.rpm
+          version: 2.4.23
+    simp-ppolicy-check-password:
+      el_version:
+        el7:
+          :rpm_name: simp-ppolicy-check-password-2.4.39-0el7.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-ppolicy-check-password-2.4.39-0el7.x86_64.rpm/download.rpm
+          version: 2.4.39
+        el6:
+          :rpm_name: simp-ppolicy-check-password-2.4.39-0.el6.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-ppolicy-check-password-2.4.39-0.el6.x86_64.rpm/download.rpm
+          version: 2.4.39
+    simp-tpm12-simulator:
+      el_version:
+        el7:
+          :rpm_name: simp-tpm12-simulator-4769.0.0-0.el7.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-tpm12-simulator-4769.0.0-0.el7.x86_64.rpm/download.rpm
+          version: 4769.0.0
+        el6:
+          :rpm_name: simp-tpm12-simulator-4769.0.0-0.el6.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-tpm12-simulator-4769.0.0-0.el6.x86_64.rpm/download.rpm
+          version: 4769.0.0
+    simp-tpm2-simulator:
+      el_version:
+        el7:
+          :rpm_name: simp-tpm2-simulator-1332.0.0-0.el7.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-tpm2-simulator-1332.0.0-0.el7.x86_64.rpm/download.rpm
+          version: 1332.0.0
+    simp-vendored-r10k:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-3.3.0-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-3.3.0-0.noarch.rpm/download.rpm
+          version: 3.3.0
+        el6:
+          :rpm_name: simp-vendored-r10k-3.3.0-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-3.3.0-0.noarch.rpm/download.rpm
+          version: 3.3.0
+    simp-vendored-r10k-doc:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-doc-3.3.0-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-doc-3.3.0-0.noarch.rpm/download.rpm
+          version: 3.3.0
+        el6:
+          :rpm_name: simp-vendored-r10k-doc-3.3.0-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-doc-3.3.0-0.noarch.rpm/download.rpm
+          version: 3.3.0
+    simp-vendored-r10k-gem-colored:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-colored-1.2-3.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-colored-1.2-3.noarch.rpm/download.rpm
+          version: '1.2'
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-colored-1.2-3.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-colored-1.2-3.noarch.rpm/download.rpm
+          version: '1.2'
+    simp-vendored-r10k-gem-cri:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-cri-2.15.6-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-cri-2.15.6-0.noarch.rpm/download.rpm
+          version: 2.15.6
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-cri-2.15.6-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-cri-2.15.6-0.noarch.rpm/download.rpm
+          version: 2.15.6
+    simp-vendored-r10k-gem-faraday:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-faraday-0.13.1-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-faraday-0.13.1-0.noarch.rpm/download.rpm
+          version: 0.13.1
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-faraday-0.13.1-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-faraday-0.13.1-0.noarch.rpm/download.rpm
+          version: 0.13.1
+    simp-vendored-r10k-gem-faraday_middleware:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-faraday_middleware-0.12.2-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-faraday_middleware-0.12.2-0.noarch.rpm/download.rpm
+          version: 0.12.2
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-faraday_middleware-0.12.2-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-faraday_middleware-0.12.2-0.noarch.rpm/download.rpm
+          version: 0.12.2
+    simp-vendored-r10k-gem-fast_gettext:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-fast_gettext-1.1.2-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-fast_gettext-1.1.2-2.noarch.rpm/download.rpm
+          version: 1.1.2
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-fast_gettext-1.1.2-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-fast_gettext-1.1.2-2.noarch.rpm/download.rpm
+          version: 1.1.2
+    simp-vendored-r10k-gem-gettext:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-gettext-3.2.9-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-gettext-3.2.9-2.noarch.rpm/download.rpm
+          version: 3.2.9
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-gettext-3.2.9-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-gettext-3.2.9-2.noarch.rpm/download.rpm
+          version: 3.2.9
+    simp-vendored-r10k-gem-gettext-setup:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-gettext-setup-0.30-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-gettext-setup-0.30-2.noarch.rpm/download.rpm
+          version: '0.30'
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-gettext-setup-0.30-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-gettext-setup-0.30-2.noarch.rpm/download.rpm
+          version: '0.30'
+    simp-vendored-r10k-gem-locale:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-locale-2.1.2-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-locale-2.1.2-2.noarch.rpm/download.rpm
+          version: 2.1.2
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-locale-2.1.2-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-locale-2.1.2-2.noarch.rpm/download.rpm
+          version: 2.1.2
+    simp-vendored-r10k-gem-log4r:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-log4r-1.1.10-3.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-log4r-1.1.10-3.noarch.rpm/download.rpm
+          version: 1.1.10
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-log4r-1.1.10-3.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-log4r-1.1.10-3.noarch.rpm/download.rpm
+          version: 1.1.10
+    simp-vendored-r10k-gem-minitar:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-minitar-0.8-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-minitar-0.8-0.noarch.rpm/download.rpm
+          version: '0.8'
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-minitar-0.8-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-minitar-0.8-0.noarch.rpm/download.rpm
+          version: '0.8'
+    simp-vendored-r10k-gem-multi_json:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-multi_json-1.13.1-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-multi_json-1.13.1-0.noarch.rpm/download.rpm
+          version: 1.13.1
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-multi_json-1.13.1-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-multi_json-1.13.1-0.noarch.rpm/download.rpm
+          version: 1.13.1
+    simp-vendored-r10k-gem-multipart-post:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-multipart-post-2.1.1-1.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-multipart-post-2.1.1-1.noarch.rpm/download.rpm
+          version: 2.1.1
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-multipart-post-2.1.1-1.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-multipart-post-2.1.1-1.noarch.rpm/download.rpm
+          version: 2.1.1
+    simp-vendored-r10k-gem-puppet_forge:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-puppet_forge-2.2.9-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-puppet_forge-2.2.9-0.noarch.rpm/download.rpm
+          version: 2.2.9
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-puppet_forge-2.2.9-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-puppet_forge-2.2.9-0.noarch.rpm/download.rpm
+          version: 2.2.9
+    simp-vendored-r10k-gem-r10k:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-r10k-3.3.0-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-r10k-3.3.0-0.noarch.rpm/download.rpm
+          version: 3.3.0
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-r10k-3.3.0-0.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-r10k-3.3.0-0.noarch.rpm/download.rpm
+          version: 3.3.0
+    simp-vendored-r10k-gem-semantic_puppet:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-semantic_puppet-1.0.2-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-semantic_puppet-1.0.2-2.noarch.rpm/download.rpm
+          version: 1.0.2
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-semantic_puppet-1.0.2-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-semantic_puppet-1.0.2-2.noarch.rpm/download.rpm
+          version: 1.0.2
+    simp-vendored-r10k-gem-text:
+      el_version:
+        el7:
+          :rpm_name: simp-vendored-r10k-gem-text-1.3.1-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/simp-vendored-r10k-gem-text-1.3.1-2.noarch.rpm/download.rpm
+          version: 1.3.1
+        el6:
+          :rpm_name: simp-vendored-r10k-gem-text-1.3.1-2.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/simp-vendored-r10k-gem-text-1.3.1-2.noarch.rpm/download.rpm
+          version: 1.3.1
+    sudosh2:
+      el_version:
+        el7:
+          :rpm_name: sudosh2-1.0.2-2el7.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/sudosh2-1.0.2-2el7.x86_64.rpm/download.rpm
+          version: 1.0.2
+        el6:
+          :rpm_name: sudosh2-1.0.2-2.el6.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/sudosh2-1.0.2-2.el6.x86_64.rpm/download.rpm
+          version: 1.0.2
+    tlog:
+      el_version:
+        el7:
+          :rpm_name: tlog-4-1.el7.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/tlog-4-1.el7.x86_64.rpm/download.rpm
+          version: ''
+        el6:
+          :rpm_name: tlog-4-1.el6.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/tlog-4-1.el6.x86_64.rpm/download.rpm
+          version: ''
+    tpm2-abrmd:
+      el_version:
+        el7:
+          :rpm_name: tpm2-abrmd-1.1.0-10.el7.x86_64.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/tpm2-abrmd-1.1.0-10.el7.x86_64.rpm
+          version: 1.1.0
+    tpm2-tools:
+      el_version:
+        el7:
+          :rpm_name: tpm2-tools-3.0.4-2.el7.x86_64.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/tpm2-tools-3.0.4-2.el7.x86_64.rpm
+          version: 3.0.4
+    tpm2-tss:
+      el_version:
+        el7:
+          :rpm_name: tpm2-tss-1.4.0-2.el7.x86_64.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/tpm2-tss-1.4.0-2.el7.x86_64.rpm
+          version: 1.4.0
+    tpm2-tss-devel:
+      el_version:
+        el7:
+          :rpm_name: tpm2-tss-devel-1.4.0-2.el7.x86_64.rpm
+          :source: http://mirror.centos.org/centos/7/os/x86_64/Packages/tpm2-tss-devel-1.4.0-2.el7.x86_64.rpm
+          version: 1.4.0
+    tpm_module:
+      el_version:
+        el7:
+          :rpm_name: tpm_module-1.0.4-1558547257.cedc93.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/7/tpm_module-1.0.4-1558547257.cedc93.x86_64.rpm/download.rpm
+          version: 1.0.4
+        el6:
+          :rpm_name: tpm_module-1.0.4-1558547257.cedc93.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/tpm_module-1.0.4-1558547257.cedc93.x86_64.rpm/download.rpm
+          version: 1.0.4
+    unhide:
+      el_version:
+        el7:
+          :rpm_name: unhide-20130526-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/u/unhide-20130526-1.el7.x86_64.rpm
+          version: '20130526'
+    unique:
+      el_version:
+        el7:
+          :rpm_name: unique-1.1.6-10.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/u/unique-1.1.6-10.el7.x86_64.rpm
+          version: 1.1.6
+    x2goagent:
+      el_version:
+        el7:
+          :rpm_name: x2goagent-4.1.0.3-3.el7.x86_64.rpm
+          :source: http://mirror.cogentco.com/pub/linux/epel/7/x86_64/Packages/x/x2goagent-4.1.0.3-3.el7.x86_64.rpm
+          version: 4.1.0.3
+        el6:
+          :rpm_name: x2goagent-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/x/x2goagent-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    x2goclient:
+      el_version:
+        el7:
+          :rpm_name: x2goclient-4.1.1.1-1.el7.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/7/x86_64/Packages/x/x2goclient-4.1.1.1-1.el7.x86_64.rpm
+          version: 4.1.1.1
+        el6:
+          :rpm_name: x2goclient-4.0.1.4-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/x/x2goclient-4.0.1.4-1.el6.x86_64.rpm
+          version: 4.0.1.4
+    x2goserver:
+      el_version:
+        el7:
+          :rpm_name: x2goserver-4.1.0.3-3.el7.x86_64.rpm
+          :source: http://mirror.cogentco.com/pub/linux/epel/7/x86_64/Packages/x/x2goserver-4.1.0.3-3.el7.x86_64.rpm
+          version: 4.1.0.3
+        el6:
+          :rpm_name: x2goserver-4.0.1.20-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/x/x2goserver-4.0.1.20-1.el6.x86_64.rpm
+          version: 4.0.1.20
+    x2goserver-common:
+      el_version:
+        el7:
+          :rpm_name: x2goserver-common-4.1.0.3-3.el7.noarch.rpm
+          :source: http://mirror.cogentco.com/pub/linux/epel/7/x86_64/Packages/x/x2goserver-common-4.1.0.3-3.el7.noarch.rpm
+          version: 4.1.0.3
+    x2goserver-xsession:
+      el_version:
+        el7:
+          :rpm_name: x2goserver-xsession-4.1.0.3-3.el7.noarch.rpm
+          :source: http://mirror.cogentco.com/pub/linux/epel/7/x86_64/Packages/x/x2goserver-xsession-4.1.0.3-3.el7.noarch.rpm
+          version: 4.1.0.3
+    clamav-db:
+      el_version:
+        el6:
+          :rpm_name: clamav-db-0.100.3-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/c/clamav-db-0.100.3-1.el6.x86_64.rpm
+          version: 0.100.3
+    clamav-milter:
+      el_version:
+        el6:
+          :rpm_name: clamav-milter-0.100.3-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/c/clamav-milter-0.100.3-1.el6.x86_64.rpm
+          version: 0.100.3
+    clamav-unofficial-sigs:
+      el_version:
+        el6:
+          :rpm_name: clamav-unofficial-sigs-5.6.2-7.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/c/clamav-unofficial-sigs-5.6.2-7.el6.noarch.rpm
+          version: 5.6.2
+    clamsmtp:
+      el_version:
+        el6:
+          :rpm_name: clamsmtp-1.10-7.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/c/clamsmtp-1.10-7.el6.x86_64.rpm
+          version: '1.10'
+    fping:
+      el_version:
+        el6:
+          :rpm_name: fping-2.4b2-10.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/f/fping-2.4b2-10.el6.x86_64.rpm
+          version: 2.4b2
+    libNX_Xcomposite:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xcomposite-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xcomposite-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libNX_Xdamage:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xdamage-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xdamage-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libNX_Xdmcp:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xdmcp-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xdmcp-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libNX_Xext:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xext-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xext-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libNX_Xfixes:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xfixes-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xfixes-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libNX_Xinerama:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xinerama-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xinerama-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libNX_Xpm:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xpm-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xpm-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libNX_Xrandr:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xrandr-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xrandr-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libNX_Xrender:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xrender-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xrender-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libNX_Xtst:
+      el_version:
+        el6:
+          :rpm_name: libNX_Xtst-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libNX_Xtst-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libXcompext:
+      el_version:
+        el6:
+          :rpm_name: libXcompext-3.5.0.32-3.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/l/libXcompext-3.5.0.32-3.el6.x86_64.rpm
+          version: 3.5.0.32
+    libyaml:
+      el_version:
+        el6:
+          :rpm_name: libyaml-0.1.4-2.el6.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/libyaml-0.1.4-2.el6.x86_64.rpm/download.rpm
+          version: 0.1.4
+    libyaml-devel:
+      el_version:
+        el6:
+          :rpm_name: libyaml-devel-0.1.4-2.el6.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/libyaml-devel-0.1.4-2.el6.x86_64.rpm/download.rpm
+          version: 0.1.4
+    lshw:
+      el_version:
+        el6:
+          :rpm_name: lshw-B.02.17-4.el6.x86_64.rpm
+          :source: http://mirror.centos.org/centos/6/os/x86_64/Packages/lshw-B.02.17-4.el6.x86_64.rpm
+          version: ''
+    mrepo:
+      el_version:
+        el6:
+          :rpm_name: mrepo-0.8.7-2.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/m/mrepo-0.8.7-2.el6.noarch.rpm
+          version: 0.8.7
+    mysql-connector-python:
+      el_version:
+        el6:
+          :rpm_name: mysql-connector-python-1.1.6-1.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/m/mysql-connector-python-1.1.6-1.el6.noarch.rpm
+          version: 1.1.6
+    perl-Crypt-DES:
+      el_version:
+        el6:
+          :rpm_name: perl-Crypt-DES-2.05-9.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/perl-Crypt-DES-2.05-9.el6.x86_64.rpm
+          version: '2.05'
+    perl-File-RsyncP:
+      el_version:
+        el6:
+          :rpm_name: perl-File-RsyncP-0.72-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/perl-File-RsyncP-0.72-1.el6.x86_64.rpm
+          version: '0.72'
+    perl-Math-Calc-Units:
+      el_version:
+        el6:
+          :rpm_name: perl-Math-Calc-Units-1.07-6.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/perl-Math-Calc-Units-1.07-6.el6.noarch.rpm
+          version: '1.07'
+    perl-Net-FTP-AutoReconnect:
+      el_version:
+        el6:
+          :rpm_name: perl-Net-FTP-AutoReconnect-0.3-3.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/perl-Net-FTP-AutoReconnect-0.3-3.el6.noarch.rpm
+          version: '0.3'
+    perl-Net-FTP-RetrHandle:
+      el_version:
+        el6:
+          :rpm_name: perl-Net-FTP-RetrHandle-0.2-3.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/perl-Net-FTP-RetrHandle-0.2-3.el6.noarch.rpm
+          version: '0.2'
+    perl-Net-SNMP:
+      el_version:
+        el6:
+          :rpm_name: perl-Net-SNMP-5.2.0-4.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/perl-Net-SNMP-5.2.0-4.el6.noarch.rpm
+          version: 5.2.0
+    perl-Sort-Versions:
+      el_version:
+        el6:
+          :rpm_name: perl-Sort-Versions-1.5-12.el6.noarch.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/p/perl-Sort-Versions-1.5-12.el6.noarch.rpm
+          version: '1.5'
+    perl-Time-modules:
+      el_version:
+        el6:
+          :rpm_name: perl-Time-modules-2006.0814-5.el6.noarch.rpm
+          :source: http://mirror.centos.org/centos/6/os/x86_64/Packages/perl-Time-modules-2006.0814-5.el6.noarch.rpm
+          version: '2006.0814'
+    pssh:
+      el_version:
+        el6:
+          :rpm_name: pssh-2.3.1-5.el6.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/pssh-2.3.1-5.el6.noarch.rpm/download.rpm
+          version: 2.3.1
+    python-argparse:
+      el_version:
+        el6:
+          :rpm_name: python-argparse-1.2.1-2.1.el6.noarch.rpm
+          :source: http://mirror.cogentco.com/pub/linux/centos/6/os/x86_64/Packages/python-argparse-1.2.1-2.1.el6.noarch.rpm
+          version: 1.2.1
+    python-redis:
+      el_version:
+        el6:
+          :rpm_name: python-redis-2.0.0-1.el6.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/python-redis-2.0.0-1.el6.noarch.rpm/download.rpm
+          version: 2.0.0
+    python-unittest2:
+      el_version:
+        el6:
+          :rpm_name: python-unittest2-0.5.1-3.el6.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/python-unittest2-0.5.1-3.el6.noarch.rpm/download.rpm
+          version: 0.5.1
+    qstat:
+      el_version:
+        el6:
+          :rpm_name: qstat-2.11-9.20080912svn311.el6.x86_64.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/qstat-2.11-9.20080912svn311.el6.x86_64.rpm/download.rpm
+          version: '2.11'
+    radiusclient-ng:
+      el_version:
+        el6:
+          :rpm_name: radiusclient-ng-0.5.6-5.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/r/radiusclient-ng-0.5.6-5.el6.x86_64.rpm
+          version: 0.5.6
+    rlwrap:
+      el_version:
+        el6:
+          :rpm_name: rlwrap-0.42-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/r/rlwrap-0.42-1.el6.x86_64.rpm
+          version: '0.42'
+    rubygem-stomp:
+      el_version:
+        el6:
+          :rpm_name: rubygem-stomp-1.3.2-1.el6.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/rubygem-stomp-1.3.2-1.el6.noarch.rpm/download.rpm
+          version: 1.3.2
+    rubygem-stomp-doc:
+      el_version:
+        el6:
+          :rpm_name: rubygem-stomp-doc-1.3.2-1.el6.noarch.rpm
+          :source: https://packagecloud.io/simp-project/6_X_Dependencies/packages/el/6/rubygem-stomp-doc-1.3.2-1.el6.noarch.rpm/download.rpm
+          version: 1.3.2
+    voms:
+      el_version:
+        el6:
+          :rpm_name: voms-2.0.14-1.el6.x86_64.rpm
+          :source: http://lug.mtu.edu/epel/6/x86_64/Packages/v/voms-2.0.14-1.el6.x86_64.rpm
+          version: 2.0.14
