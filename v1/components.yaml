@@ -306,6 +306,7 @@ components:
   pupmod-simp-ganglia:
     authoritative: true
     component-type: puppet-module
+    deprecated: true
     locations:
     - url: https://github.com/simp/pupmod-simp-ganglia
       type: git
