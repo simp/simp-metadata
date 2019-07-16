@@ -1,40 +1,40 @@
 ---
 releases:
   6.4.0-RC1:
-    herculesteam-augeasproviders_apache:
+    augeasproviders_apache:
       ref: 0a60d7ece2e957258fccd976e0e2c87551a902f6
       tag: 3.1.1
-    herculesteam-augeasproviders_core:
+    augeasproviders_core:
       ref: 81686c71489485a94b5d0d32917e6a0f2c597c0c
       tag: 2.4.0
-    herculesteam-augeasproviders_grub:
+    augeasproviders_grub:
       ref: 7ca6c4107ec5c162c576eb86506b4e2103ce4f7a
       tag: 3.1.0
-    herculesteam-augeasproviders_mounttab:
+    augeasproviders_mounttab:
       ref: bccedb0bd65771f28d8f0384b64ea33b750020bc
       tag: 2.1.1
-    herculesteam-augeasproviders_nagios:
+    augeasproviders_nagios:
       ref: a19fb04f874ed69825b24ccaaf1637e74f4e72cb
       tag: 2.1.1
-    herculesteam-augeasproviders_pam:
+    augeasproviders_pam:
       ref: eb8a4a59ae2e306c5960ba30ece1c41ce5f0fdcf
       tag: 2.2.1
-    herculesteam-augeasproviders_postgresql:
+    augeasproviders_postgresql:
       ref: 3df6f71ad8421dac3c3997658c18dead158e8348
       tag: 3.1.1
-    herculesteam-augeasproviders_puppet:
+    augeasproviders_puppet:
       ref: 02aab3b100f8cb679832bf0ef2d9b42293bb5cc0
       tag: 2.2.1
-    herculesteam-augeasproviders_shellvar:
+    augeasproviders_shellvar:
       ref: d436202adf100ccf11c430764962a7c21f433a1d
       tag: 3.1.0
-    herculesteam-augeasproviders_ssh:
+    augeasproviders_ssh:
       ref: 3776fd3c1f016bab44505b5af20768da3b7593b2
       tag: 3.2.1
-    herculesteam-augeasproviders_sysctl:
+    augeasproviders_sysctl:
       ref: f9628c51db66087cd7793aa1257a7e642dc5b65e
       tag: 2.3.1
-    onyxpoint-gpasswd:
+    puppet-gpasswd:
       ref: 55d739fbefbcb2c4a8102e29baf67cdfc3c3cb98
       tag: 1.0.7
     puppet-kmod:
@@ -79,7 +79,7 @@ releases:
     puppetlabs-puppetdb:
       ref: 6cc68c030d9a41e9e3ab939f1d6c73ae999256a8
       tag: 7.1.0
-    puppetlabs-ruby_task_helper:
+    ruby_task_helper:
       ref: 1f66fe501fbce8ed9b93e3086b30c908cfc6b3c6
       tag: 0.3.0
     puppetlabs-stdlib:
@@ -88,7 +88,7 @@ releases:
     puppetlabs-translate:
       ref: 47a7b82e78b9f8b907e9676a2a03dcd2b3295850
       tag: 1.2.0
-    rubygem-rubygem_simp_cli:
+    rubygem-simp-cli:
       ref: 25cbc7dfc546eb902ff1b9dc1a234395d9b09297
       tag: 5.0.0
     saz-locales:
@@ -139,7 +139,7 @@ releases:
     simp-doc:
       ref: 79c18f732f6c73b8bff21809c639771a892722f2
       tag: 6.0.0-0
-    simp-environment:
+    simp-environment-skeleton:
       ref: 4c12f6cb69973948ad7ca6a7099b2531e916f6d3
       tag: 7.1.0
     simp-fips:
@@ -235,7 +235,7 @@ releases:
     simp-resolv:
       ref: d8292de1052d5ba0d2525f42925998f04a4a9910
       tag: 0.1.3
-    simp-rkhunter:
+    puppet-rkhunter:
       ref: 40bd6864254265ab5111807ca53070c1d77aa044
       tag: 0.0.1
     pupmod-simp-rsync:
@@ -254,46 +254,46 @@ releases:
     simp-simp:
       ref: 9a23b5d583d16bdbfb573796a04346fd79102296
       tag: 4.9.0
-    simp-simp_apache:
+    puppet-simp_apache:
       ref: c2f4c66bf18229ef07bea42ecad71bc629287b2f
       tag: 6.1.3
-    simp-simp_banners:
+    puppet-simp_banners:
       ref: 2462c31a517be6b1f9929f659c9657f8b8c47ccc
       tag: 0.1.1
-    simp-simp_bolt:
+    puppet-simp_bolt:
       ref: 8264b764b849a1a80cedc98575ce1c10e0cb449d
       tag: 0.1.0
-    simp-simp_docker:
+    puppet-simp_docker:
       ref: fc56dd2b012a5a95c7d730ec4a700352ce35d175
       tag: 0.2.1
-    simp-simp_gitlab:
+    puppet-simp_gitlab:
       ref: ccb8a79fd9603f0c77ebc8bb79532554e5a6351c
       tag: 0.4.0
-    simp-simp_grub:
+    puppet-simp_grub:
       ref: f9b84acd3a849c7beb49ae333c61e447f3e00e11
       tag: 0.1.0
-    simp-simp_ipa:
+    puppet-simp_ipa:
       ref: c425c76717d188335a70bc10b47238cc3a67a6ac
       tag: 0.0.2
-    simp-simp_nfs:
+    puppet-simp_nfs:
       ref: 69441cae2add99c42897c6ee32d11ed77cd9a440
       tag: 0.1.1
-    simp-simp_openldap:
+    puppet-simp_openldap:
       ref: 7e91374f2b7bcbdd2fcc4f28b4064a2bbc9bc43b
       tag: 6.3.2
-    simp-simp_options:
+    puppet-simp_options:
       ref: 65e7245e6f09216fcc4dcdabe6fb99b6eb2a678a
       tag: 1.2.4
-    simp-simp_pki_service:
+    puppet-simp_pki_service:
       ref: 587e72e2c444206cd5e977210191aa085307dd26
       tag: 0.2.0
-    simp-simp_rsyslog:
+    puppet-simp_rsyslog:
       ref: b91bc82fde515bea098531ac28b7738858c4bdca
       tag: 0.3.2
-    simp-simp_selinux_policy:
+    puppet-selinux-policy:
       ref: 006a0a25dabfc58afb153dd21b886a5cfd8e129f
       tag: 1.0.0
-    simp-simp_snmpd:
+    puppet-simp_snmpd:
       ref: baecfef5c65832ce74efcd7bc27388eb1b5ad5fc
       tag: 0.1.2
     simp-simplib:
@@ -350,7 +350,7 @@ releases:
     simp-vnc:
       ref: '0015881f4ab8e7bba5769a254b389de03dbb639e'
       tag: 7.0.1
-    simp-vox_selinux:
+    puppet-selinux:
       ref: 90c45a5227e8755ae544dd8f977b0c4464f513ed
       tag: simp-1.6.1
     simp-vsftpd:
@@ -362,19 +362,19 @@ releases:
     simp-xinetd:
       ref: afa9bd4fb297ab8a2f889830a3b593af33e4c6e6
       tag: 4.1.1
-    treydock-kdump:
+    puppet-kdump:
       ref: eae3992ce8e846207963da43eb6269241feea646
       tag: 0.2.0
-    trlinkin-nsswitch:
+    puppet-nsswitch:
       ref: e964b88cc9435f76ff4d1f30cfba908898212d56
       tag: 2.1.1
-    voxpupuli-gitlab:
+    puppet-gitlab:
       ref: ddc0ef724eabed5777d1186e496e653491b219aa
       tag: v3.0.2
-    voxpupuli-posix_acl:
+    puppet-posix_acl:
       ref: 9093a93dc2618e81eb46b4ee3c3b1ce9e976d041
       tag: v0.1.1
-    voxpupuli-snmp:
+    puppet-snmp:
       ref: d0bff1d8e0d811576366135c9c880ccdb51994e1
       tag: v4.1.0
     voxpupuli-yum:
