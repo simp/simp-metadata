@@ -1,4 +1,7 @@
 ---
+platforms:
+  6.4.0-RC1:
+    CentOS-7.6-x86_64:
 packages:
   6.4.0-RC1:
     el7:
@@ -386,6 +389,3 @@ packages:
       x2goserver-xsession:
         rpm_name: x2goserver-xsession-4.1.0.3-3.el7.noarch.rpm
         source: http://mirror.cogentco.com/pub/linux/epel/7/x86_64/Packages/x/x2goserver-xsession-4.1.0.3-3.el7.noarch.rpm
-  6.4.0-RC1:
-    platforms:
-      CentOS-7.6-x86_64:
