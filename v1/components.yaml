@@ -1197,7 +1197,7 @@ components:
     - url: https://github.com/simp/rubygem-simp-cli
       type: git
       primary: true
-    gem_name: simp-cli
+    gem_name: rubygem-simp-cli
   rubygem-simp-metadata:
     authoritative: true
     component-type: rubygem

@@ -352,7 +352,7 @@ releases:
       tag: 7.0.1
     pupmod-voxpupuli-selinux:
       ref: 90c45a5227e8755ae544dd8f977b0c4464f513ed
-      tag: simp-1.6.1
+      tag: 1.6.1
     pupmod-simp-vsftpd:
       ref: 04257afdb069cec5b074bc25fe7141c26c18a134
       tag: 7.2.1
