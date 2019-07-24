@@ -339,7 +339,6 @@ components:
   puppet-haveged:
     authoritative: true
     component-type: puppet-module
-    deprecated: true
     locations:
     - url: https://github.com/simp/pupmod-simp-haveged
       type: git
@@ -388,7 +387,6 @@ components:
   pupmod-simp-journald:
     authoritative: true
     component-type: puppet-module
-    deprecated: true
     locations:
     - url: https://github.com/simp/pupmod-simp-journald
       type: git
@@ -630,7 +628,6 @@ components:
   pupmod-simp-apache:
     authoritative: true
     component-type: puppet-module
-    deprecated: true
     locations:
     - url: https://github.com/simp/pupmod-simp-simp_apache
       type: git
@@ -1010,7 +1007,6 @@ components:
   puppet-gpasswd:
     authoritative: true
     component-type: puppet-module
-    deprecated: true
     locations:
     - url: https://github.com/simp/puppet-gpasswd
       type: git
@@ -1027,7 +1023,6 @@ components:
   puppet-kmod:
     authoritative: false
     component-type: puppet-module
-    deprecated: true
     locations:
     - url: https://github.com/simp/puppet-kmod
       type: git
@@ -1061,7 +1056,6 @@ components:
   puppet-nsswitch:
     authoritative: true
     component-type: puppet-module
-    deprecated: true
     locations:
     - url: https://github.com/simp/puppet-nsswitch
       type: git
@@ -1078,7 +1072,6 @@ components:
   puppet-systemd:
     authoritative: true
     component-type: puppet-module
-    deprecated: true
     locations:
     - url: https://github.com/simp/puppet-systemd
       type: git
