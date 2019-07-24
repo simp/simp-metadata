@@ -289,7 +289,7 @@ releases:
     pupmod-simp-simp_rsyslog:
       ref: b91bc82fde515bea098531ac28b7738858c4bdca
       tag: 0.3.2
-    puppet-selinux-policy:
+    simp-selinux-policy:
       ref: 006a0a25dabfc58afb153dd21b886a5cfd8e129f
       tag: 1.0.0
     simp-simp_snmpd:
