@@ -292,6 +292,7 @@ releases:
     simp-selinux-policy:
       ref: 006a0a25dabfc58afb153dd21b886a5cfd8e129f
       tag: 1.0.0
+      compiled: true
     simp-simp_snmpd:
       ref: baecfef5c65832ce74efcd7bc27388eb1b5ad5fc
       tag: 0.1.2
