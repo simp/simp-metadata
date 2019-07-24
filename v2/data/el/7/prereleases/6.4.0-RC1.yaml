@@ -357,10 +357,6 @@ packages:
         rpm_name: rubygem-highline-1.6.11-5.el7.noarch.rpm
         source: http://lug.mtu.edu/epel/7/x86_64/Packages/r/rubygem-highline-1.6.11-5.el7.noarch.rpm
         repo: epel
-      rubygem-simp-cli-highline:
-        rpm_name: rubygem-simp-cli-highline-1.7.8-0.noarch.rpm
-        source: https://packagecloud.io/simp-project/6_X/packages/el/7/rubygem-simp-cli-highline-1.7.8-0.noarch.rpm
-        repo: simp
       rubygem-net-ldap:
         rpm_name: rubygem-net-ldap-0.16.0-1.el7.noarch.rpm
         source: https://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/r/rubygem-net-ldap-0.16.0-1.el7.noarch.rpm

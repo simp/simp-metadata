@@ -92,6 +92,8 @@ releases:
       ref: ed6d347e5287744b6cb3773afb18c96dc02bfded
       tag: 5.0.1
       compiled: true
+    rubygem-simp-cli-highline:
+      tag: 1.7.8
     pupmod-saz-locales:
       ref: beec43f6f079d8993087b105677d3847380ba5c3
       tag: v2.5.1

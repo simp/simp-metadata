@@ -1198,6 +1198,14 @@ components:
       type: git
       primary: true
     gem_name: rubygem-simp-cli
+  rubygem-simp-cli-highline:
+    authoritative: true
+    component-type: rubygem
+    locations:
+    - url: https://github.com/simp/rubygem-simp-cli
+      type: git
+      primary: true
+    gem_name: rubygem-simp-cli-highline
   rubygem-simp-metadata:
     authoritative: true
     component-type: rubygem
