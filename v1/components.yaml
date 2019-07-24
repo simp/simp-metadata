@@ -611,12 +611,12 @@ components:
     module_name: pupmod-simp-rsyslog
   pupmod-simp-selinux:
     authoritative: true
-    component-type: puppet-module
+    component-type: rpm
     locations:
     - url: https://github.com/simp/pupmod-simp-selinux
       type: git
       primary: true
-    module_name: pupmod-simp-selinux
+    module_name: simp-selinux-policy
   pupmod-simp-simp:
     authoritative: true
     component-type: puppet-module
@@ -857,7 +857,7 @@ components:
     - url: https://github.com/simp/pupmod-simp-timezone
       type: git
       primary: true
-    module_name: pupmod-simp-timezone
+    module_name: pupmod-saz-timezone
   pupmod-simp-tlog:
     authoritative: true
     component-type: puppet-module
@@ -1164,7 +1164,7 @@ components:
     - url: https://github.com/simp/puppetlabs-postgresql
       type: git
       primary: true
-    module_name: simp-postgresql
+    module_name: puppetlabs-postgresql
   puppetlabs-puppet_authorization:
     authoritative: true
     component-type: puppet-module
@@ -1330,9 +1330,9 @@ components:
       primary: true
       type: git
     module_name: pupmod-simp-simp_grub
-  puppet-selinux-policy:
+  simp-selinux-policy:
     authoritative: true
-    component-type: puppet-module
+    component-type: asset 
     locations:
     - url: https://github.com/simp/simp-selinux-policy
       primary: true
