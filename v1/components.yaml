@@ -616,7 +616,7 @@ components:
     - url: https://github.com/simp/pupmod-simp-selinux
       type: git
       primary: true
-    module_name: simp-selinux-policy
+    module_name: simp-selinux
   pupmod-simp-simp:
     authoritative: true
     component-type: puppet-module
@@ -1264,7 +1264,7 @@ components:
     - url: https://github.com/simp/simp-rsync-skeleton
       type: git
       primary: true
-    asset_name: simp-rsync
+    asset_name: simp-rsync-skeleton
   simp-utils:
     authoritative: true
     component-type: rpm

@@ -138,8 +138,7 @@ releases:
       ref: e2764638278471a9ddaef74771350211704340d6
       tag: 6.1.1
     simp-doc:
-      ref: 79c18f732f6c73b8bff21809c639771a892722f2
-      tag: 6.0.0-0
+      tag: 6.4.0-RC1
     simp-environment:
       ref: 4c12f6cb69973948ad7ca6a7099b2531e916f6d3
       tag: 7.1.0
@@ -245,7 +244,6 @@ releases:
     simp-rsync_skeleton:
       ref: fc66230023d7dcc395feabd1dd8a9f157ffaab1e
       tag: 7.0.1
-      compiled: true
     pupmod-simp-rsyslog:
       ref: b9c5e18c95744165c22a2b112d3bea869cf08dcc
       tag: 7.4.0
