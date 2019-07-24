@@ -961,7 +961,7 @@ components:
     - url: https://github.com/simp/pupmod-voxpupuli-selinux
       type: git
       primary: true
-    module_name: pupmod-voxpupuli-selinux
+    module_name: simp-vox_selinux
   puppet-archive:
     authoritative: false
     component-type: puppet-module
@@ -1353,4 +1353,4 @@ components:
     - url: https://github.com/simp/pupmod-voxpupuli-posix_acl
       primary: true
       type: git
-    module_name: pupmod-voxpupuli-posix_acl
+    module_name: puppet-posix_acl
