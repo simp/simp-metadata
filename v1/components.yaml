@@ -611,7 +611,7 @@ components:
     module_name: pupmod-simp-rsyslog
   pupmod-simp-selinux:
     authoritative: true
-    component-type: rpm
+    component-type: puppet-module
     locations:
     - url: https://github.com/simp/pupmod-simp-selinux
       type: git
@@ -1332,7 +1332,7 @@ components:
     module_name: pupmod-simp-simp_grub
   simp-selinux-policy:
     authoritative: true
-    component-type: asset 
+    component-type: rpm
     locations:
     - url: https://github.com/simp/simp-selinux-policy
       primary: true
