@@ -89,8 +89,8 @@ releases:
       ref: 47a7b82e78b9f8b907e9676a2a03dcd2b3295850
       tag: 1.2.0
     rubygem-simp-cli:
-      ref: 25cbc7dfc546eb902ff1b9dc1a234395d9b09297
-      tag: 5.0.0
+      ref: ed6d347e5287744b6cb3773afb18c96dc02bfded
+      tag: 5.0.1
       compiled: true
     pupmod-saz-locales:
       ref: beec43f6f079d8993087b105677d3847380ba5c3
