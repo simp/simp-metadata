@@ -118,6 +118,7 @@ releases:
       ref: c35a9864ad230c8f6586d74cfea8fc8c8a43bebb
       tag: 4.4.0
       branch: master
+      compiled: true
     pupmod-saz-locales:
       ref: beec43f6f079d8993087b105677d3847380ba5c3
       tag: v2.5.1
