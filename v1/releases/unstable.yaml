@@ -4,7 +4,7 @@ releases:
     simp-core:
       ref: dda5ad4d9f3870c2c23ed75e9ca6a0a70979ff1b
       branch: master
-      tag: 6.3.3-0
+      tag: 6.4.0-RC1
     simp-doc:
       ref: bede4904adb105a358b7c38c45cbb8df677d8ab1
       branch: master
