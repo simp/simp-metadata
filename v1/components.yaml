@@ -1238,7 +1238,7 @@ components:
     - url: https://github.com/simp/simp-core
       type: git
       primary: true
-    asset_name: simp-simp_core
+    asset_name: simp
   simp-doc:
     authoritative: true
     component-type: documentation

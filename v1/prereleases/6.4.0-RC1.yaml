@@ -67,6 +67,7 @@ releases:
     puppetlabs-mount_providers:
       ref: 25dde3bd84c6a98475272c99fc9709ed13eb0a19
       tag: 1.0.0
+      revision: 1
     puppetlabs-mysql:
       ref: 11716ceba76f44ac841d82d54de173b43c45740a
       tag: 8.0.0
@@ -139,8 +140,13 @@ releases:
     pupmod-simp-dhcp:
       ref: e2764638278471a9ddaef74771350211704340d6
       tag: 6.1.1
+    simp-core:
+      tag: 6.4.0-RC1
+      branch: 6.4.0-Development
+      revision: false
     simp-doc:
       tag: 6.4.0-RC1
+      revision: false
     simp-environment:
       ref: 4c12f6cb69973948ad7ca6a7099b2531e916f6d3
       tag: 7.1.0
