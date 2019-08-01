@@ -432,7 +432,7 @@ releases:
     pupmod-simp-upstart:
       ref: 7da363b00ffbb52096c958a987cb3064465b987f
       branch: master
-      tag: 6.0.3
+      tag: 6.0.5
     pupmod-simp-vnc:
       ref: 19af919e8a6f622b5f7bebc7d2dec5091d56e01e
       branch: master
