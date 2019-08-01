@@ -184,7 +184,7 @@ releases:
     pupmod-simp-autofs:
       ref: b1577b215869bd30fd216ab6922266c8f78dca5e
       branch: master
-      tag: 6.1.2
+      tag: 6.2.0
     pupmod-simp-chkrootkit:
       ref: e7e1273e5795864955875e2d7dceb04441a8a048
       branch: master
