@@ -240,7 +240,7 @@ releases:
     pupmod-simp-issue:
       ref: 2f011ff6a840b3633f585e9c6512f515ad307a60
       branch: master
-      tag: 0.0.3
+      tag: 0.1.0
     pupmod-simp-jenkins:
       ref: add24f99fb3c5f7537489f0766b85f6273cf808e
       branch: master
