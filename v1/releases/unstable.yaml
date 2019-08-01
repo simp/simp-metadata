@@ -320,7 +320,7 @@ releases:
     pupmod-simp-postfix:
       ref: 75581cfd1437c95998797b6b5071fea03b81ecbc
       branch: master
-      tag: 5.1.0
+      tag: 5.3.0
     pupmod-simp-pupmod:
       ref: 643db4ce67f80cc90846273daa80cd83235db9f7
       branch: master
