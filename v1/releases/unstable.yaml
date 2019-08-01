@@ -300,7 +300,7 @@ releases:
     pupmod-simp-simp_openldap:
       ref: e4ad8ce3f6856eb943de27fa1f67453d9520d5b9
       branch: master
-      tag: 6.2.1
+      tag: 6.4.0
     pupmod-simp-openscap:
       ref: c51faa8ea78bea4aaa5834669ec4f3d5d0854a99
       branch: master
