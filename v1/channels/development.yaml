@@ -160,7 +160,7 @@ releases:
       ref: 1a75a63a6083d105036bc2d9e4e96ad0f9572bcc
       branch: master
     pupmod-simp-fips:
-      ref: d8c2d5be55b0396837ce262a8703cb141dbf2b4a
+      ref: 0d6ec0337212b9d7f0f3a584100fd495afaeee09
       branch: master
     pupmod-simp-freeradius:
       ref: 951aba15b6feb32639aadf543e53a3d458cb1af1
