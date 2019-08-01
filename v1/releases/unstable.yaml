@@ -406,7 +406,7 @@ releases:
       branch: master
       tag: 6.0.1
     pupmod-simp-svckill:
-      ref: d1b6c4a5991a7216e01fabc23d5f5b1c0e2c866a
+      ref: 0b7c5aa9d2ba8aebb32a5afff2201c406ca87c66
       branch: master
       tag: 3.5.0
     pupmod-simp-swap:
