@@ -438,7 +438,7 @@ releases:
       branch: master
       tag: 7.0.0
     pupmod-simp-vsftpd:
-      ref: 7fe4dd4983665361dae6503b8941e48e107041b7
+      ref: e39a32bb0fbe9e8b14abbfa17f8a0f1c3e89be1d
       branch: master
       tag: 7.3.0
     pupmod-simp-xinetd:
