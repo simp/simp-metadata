@@ -330,7 +330,7 @@ releases:
       branch: master
       tag: 7.1.0
     pupmod-simp-resolv:
-      ref: 8dffcc02d51b80574596a54bb7496478effa05b0
+      ref: 82819a97af291db07ae2ada7bb2456a477b493f6
       branch: master
       tag: 0.2.0
     pupmod-simp-rsyslog:
