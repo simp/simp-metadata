@@ -220,7 +220,7 @@ releases:
     pupmod-simp-gdm:
       ref: f3b0b793b196e55c64bf6d5ce705e47ecf5811d9
       branch: master
-      tag: 7.0.3
+      tag: 7.2.0
     pupmod-simp-gnome:
       ref: c82fa085b973dcdda2641ffa62f06250f4c96be6
       branch: master
