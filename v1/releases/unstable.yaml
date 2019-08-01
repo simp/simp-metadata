@@ -442,7 +442,7 @@ releases:
       branch: master
       tag: 7.3.0
     pupmod-simp-xinetd:
-      ref: 8044eaa24585d0db41a593a249b97c95a0a4068b
+      ref: 3a427c170fc646855d3141eedd157b435d0c2dca
       branch: master
       tag: 4.2.0
     pupmod-simp-useradd:
