@@ -262,7 +262,7 @@ releases:
       branch: master
       tag: 5.1.0
     pupmod-simp-logrotate:
-      ref: c2f9835bd39fe880696869a804a8a86ffb14e550
+      ref: 242608770ce781c0504448ec2ce2cb88a817a17b
       branch: master
       tag: 6.4.0
     pupmod-simp-mcafee:
