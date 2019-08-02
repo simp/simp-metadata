@@ -124,7 +124,7 @@ releases:
     puppetlabs-inifile:
       ref: b8a43a73d6b88236c851bbf87c1891ddc5d70497
       branch: master
-      tag: simp6.0.0-2.2.0
+      tag: v3.1.0
     puppetlabs-java:
       ref: c530c97c9210c174df713091924eef813fe6c67b
       branch: master
