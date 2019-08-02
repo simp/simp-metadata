@@ -466,6 +466,7 @@ releases:
       tag: v3.3.1
     puppet-archive:
       ref: 62f42713403dd9102bb1ac687924ea00dab50741
+      tag: v4.0.0
     rubygem-simp-metadata:
       ref: d87b471546de04e3f8ab2f1f3b4fe71f841223f6
       tag: 0.6.1
