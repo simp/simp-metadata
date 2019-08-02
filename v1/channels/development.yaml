@@ -352,7 +352,7 @@ releases:
     solarkennedy-consul:
       ref: c1d87dc396b71146ac9e37557c3d7f841087d319
     puppet-archive:
-      ref: 62f42713403dd9102bb1ac687924ea00dab50741
+      ref: a866397585999d514b262cc1a2c61477571a3e3b
     rubygem-simp-metadata:
       compiled: true
       ref: dc6d69694eb52d2ba86d09c5019758e93aeea8c6
