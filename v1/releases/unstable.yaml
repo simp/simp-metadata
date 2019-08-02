@@ -340,7 +340,7 @@ releases:
     pupmod-simp-selinux:
       ref: b2bef5fb5646efdb85ce0a4c8143c588203ac851
       branch: master
-      tag: 2.2.0
+      tag: 2.5.0
     pupmod-simp-simp:
       ref: fb622ca171e2df9a53f87afa3815a31ba9420e25
       branch: master
