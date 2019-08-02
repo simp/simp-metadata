@@ -122,7 +122,7 @@ releases:
       branch: master
       tag: v6.1.0
     puppetlabs-inifile:
-      ref: b8a43a73d6b88236c851bbf87c1891ddc5d70497
+      ref: 7a60e206eedbc3d84295b18b20e2a9b1dc8297ff
       branch: master
       tag: v3.1.0
     puppetlabs-java:
