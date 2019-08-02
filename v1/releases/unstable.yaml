@@ -322,7 +322,7 @@ releases:
       branch: master
       tag: 5.3.0
     pupmod-simp-pupmod:
-      ref: 643db4ce67f80cc90846273daa80cd83235db9f7
+      ref: a70bbd77e0128b0fa392038133e8ecd056799ef7
       branch: master
       tag: 7.11.0
     puppetlabs-puppetdb:
