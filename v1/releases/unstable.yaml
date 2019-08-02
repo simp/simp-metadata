@@ -212,7 +212,7 @@ releases:
     pupmod-simp-fips:
       ref: 4cedb9f2ab2dffc153f030569f3763449460f7eb
       branch: master
-      tag: 0.2.0
+      tag: 0.3.0
     pupmod-simp-freeradius:
       ref: 0f8885cb4e7db9500018cd3ceec407d96674bdc5
       branch: master
