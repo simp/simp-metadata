@@ -342,7 +342,7 @@ releases:
       branch: master
       tag: 2.5.0
     pupmod-simp-simp:
-      ref: fb622ca171e2df9a53f87afa3815a31ba9420e25
+      ref: 412d0deb0273bfd11cdb42f5df0aa16fba19cefb
       branch: master
       tag: 4.10.0
     pupmod-simp-simpcat:
