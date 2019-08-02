@@ -142,7 +142,7 @@ releases:
       branch: master
       tag: v3.1.0
     puppetlabs-mysql:
-      ref: 89e7583a363c9af90e9fd86278c8ac34bf80bdf3
+      ref: 67a0e07f5ab1ed82db00a65891c51429d6c746d4
       branch: master
       tag: v9.1.0
     puppetlabs-postgresql:
