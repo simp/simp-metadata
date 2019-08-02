@@ -108,7 +108,7 @@ releases:
       ref: fdbb231a0b273ea0a8345e50f70bd4d213ab996a
       branch: master
     puppetlabs-mysql:
-      ref: 2d46d23f8da9e8ff534d79a02b869c2a31f5f34a
+      ref: 01f65f963216ca35922ed5760988ad56e7e59827
       branch: master
     puppetlabs-postgresql:
       ref: 7d2abd6a7d1bd64da0bec19c73071e5dda0619d8
