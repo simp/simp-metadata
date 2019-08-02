@@ -144,7 +144,7 @@ releases:
     puppetlabs-mysql:
       ref: c25b4396db0cf657c07194921519deda3c66f68e
       branch: master
-      tag: simp6.0.0-5.3.0
+      tag: v10.0.0
     puppetlabs-postgresql:
       ref: b2a764d6daa72906c65e7718d9b298a589e03fc2
       branch: master
