@@ -190,7 +190,7 @@ releases:
       branch: master
       tag: 0.1.0
     pupmod-simp-clamav:
-      ref: 2149bf344b262e062e5a5e095dfa167f9d9e8e7d
+      ref: 0e1cc8f5417e945131a308c10685c31d76ee3041
       branch: master
       tag: 6.3.0
     pupmod-simp-compliance_markup:
