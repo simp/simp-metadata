@@ -388,7 +388,7 @@ releases:
     pupmod-simp-ssh:
       ref: 29fdfe9360b29c79db396d297e95b9146643e8f4
       branch: master
-      tag: 6.8.0
+      tag: 6.8.1
     pupmod-simp-sssd:
       ref: c6ae77d94e94041b96d348edbd63aa8aa06bacdc
       branch: master
