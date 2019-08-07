@@ -26,7 +26,7 @@ releases:
       ref: cd4e69989f0c4cbb83f89eef0367746ab4d36f93
       branch: master
     rubygem-simp-cli:
-      ref: 7f5557e29f6e9ab4d23f70169217648d225ecfd1
+      ref: 44eaa3e04d3e5b2c0b1565c01a5581d9ad4ef44d
       branch: master
     puppet-grafana:
       ref: e0bf8cfe9ac06852fbb423e247e18e765d9d4a8b
