@@ -239,7 +239,7 @@ releases:
       ref: 6fecaa8d59cbd1f2d1d143686e8b7dc3b9308d86
       branch: master
     pupmod-simp-polkit:
-      ref: aa772336c54b1350b609129936fa74f7470a99d6
+      ref: 2e8866e592f50c4098960a383283573a61483cbd
       branch: master
     pupmod-simp-postfix:
       ref: 14564e723d55467d79ada001595f051d9682f906
