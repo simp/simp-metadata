@@ -305,7 +305,7 @@ releases:
       ref: d872b8f2f14c56f65f5607016d687895d8dd1bc6
       branch: master
     pupmod-simp-sudosh:
-      ref: 112c84d935b6d6c4e0330e6d0434a7fc2e3a0ed5
+      ref: f04bb5d6169eee1846db05e4f5fb3c8fa5fadb34
       branch: master
     pupmod-simp-svckill:
       ref: 465fa42dd581a2be9df89b506d5fcc97981e23e5
