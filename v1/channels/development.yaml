@@ -320,7 +320,7 @@ releases:
       ref: 5784f06f795ab2e7e7d5586ad82ddf5b6454d75f
       branch: master
     pupmod-simp-tpm:
-      ref: a2ec792e7a50ce59cfd612a479cc08c044d6c3ad
+      ref: 3c103024cc142ded632cef2c205b40388d5f0ae9
       branch: master
     pupmod-simp-tuned:
       ref: d8204d59f9ee97afe7cf922de34cfba2c19e0d75
