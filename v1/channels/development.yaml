@@ -197,7 +197,7 @@ releases:
       ref: 84d542a0cf8831788a257de51aecc7bcf45bf240
       branch: master
     pupmod-simp-libvirt:
-      ref: 8cba50339cbd6e529a4d797daa4c04b3846e379a
+      ref: 77c387a3358b8dc7dab98922c405575d4ba21bc4
       branch: master
     pupmod-simp-logrotate:
       ref: 34849160802f767d51a193e3bcf348760e27c6f8
