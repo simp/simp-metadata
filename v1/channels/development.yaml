@@ -166,7 +166,7 @@ releases:
       ref: 68ef00c33b9961ec6b1000b53895273933572dae
       branch: master
     pupmod-simp-gdm:
-      ref: f30a452ad33dcba38cb262dbe9b1845c819c47f1
+      ref: 45fd162c09032d29437a32efc26ee1dd7e4e0730
       branch: master
     pupmod-simp-gnome:
       ref: 19f695049feb14457559f127668d8d26f5b1a811
