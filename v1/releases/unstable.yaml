@@ -162,7 +162,7 @@ releases:
       branch: master
       tag: v3.5.0
     pupmod-simp-acpid:
-      ref: 5cb19160c858e58fe352200799ee235349f67b59
+      ref: 35f49cfdcf4be7f8dd9a42adfcfbe75a0335568d
       branch: master
       tag: 1.1.0
     pupmod-simp-activemq:
