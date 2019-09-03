@@ -465,7 +465,7 @@ releases:
       ref: 3ed6c6495e7df079d69c55315eb64c277cfe6314
       tag: v3.3.1
     puppet-archive:
-      ref: '0000000000000000000000000000000000000000'
+      ref: 32d37c386a3965509a4bb429f39d74710ebff4eb
       tag: v1.3.0-1
     rubygem-simp-metadata:
       ref: d87b471546de04e3f8ab2f1f3b4fe71f841223f6
