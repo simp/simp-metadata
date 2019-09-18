@@ -29,7 +29,7 @@ releases:
       ref: 2f97bd9c255bd9beafd9cfcfc03963e2bbb0dbec
       branch: master
     puppet-grafana:
-      ref: e0bf8cfe9ac06852fbb423e247e18e765d9d4a8b
+      ref: 444b68dc23548d5cb84fb2185b2d795b0ff8ada1
       branch: master
     puppet-kmod:
       tag: 2.2.0
