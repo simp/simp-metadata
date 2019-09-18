@@ -148,7 +148,7 @@ releases:
     puppetlabs-postgresql:
       ref: fdd43ebb65b63166e61e0de38a4824e0c5e2fbf8
       branch: master
-      tag: v6.1.0
+      tag: v6.2.0
     puppetlabs-stdlib:
       tag: 5.2.0
       branch: master
