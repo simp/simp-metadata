@@ -1527,3 +1527,148 @@ components:
       - url: https://github.com/simp/pupmod-puppetlabs-ruby_task_helper
         type: git
         primary: true
+  puppet-gpasswd:
+    authoritative: true
+    component-type: puppet-module
+    component-name: puppet-gpasswd
+    format: git
+    locations:
+      - url: https://github.com/simp/puppet-gpasswd
+        type: git
+        primary: true
+
+  simp-oath:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-simp-oath
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-simp-oath
+        type: git
+        primary: true
+  puppet-rkhunter:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-simp-rkhunter
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-simp-rkhunter
+        type: git
+        primary: true
+  puppet-simp_bolt:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-simp-simp_bolt
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-simp-simp_bolt
+        type: git
+        primary: true
+  puppet-simp_grub:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-simp-simp_grub
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-simp-simp_grub
+        type: git
+        primary: true
+  puppet-selinux-policy:
+    authoritative: true
+    component-type: assets
+    component-name: simp-selinux-policy
+    format: git
+    locations:
+      - url: https://github.com/simp/simp-selinux-policy
+        type: git
+        primary: true
+  puppet-kdump:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-treydock-kdump
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-treydock-kdump
+        type: git
+        primary: true
+  puppet-gitlab:
+    authoritative: true
+    component-type: puppet-module
+    component-name: puppet-gitlab
+    format: git
+    locations:
+      - url: https://github.com/simp/puppet-gitlab
+        type: git
+        primary: true
+  puppet-posix_acl:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-voxpupuli-posix_acl
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-voxpupuli-posix_acl
+        type: git
+        primary: true
+  pupmod-puppetlabs-hocon:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-puppetlabs-hocon
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-puppetlabs-hocon
+        type: git
+        primary: true
+  pupmod-puppetlabs-translate:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-puppetlabs-translate
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-puppetlabs-translate
+        type: git
+        primary: true
+  pupmod-simp-haveged:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-simp-haveged
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-simp-haveged
+        type: git
+        primary: true
+  pupmod-simp-simp_gitlab:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-simp-simp_gitlab
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-simp-simp_gitlab
+        type: git
+        primary: true
+  pupmod-simp-simp_snmpd:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-simp-simp_snmpd
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-simp-simp_snmpd
+        type: git
+        primary: true
+  pupmod-simp-timezone:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-simp-timezone
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-simp-timezone
+        type: git
+        primary: true
+  simp-hirs_provisioner:
+    authoritative: true
+    component-type: puppet-module
+    component-name: pupmod-simp-hirs_provisioner
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-simp-hirs_provisioner
+        type: git
+        primary: true
