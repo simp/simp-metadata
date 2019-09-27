@@ -1,6 +1,8 @@
 ---
 components:
-  augeasproviders: &augeasproviders
+  augeasproviders:
+    aliases:
+      - herculesteam-augeasproviders:
     authoritative: true
     component-name: herculesteam-augeasproviders
     component-type: puppet-module
@@ -9,7 +11,9 @@ components:
       - url: https://github.com/simp/augeasproviders
         type: git
         primary: true
-  augeasproviders_apache: &augeasproviders_apache
+  augeasproviders_apache:
+    aliases:
+      - herculesteam-augeasproviders_apache:
     authoritative: true
     component-name: herculesteam-augeasproviders_apache
     component-type: puppet-module
@@ -18,7 +22,9 @@ components:
       - url: https://github.com/simp/augeasproviders_apache
         type: git
         primary: true
-  augeasproviders_base: &augeasproviders_base
+  augeasproviders_base:
+    aliases:
+      - herculesteam-augeasproviders_base:
     authoritative: true
     component-name: herculesteam-augeasproviders_base
     component-type: puppet-module
@@ -27,7 +33,9 @@ components:
       - url: https://github.com/simp/augeasproviders_base
         type: git
         primary: true
-  augeasproviders_core: &augeasproviders_core
+  augeasproviders_core:
+    aliases:
+      - herculesteam-augeasproviders_core:
     authoritative: true
     component-name: herculesteam-augeasproviders_core
     component-type: puppet-module
@@ -36,7 +44,9 @@ components:
       - url: https://github.com/simp/augeasproviders_core
         type: git
         primary: true
-  augeasproviders_grub: &augeasproviders_grub
+  augeasproviders_grub:
+    aliases:
+      - herculesteam-augeasproviders_grub:
     authoritative: true
     component-name: herculesteam-augeasproviders_grub
     component-type: puppet-module
@@ -45,7 +55,9 @@ components:
       - url: https://github.com/simp/augeasproviders_grub
         type: git
         primary: true
-  augeasproviders_mounttab: &augeasproviders_mounttab
+  augeasproviders_mounttab:
+    aliases:
+      - herculesteam-augeasproviders_mounttab:
     authoritative: true
     component-name: herculesteam-augeasproviders_mounttab
     component-type: puppet-module
@@ -54,7 +66,9 @@ components:
       - url: https://github.com/simp/augeasproviders_mounttab
         type: git
         primary: true
-  augeasproviders_nagios: &augeasproviders_nagios
+  augeasproviders_nagios:
+    aliases:
+      - herculesteam-augeasproviders_nagios:
     authoritative: true
     component-name: herculesteam-augeasproviders_nagios
     component-type: puppet-module
@@ -63,7 +77,9 @@ components:
       - url: https://github.com/simp/augeasproviders_nagios
         type: git
         primary: true
-  augeasproviders_pam: &augeasproviders_pam
+  augeasproviders_pam:
+    aliases:
+      - herculesteam-augeasproviders_pam:
     authoritative: true
     component-name: herculesteam-augeasproviders_pam
     component-type: puppet-module
@@ -72,7 +88,9 @@ components:
       - url: https://github.com/simp/augeasproviders_pam
         type: git
         primary: true
-  augeasproviders_postgresql: &augeasproviders_postgresql
+  augeasproviders_postgresql:
+    aliases:
+      - herculesteam-augeasproviders_postgresql:
     authoritative: true
     component-name: herculesteam-augeasproviders_postgresql
     component-type: puppet-module
@@ -81,7 +99,9 @@ components:
       - url: https://github.com/simp/augeasproviders_postgresql
         type: git
         primary: true
-  augeasproviders_puppet: &augeasproviders_puppet
+  augeasproviders_puppet:
+    aliases:
+      - herculesteam-augeasproviders_puppet:
     authoritative: true
     component-name: herculesteam-augeasproviders_puppet
     component-type: puppet-module
@@ -90,7 +110,9 @@ components:
       - url: https://github.com/simp/augeasproviders_puppet
         type: git
         primary: true
-  augeasproviders_shellvar: &augeasproviders_shellvar
+  augeasproviders_shellvar:
+    aliases:
+      - herculesteam-augeasproviders_shellvar:
     authoritative: true
     component-name: herculesteam-augeasproviders_shellvar
     component-type: puppet-module
@@ -99,7 +121,9 @@ components:
       - url: https://github.com/simp/augeasproviders_shellvar
         type: git
         primary: true
-  augeasproviders_ssh: &augeasproviders_ssh
+  augeasproviders_ssh:
+    aliases:
+      - herculesteam-augeasproviders_ssh:
     authoritative: true
     component-name: herculesteam-augeasproviders_ssh
     component-type: puppet-module
@@ -108,7 +132,9 @@ components:
       - url: https://github.com/simp/augeasproviders_ssh
         type: git
         primary: true
-  augeasproviders_sysctl: &augeasproviders_sysctl
+  augeasproviders_sysctl:
+    aliases:
+      - herculesteam-augeasproviders_sysctl:
     authoritative: true
     component-name: herculesteam-augeasproviders_sysctl
     component-type: puppet-module
@@ -117,7 +143,10 @@ components:
       - url: https://github.com/simp/augeasproviders_sysctl
         type: git
         primary: true
-  camptocamp-kmod: &puppet-kmod
+  camptocamp-kmod:
+    aliases:
+      - puppet-kmod:
+          depracated: true
     authoritative: false
     component-name: pupmod-camptocamp-kmod
     component-type: puppet-module
@@ -126,7 +155,10 @@ components:
       - url: https://github.com/simp/puppet-kmod
         type: git
         primary: true
-  cristifalcas-journald: &simp-journald
+  cristifalcas-journald:
+    aliases:
+      - pupmod-simp-journald:
+          deprecated: true
     authoritative: true
     component-name: pupmod-simp-journald
     component-type: puppet-module
@@ -135,7 +167,10 @@ components:
       - url: https://github.com/simp/pupmod-simp-journald
         type: git
         primary: true
-  elastic-elasticsearch: &puppet-elasticsearch
+  elastic-elasticsearch:
+    aliases:
+      - puppet-elasticsearch:
+          deprecated: true
     authoritative: false
     component-name: elastic-elasticsearch
     component-type: puppet-module
@@ -144,7 +179,10 @@ components:
       - url: https://github.com/simp/puppet-elasticsearch
         type: git
         primary: true
-  elastic-logstash: &puppet-logstash
+  elastic-logstash:
+    aliases:
+      - puppet-logstash:
+          deprecated: true
     authoritative: false
     component-name: simp-logstash
     component-type: puppet-module
@@ -153,33 +191,10 @@ components:
       - url: https://github.com/simp/puppet-logstash
         type: git
         primary: true
-  herculesteam-augeasproviders:
-    <<: *augeasproviders
-  herculesteam-augeasproviders_apache:
-    <<: *augeasproviders_apache
-  herculesteam-augeasproviders_base:
-    <<: *augeasproviders_base
-  herculesteam-augeasproviders_core:
-    <<: *augeasproviders_core
-  herculesteam-augeasproviders_grub:
-    <<: *augeasproviders_grub
-  herculesteam-augeasproviders_mounttab:
-    <<: *augeasproviders_mounttab
-  herculesteam-augeasproviders_nagios:
-    <<: *augeasproviders_nagios
-  herculesteam-augeasproviders_pam:
-    <<: *augeasproviders_pam
-  herculesteam-augeasproviders_postgresql:
-    <<: *augeasproviders_postgresql
-  herculesteam-augeasproviders_puppet:
-    <<: *augeasproviders_puppet
-  herculesteam-augeasproviders_shellvar:
-    <<: *augeasproviders_shellvar
-  herculesteam-augeasproviders_ssh:
-    <<: *augeasproviders_ssh
-  herculesteam-augeasproviders_sysctl:
-    <<: *augeasproviders_sysctl
-  onyxpoint-gpasswd: &puppet-gpasswd
+  onyxpoint-gpasswd:
+    aliases:
+      - puppet-gpasswd:
+          deprecated: true
     authoritative: true
     component-name: onyxpoint-gpasswd
     component-type: puppet-module
@@ -736,7 +751,11 @@ components:
       - url: https://github.com/simp/pupmod-simp-simp
         type: git
         primary: true
-  pupmod-simp-simp_apache: &simp-simp_apache
+  pupmod-simp-simp_apache:
+    aliases:
+      - simp-simp_apache:
+      - pupmod-simp-apache:
+          deprecated: true
     authoritative: true
     component-name: pupmod-simp-simp_apache
     component-type: puppet-module
@@ -1285,7 +1304,10 @@ components:
       - url: https://github.com/simp/puppet-snmp
         type: git
         primary: true
-  richardc-datacat: &puppet-datacat
+  richardc-datacat:
+    aliases:
+      - puppet-datacat:
+          deprecated: true
     authoritative: true
     component-name: richardc-datacat
     component-type: puppet-module
@@ -1375,7 +1397,10 @@ components:
       - url: https://github.com/simp/simp-gpgkeys
         primary: true
         type: git
-  simp-haveged: &puppet-haveged
+  simp-haveged:
+    aliases:
+      - puppet-haveged:
+          deprecated: true
     authoritative: true
     component-name: pupmod-simp-haveged
     component-type: puppet-module
@@ -1384,7 +1409,10 @@ components:
       - url: https://github.com/simp/pupmod-simp-haveged
         type: git
         primary: true
-  simp-rsync_skeleton: &simp-rsync-skeleton
+  simp-rsync_skeleton:
+    aliases:
+      - simp-rsync:
+          deprecated: true
     authoritative: true
     component-name: simp-rsync-skeleton
     component-type: rpm
@@ -1393,8 +1421,6 @@ components:
       - url: https://github.com/simp/simp-rsync-skeleton
         type: git
         primary: true
-  simp-simp_apache:
-    <<: *simp-simp_apache
   simp-simp_gitlab:
     authoritative: true
     component-name: pupmod-simp-simp_gitlab
@@ -1413,7 +1439,10 @@ components:
       - url: https://github.com/simp/pupmod-simp-simp_snmpd
         type: git
         primary: true
-  puppet-systemd: &puppet-systemd
+  puppet-systemd:
+    aliases:
+      - camptocamp-systemd:
+          deprecated: true
     authoritative: true
     component-name: camptocamp-systemd
     component-type: puppet-module
@@ -1449,7 +1478,10 @@ components:
       - url: https://github.com/solarkennedy/puppet-consul
         type: git
         primary: true
-  trlinkin-nsswitch: &puppet-nsswitch
+  trlinkin-nsswitch:
+    aliases:
+      - puppet-nsswitch:
+          deprecated: true
     authoritative: true
     component-name: trlinkin-nsswitch
     component-type: puppet-module
@@ -1486,36 +1518,12 @@ components:
       - url: https://github.com/simp/binford2k-node_encrypt
         type: git
         primary: true
-  camptocamp-systemd:
-    <<: *puppet-systemd
-    deprecated: true
-  pupmod-simp-apache:
-    <<: *simp-simp_apache
-    deprecated: true
-  pupmod-simp-journald:
-    <<: *simp-journald
-    deprecated: true
-  puppet-datacat:
-    <<: *puppet-datacat
-    deprecated: true
-  puppet-elasticsearch:
-    <<: *puppet-elasticsearch
-    deprecated: true
-  puppet-gpasswd:
-    <<: *puppet-gpasswd
-    deprecated: true
-  puppet-haveged:
-    <<: *puppet-haveged
-    deprecated: true
-  puppet-kmod:
-    <<: *puppet-kmod
-    deprecated: true
-  puppet-logstash:
-    <<: *puppet-logstash
-    deprecated: true
-  puppet-nsswitch:
-    <<: *puppet-nsswitch
-    deprecated: true
-  simp-rsync:
-    <<: *simp-rsync-skeleton
-    deprecated: true
+  ruby_task_helper:
+    authoritative: true
+    component-type: puppet-module
+    component-name: puppetlabs-ruby_task_helper
+    format: git
+    locations:
+      - url: https://github.com/simp/pupmod-puppetlabs-ruby_task_helper
+        type: git
+        primary: true
