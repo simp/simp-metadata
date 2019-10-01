@@ -113,7 +113,7 @@ releases:
     puppet-datacat:
       ref: 93b88b78364ee35f2bf39ca98ad08b78f423c1d2
       tag: simp6.0.0-0.6.2
-    puppet-timezone:
+    simp-timezone:
       ref: 9344a1d094313b7d94e1ee4da4be9bda441c2708
       tag: simp6.0.0-3.3.0
     pupmod-simp-acpid:
