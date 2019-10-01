@@ -1,0 +1,293 @@
+---
+components:
+  cristifalcas-journald:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-journald
+    locations:
+    - url: https://github.com/simp/pupmod-simp-journald
+      type: git
+      primary: true
+  elastic-elasticsearch:
+    authoritative: false
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-elastic-elasticsearch
+    locations:
+    - url: https://github.com/simp/puppet-elasticsearch
+      type: git
+      primary: true
+  elastic-logstash:
+    authoritative: false
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-elastic-logstash
+    locations:
+    - url: https://github.com/simp/puppet-logstash
+      type: git
+      primary: true
+  pupmod-compliance:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-compliance
+    locations:
+    - url: https://github.com/trevor-vaughan/pupmod-compliance
+      type: git
+      primary: true
+  simp-backuppc:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-backuppc
+    locations:
+    - url: https://github.com/simp/pupmod-simp-backuppc
+      type: git
+      primary: true
+  simp-cgroups:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-cgroups
+    locations:
+    - url: https://github.com/simp/pupmod-simp-cgroups
+      type: git
+      primary: true
+  simp-concat:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-simpcat
+    locations:
+    - url: https://github.com/simp/pupmod-simp-concat
+      type: git
+      primary: true
+  simp-foreman:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-foreman
+    locations:
+    - url: https://github.com/simp/pupmod-simp-foreman
+      type: git
+      primary: true
+  simp-ganglia:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-ganglia
+    locations:
+    - url: https://github.com/simp/pupmod-simp-ganglia
+      type: git
+      primary: true
+  simp-gfs2:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-gfs2
+    locations:
+    - url: https://github.com/simp/pupmod-simp-gfs2
+      type: git
+      primary: true
+  simp-kibana:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-kibana
+    locations:
+    - url: https://github.com/simp/pupmod-simp-kibana
+      type: git
+      primary: true
+  simp-libkv:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-libkv
+    locations:
+    - url: https://github.com/simp/pupmod-simp-libkv
+      type: git
+      primary: true
+  simp-multipathd:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-multipathd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-multipathd
+      type: git
+      primary: true
+  simp-nscd:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-nscd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-nscd
+      type: git
+      primary: true
+  simp-openldap:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-openldap
+    locations:
+    - url: https://github.com/simp/pupmod-simp-openldap
+      type: git
+      primary: true
+  simp-simp_consul:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-simp_consul
+    locations:
+    - url: https://github.com/simp/pupmod-simp-simp_consul
+      type: git
+      primary: true
+  simp-snmpd:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-snmpd
+    locations:
+    - url: https://github.com/simp/pupmod-simp-snmpd
+      type: git
+      primary: true
+  simp-sysctl:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-sysctl
+    locations:
+    - url: https://github.com/simp/pupmod-simp-sysctl
+      type: git
+      primary: true
+  puppet-archive:
+    authoritative: false
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: puppet-archive
+    locations:
+    - url: https://github.com/simp/puppet-archive
+      type: git
+      primary: true
+  saz-memcached:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: saz-memcached
+    locations:
+    - url: https://github.com/simp/puppet-memcached
+      type: git
+      primary: true
+  simp-timezone:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-simp-timezone
+    locations:
+    - url: https://github.com/simp/pupmod-simp-timezone
+      type: git
+      primary: true
+  richardc-datacat:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-richardc-datacat
+    locations:
+    - url: https://github.com/simp/puppet-datacat
+      type: git
+      primary: true
+  rubygem-simp-processgraph:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    module-name: rubygem-rubygem_simp_processgraph
+    package-name: rubygem-simp-processgraph
+    locations:
+    - url: https://github.com/simp/rubygem-simp-processgraph
+      type: git
+      primary: true
+  simp-rake-helpers:
+    authoritative: true
+    component-type: rubygem
+    deprecated: true
+    format: gem
+    package-name: rubygem-simp-rake-helpers
+    locations:
+    - url: https://github.com/simp/rubygem-simp-rake-helpers
+      type: git
+      primary: true
+  simp-systemd:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-camptocamp-systemd
+    locations:
+    - url: https://github.com/simp/puppet-systemd
+      type: git
+      primary: true
+  solarkennedy-consul:
+    authoritative: false
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-solarkennedy-consul
+    locations:
+    - url: https://github.com/solarkennedy/puppet-consul
+      type: git
+      primary: true
+  vshn-gitlab:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-vshn-gitlab
+    locations:
+    - url: https://github.com/simp/puppet-gitlab.git
+      type: git
+      primary: true
+  binford2k-node_encrypt:
+    authoritative: false
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: binford2k-node_encrypt
+    locations:
+    - url: https://github.com/simp/binford2k-node_encrypt
+      type: git
+      primary: true
+  voxpupuli-gitlab:
+    authoritative: true
+    component-type: puppet-module
+    deprecated: true
+    format: git
+    package-name: pupmod-puppet-gitlab
+    locations:
+    - url: https://github.com/simp/puppet-gitlab
+      type: git
+      primary: true
