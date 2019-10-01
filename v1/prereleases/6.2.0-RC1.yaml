@@ -9,7 +9,7 @@ releases:
       ref: dfdd6a349526280922d5d81a82e743330c73dd38
       branch: master
       tag: 6.2.0-RC1
-    pupmod-simp-rsync:
+    simp-rsync:
       ref: b3534c8eb35d9dd527e6459a54277feb8d614f80
       branch: master
       tag: 6.0.6

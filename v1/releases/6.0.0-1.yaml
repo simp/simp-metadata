@@ -3,7 +3,7 @@ releases:
   6.0.0-1:
     simp-doc:
       ref: 79c18f732f6c73b8bff21809c639771a892722f2
-    pupmod-simp-rsync:
+    simp-rsync:
       ref: 5a065194f3369e29a7d3e092722ffd1bf9b8b822
     rubygem-simp-cli:
       ref: 7e724639c8e036d651ec81d59ec67417c3c52eb9

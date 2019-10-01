@@ -265,7 +265,7 @@ releases:
       ref: 8c2a381b9e70b8093c18e4225e393edc1f63f489
       type: ssh
       path: "/"
-    pupmod-simp-rsync:
+    simp-rsync:
       ref: 8ad5c02b32154abc169a48a4d9675966ad744872
       type: ssh
       path: "/"

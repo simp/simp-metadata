@@ -241,7 +241,7 @@ releases:
       ref: 8c2a381b9e70b8093c18e4225e393edc1f63f489
       type: https
       path: "/"
-    pupmod-simp-rsync:
+    simp-rsync:
       ref: fa1b1af84f4a6041735fef202b002647504f3c2f
       type: https
       path: "/"

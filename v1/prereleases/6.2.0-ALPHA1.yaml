@@ -4,10 +4,10 @@ releases:
     simp-doc:
       ref: 79c18f732f6c73b8bff21809c639771a892722f2
       tag: 6.1.0-0
-    pupmod-simp-rsync:
+    simp-rsync:
       ref: b1701c2141a2f4eb1638eb5b666793eabdc33c4f
       tag: 6.0.5
-    simp-rsync:
+    simp-rsync-skeleton:
       ref: d03a15bfbdb7fd756b71e3e8e10b2fc7bbaa9f31
     simp-adapter:
       ref: 6d8208fb618bdb4e05e7696a76686bb8010dc6a1

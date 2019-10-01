@@ -5,7 +5,7 @@ releases:
       ref: 2487fe946410fb4b428796d2376f7c1b8e344e60
       type: https
       path: "/src"
-    pupmod-simp-rsync:
+    simp-rsync:
       ref: 8dcf5878387311664c49349f18b161eb67229dae
       type: https
       path: "/src/puppet/modules"
