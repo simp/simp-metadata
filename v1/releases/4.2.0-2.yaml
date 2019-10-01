@@ -5,7 +5,7 @@ releases:
       ref: 5f2f6fb48e74006fb9cb3018624069287f8a526c
       type: ssh
       path: "/"
-    simp-rsync:
+    simp-rsync-skeleton:
       ref: 977e9eb575dc2a556fd3c0695f967b947252c180
       type: ssh
       path: "/"

@@ -4,7 +4,7 @@ releases:
     simp-doc:
       ref: b48525c617b045e4e1ae2dd219240eaf80910fe9
       branch: master
-    simp-rsync:
+    simp-rsync-skeleton:
       ref: d03a15bfbdb7fd756b71e3e8e10b2fc7bbaa9f31
       branch: master
     pupmod-simp-rsync:

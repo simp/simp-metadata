@@ -5,7 +5,7 @@ releases:
       ref: 2487fe946410fb4b428796d2376f7c1b8e344e60
       type: https
       path: "/src"
-    simp-rsync:
+    simp-rsync-skeleton:
       ref: 977e9eb575dc2a556fd3c0695f967b947252c180
       type: https
       path: "/src"
