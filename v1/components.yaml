@@ -1093,7 +1093,7 @@ components:
     authoritative: true
     component-type: rubygem
     format: gem
-    module_name: rubygem-rubygem_simp_cli
+    module-name: rubygem-rubygem_simp_cli
     package-name: rubygem-simp-cli
     locations:
     - url: https://github.com/simp/rubygem-simp-cli
