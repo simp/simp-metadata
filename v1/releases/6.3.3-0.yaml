@@ -13,7 +13,7 @@ releases:
       ref: 5ff3d2016cfbaf047ccf150298cc1c4c6aabf130
       branch: master
       tag: 6.1.0
-    simp-rsync-skeleton:
+    simp-rsync-skeleton-legacy:
       ref: aaf439407429acd8a1f07d9f7505eb232a8bcd62
       branch: master
       tag: 6.2.1

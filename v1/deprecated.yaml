@@ -241,6 +241,17 @@ components:
     - url: https://github.com/simp/rubygem-simp-rake-helpers
       type: git
       primary: true
+  simp-rsync-skeleton_legacy:
+    authoritative: true
+    component-type: rpm
+    deprecated: true
+    format: file
+    module-name: simp-rsync_data
+    package-name: simp-rsync
+    locations:
+    - url: https://github.com/simp/simp-rsync-skeleton
+      type: git
+      primary: true
   simp-systemd:
     authoritative: true
     component-type: puppet-module
