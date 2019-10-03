@@ -1277,7 +1277,7 @@ components:
       primary: true
   simp-selinux-policy:
     authoritative: true
-    component-type: assets
+    component-type: asset
     format: git
     module-name: simp-simp_selinux_policy
     package-name: simp-selinux-policy
