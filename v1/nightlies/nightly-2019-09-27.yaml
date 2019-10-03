@@ -467,9 +467,3 @@ releases:
     puppet-archive:
       ref: e978a386ac41d957b1aa935f887495115ee478ee
       tag: v4.2.0
-    simp-rake-helpers:
-      ref: 8512949e9164219482cdaf5c35522ec1bbd3ae91
-      tag: 5.9.1
-    pkg-r10k:
-      tag: 2.6.2-1
-      ref: 7c699efd368aa0c6d5e6002749dadc5696002235
