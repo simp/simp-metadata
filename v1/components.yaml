@@ -1164,6 +1164,16 @@ components:
     - url: https://github.com/simp/simp-rsync-skeleton
       type: git
       primary: true
+  simp-rsync-skeleton_legacy:
+    authoritative: true
+    component-type: rpm
+    format: file
+    module-name: simp-rsync_data_pre64
+    package-name: simp-rsync-skeleton
+    locations:
+    - url: https://github.com/simp/simp-rsync-skeleton
+      type: git
+      primary: true
   simp-simp_gitlab:
     authoritative: true
     component-type: puppet-module
