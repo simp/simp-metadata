@@ -912,7 +912,8 @@ components:
     authoritative: true
     component-type: puppet-module
     format: git
-    package-name: simp-vox_selinux
+    module-name: simp-vox_selinux
+    package-name: pupmod-simp-vox_selinux
     locations:
     - url: https://github.com/simp/pupmod-voxpupuli-selinux
       type: git
