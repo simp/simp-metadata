@@ -1,6 +1,9 @@
 ---
 releases:
   nightly-test:
+    simp-doc:
+      tag: 6.4.0-0
+      ref: 673d2cd72afbded70484701898caaae9a5623607
     rubygem-simp-cli:
       tag: 5.0.3
       ref: 44eaa3e04d3e5b2c0b1565c01a5581d9ad4ef44d
